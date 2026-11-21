@@ -81,6 +81,13 @@
           "avaliacoes": 189,
           "preco": 92.41,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/1z41eYz",
+          "preco": 92.41,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 299
         }
       }
     },
@@ -106,6 +113,13 @@
           "avaliacoes": 2399,
           "preco": 479,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/2QN5C4z",
+          "preco": 455.05,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 13637
         }
       }
     },
@@ -132,6 +146,13 @@
           "avaliacoes": 96998,
           "preco": 289,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/24r85td",
+          "preco": 599.99,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 100615
         }
       }
     },
@@ -158,6 +179,13 @@
           "avaliacoes": 1499,
           "preco": 739,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/23fEYAf",
+          "preco": 655.11,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 550
         }
       }
     },
@@ -182,6 +210,13 @@
           "url": "https://amzn.to/4uxpUfD",
           "nota": 4.7,
           "avaliacoes": 33511
+        },
+        "ml": {
+          "url": "https://meli.la/12D7djD",
+          "preco": 299.9,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 61239
         }
       }
     },
@@ -208,6 +243,13 @@
           "avaliacoes": 879,
           "preco": 197.91,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/1NmSgS6",
+          "preco": 197.99,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 2254
         }
       }
     },
@@ -234,6 +276,13 @@
           "avaliacoes": 40,
           "preco": 132.97,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/2G2wapK",
+          "preco": 91.17,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 1521
         }
       }
     },
@@ -259,6 +308,13 @@
           "avaliacoes": 23048,
           "preco": 26.91,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/1UptpUn",
+          "preco": 69.9,
+          "verificado": "2026-11-21",
+          "nota": 4.8,
+          "avaliacoes": 301
         }
       }
     },
@@ -285,6 +341,13 @@
           "avaliacoes": 940,
           "preco": 27.67,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/26v5vma",
+          "preco": 22.78,
+          "verificado": "2026-11-21",
+          "nota": 4.8,
+          "avaliacoes": 179
         }
       }
     },
@@ -311,6 +374,13 @@
           "avaliacoes": 394,
           "preco": 33.32,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/1MkpRX5",
+          "preco": 32.38,
+          "verificado": "2026-11-21",
+          "nota": 4.8,
+          "avaliacoes": 133
         }
       }
     },
@@ -336,6 +406,13 @@
           "avaliacoes": 34869,
           "preco": 519,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/133Khta",
+          "preco": 899,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 2255
         }
       }
     },
@@ -354,7 +431,15 @@
       "contras": [
         "Uso mais pessoal"
       ],
-      "lojas": {}
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/18DikgL",
+          "preco": 212.8,
+          "verificado": "2026-11-21",
+          "nota": 4.8,
+          "avaliacoes": 786
+        }
+      }
     },
     {
       "img": "imagens/posts/presente-dia-dos-namorados/p13-r.webp",
@@ -379,6 +464,13 @@
           "avaliacoes": 330,
           "preco": 380.17,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/19dzV2w",
+          "preco": 289,
+          "verificado": "2026-11-21",
+          "nota": 4.7,
+          "avaliacoes": 569
         }
       }
     },
@@ -404,6 +496,13 @@
           "avaliacoes": 471,
           "preco": 44.9,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/1t3rkb9",
+          "preco": 32.28,
+          "verificado": "2026-11-21",
+          "nota": 4.7,
+          "avaliacoes": 1829
         }
       }
     },
@@ -430,6 +529,13 @@
           "avaliacoes": 647,
           "preco": 22.98,
           "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/2iQobxY",
+          "preco": 20.9,
+          "verificado": "2026-11-21",
+          "nota": 4.7,
+          "avaliacoes": 902
         }
       }
     }
