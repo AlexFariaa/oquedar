@@ -1,0 +1,53 @@
+# Publica o site O que dar? na Hostinger.
+# Roda quando algo novo é enviado para o ramo main e de hora em hora (para soltar os posts agendados).
+# Gera as páginas, monta o site em site/ e envia para o ramo "publicado", que a Hostinger copia para o ar.
+name: Publicar site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Gerar páginas
+        run: node _fonte-layout/gerar.js
+      - name: Montar o site final (endereços, sitemap, robots, .htaccess)
+        run: node _fonte-layout/final.js
+      - name: Enviar para o ramo "publicado"
+        id: envio
+        run: |
+          cd site
+          git init -q
+          git config user.name "robo-oquedar"
+          git config user.email "robo-oquedar@users.noreply.github.com"
+          git checkout -q -b publicado
+          git add -A
+          git commit -q -m "Site gerado em $(date -u +%Y-%m-%dT%H:%MZ)"
+          ANTES=$(git ls-remote "https://github.com/${GITHUB_REPOSITORY}.git" refs/heads/publicado | cut -f1)
+          git fetch -q "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" publicado || true
+          if [ -n "$ANTES" ] && git diff --quiet FETCH_HEAD HEAD -- 2>/dev/null; then
+            echo "Nada mudou no site; nada a publicar."
+            echo "mudou=nao" >> "$GITHUB_OUTPUT"
+          else
+            git push -q -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" publicado
+            echo "mudou=sim" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Avisar a Hostinger para copiar o site
+        if: steps.envio.outputs.mudou == 'sim' && vars.HOSTINGER_WEBHOOK != ''
+        run: curl -fsS -X POST "${{ vars.HOSTINGER_WEBHOOK }}" || echo "Hostinger não respondeu; o site atualiza na próxima vez."

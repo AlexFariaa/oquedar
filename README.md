@@ -1,9 +1,10 @@
 # O que dar?
 
-Site de ideias de presente (oquedar.com), feito em HTML, CSS e JavaScript, sem framework.
+Fonte do site oquedar.com (HTML, CSS e JavaScript, sem framework).
 
-- `index.html`: página inicial
-- posts, páginas de texto e categorias: um arquivo `.html` para cada página
-- `imagens/`: todas as imagens usadas (créditos em `imagens/CREDITOS.md`)
+- `conteudo/posts/<post>/`: texto do artigo e `post.json` (produtos, links e preços por loja, status e data de publicação)
+- `catalogo/produtos.json`: todos os produtos pesquisados e onde foram usados
+- `_fonte-layout/`: gerador das páginas
+- `.github/workflows/publicar.yml`: robô que gera o site, solta os posts agendados e envia para o ramo `publicado`, que a Hostinger coloca no ar
 
-Preços, notas e links de oferta são exemplos até a integração com as lojas.
+Como funciona a produção de posts: `conteudo/COMO-FUNCIONA.md`.

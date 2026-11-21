@@ -1,0 +1,17 @@
+# gerado (o robô gera de novo a cada publicação)
+/site/
+/site-oquedar.zip
+/*.html
+# a direção criativa tem imagens de referência do Pinterest (sem licença): fica fora do repositório público
+# material de trabalho que não vai para o site
+/_originais-imagens/
+/referencias/
+/*.pdf
+/.claude/
+/_fonte-layout/posts/*.html
+/_fonte-layout/*.antes-ajuste-*.js
+/_fonte-layout/extras/
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini

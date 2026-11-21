@@ -1,0 +1,382 @@
+{
+  "slug": "presente-para-quem-gosta-de-correr",
+  "status": "publicado",
+  "data": "2026-06-23",
+  "publicar": "2026-06-23T09:00:00-03:00",
+  "titulo": "Presente para Quem Gosta de Correr: 15 Ideias que Todo Corredor Vai Gostar",
+  "categorias": [
+    "interesse",
+    "ocasiao"
+  ],
+  "cat": "Interesse · Ocasião",
+  "trilha": "interesse",
+  "trilhaAtual": "Corrida",
+  "cor": "pessego",
+  "pre": "correr-",
+  "capa": {
+    "src": "imagens/posts/presente-para-quem-gosta-de-correr/capa.avif",
+    "alt": "ideia de presente para quem gosta de correr, corredora treinando ao ar livre utilizando acessórios de corrida"
+  },
+  "cartao": {
+    "src": "imagens/capa-presente-para-quem-gosta-de-correr.avif",
+    "alt": "Mulher sorrindo enquanto corre ao ar livre"
+  },
+  "fatos": [
+    [
+      "15 ideias",
+      "do fone ao livro de corrida"
+    ],
+    [
+      "5 perfis de corredor",
+      "tecnologia, conforto, treino, leitura"
+    ],
+    [
+      "3 lojas comparadas",
+      "Amazon, Mercado Livre e Shopee"
+    ]
+  ],
+  "pouco": [
+    [
+      1,
+      "Melhor no geral",
+      "Relógio com GPS que ajuda a acompanhar cada treino."
+    ],
+    [
+      5,
+      "Melhor custo",
+      "Pequeno, útil e entra na rotina de quem corre sempre."
+    ],
+    [
+      11,
+      "Mais criativo",
+      "Um livro que inspira e foge dos acessórios."
+    ]
+  ],
+  "posNemTodo": 10,
+  "marcas": [
+    "O segredo está em escolher algo que realmente faça parte da rotina dessa pessoa.",
+    "aquele tipo de presente que provavelmente será usado muito mais do que apenas uma vez"
+  ],
+  "links": [],
+  "produtos": [
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p1-r.webp",
+      "alt": "Fone de ouvido esportivo sem fio utilizado durante treino de corrida ao ar livre",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Tecnologia"
+      ],
+      "pros": [
+        "Liberdade para treinar sem fio",
+        "Fica firme durante a corrida"
+      ],
+      "contras": [
+        "Depende de carregar a bateria"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4gApfqy"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p2-r.webp",
+      "alt": "Relógio Garmin Forerunner 165 monitorando métricas de corrida durante treinamento",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Tecnologia",
+        "Treino"
+      ],
+      "pros": [
+        "GPS e métricas completas",
+        "Tela fácil de ler no treino"
+      ],
+      "contras": [
+        "Investimento mais alto"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4xYTk9I"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p3-r.webp",
+      "alt": "Cinto de corrida FlipBelt utilizado para transportar celular e objetos durante a corrida",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Acessórios"
+      ],
+      "pros": [
+        "Leva celular e chaves sem balançar",
+        "Discreto e confortável"
+      ],
+      "contras": [
+        "Depende de acertar o tamanho"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/43Moq6y"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p4-r.webp",
+      "alt": "Kindle Paperwhite sendo utilizado para leitura sobre corrida e desenvolvimento pessoal",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Leitura",
+        "Descanso"
+      ],
+      "pros": [
+        "Boa para os dias de descanso",
+        "Leve e com tela que não cansa"
+      ],
+      "contras": [
+        "Foge do tema corrida"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4eyds9C"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p5-r.webp",
+      "alt": "Pistola de massagem Arboleaf auxiliando na recuperação muscular após treino de corrida",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Recuperação"
+      ],
+      "pros": [
+        "Ajuda a relaxar depois do treino",
+        "Várias intensidades"
+      ],
+      "contras": [
+        "Pesada para levar na bolsa"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4w5oRoA"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p6-r.webp",
+      "alt": "Meia de compressão Arrow Muvin utilizada por corredor durante treino de longa distância",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Conforto"
+      ],
+      "pros": [
+        "Preço acessível",
+        "Ajuda na circulação nos longões"
+      ],
+      "contras": [
+        "Exige saber o tamanho"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4uRSCrQ"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p7-r.webp",
+      "alt": "Garmin Forerunner 55 exibindo informações de ritmo e distância durante corrida",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Tecnologia",
+        "Treino"
+      ],
+      "pros": [
+        "GPS bom para quem está começando",
+        "Bateria dura bastante"
+      ],
+      "contras": [
+        "Menos recursos que o 165"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4g0pb3h"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p8-r.webp",
+      "alt": "Mochila de hidratação CamelBak utilizada em corrida de longa distância e trilhas",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Treino",
+        "Acessórios"
+      ],
+      "pros": [
+        "Hidratação nos treinos longos",
+        "Bolsos para levar o essencial"
+      ],
+      "contras": [
+        "Mais útil para quem corre longas distâncias"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4guVTtG"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p9-r.webp",
+      "alt": "Óculos esportivo Oakley Sutro Lite sendo utilizado durante corrida em ambiente externo",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Acessórios"
+      ],
+      "pros": [
+        "Protege dos raios solares",
+        "Leve e firme no rosto"
+      ],
+      "contras": [
+        "Valor mais alto"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4vppzwO"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p10-r.webp",
+      "alt": "Smartwatch Amazfit Bip 5 acompanhando dados de treino e atividade física",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Tecnologia"
+      ],
+      "pros": [
+        "Bom custo para um relógio com GPS",
+        "Bateria longa"
+      ],
+      "contras": [
+        "Menos preciso que os Garmin"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4abRurQ"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p11-r.webp",
+      "alt": "Manguito UV Lupo Sport oferecendo proteção solar durante corrida ao ar livre",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Conforto"
+      ],
+      "pros": [
+        "Protege do sol nos braços",
+        "Barato e fácil de acertar"
+      ],
+      "contras": [
+        "Proposta simples"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/43MjP4j"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p12.avif",
+      "alt": "Livro Nascidos Para Correr recomendado para apaixonados por corrida e maratonas",
+      "cheia": true,
+      "cor": "pessego",
+      "perfil": [
+        "Leitura"
+      ],
+      "pros": [
+        "Inspira quem ama correr",
+        "Ótimo custo"
+      ],
+      "contras": [
+        "Para quem gosta de ler"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/3SegXL7"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p13-r.webp",
+      "alt": "Boné Adidas Superlite 3.0 utilizado para proteção solar durante corridas e treinos",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Acessórios"
+      ],
+      "pros": [
+        "Leve e respirável",
+        "Protege do sol"
+      ],
+      "contras": [
+        "Pouco diferente de um boné comum"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4xKAWB2"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p14-r.webp",
+      "alt": "Fone JBL Endurance Peak 3 sem fio utilizado durante treino intenso de corrida",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Tecnologia"
+      ],
+      "pros": [
+        "Resistente ao suor",
+        "Encaixe firme na orelha"
+      ],
+      "contras": [
+        "Precisa de bateria"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4w4TwT4"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-para-quem-gosta-de-correr/p15-r.webp",
+      "alt": "Garrafa térmica Stanley Fast Flow Aerolight utilizada para hidratação antes e depois da corrida",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Hidratação"
+      ],
+      "pros": [
+        "Mantém a água gelada",
+        "Bonito para o dia a dia"
+      ],
+      "contras": [
+        "Não é feita para levar correndo"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4gBFBPD"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "slug": "presente-dia-dos-namorados",
+  "status": "publicado",
+  "data": "2026-06-11",
+  "publicar": "2026-06-11T09:00:00-03:00",
+  "titulo": "15 Ideias de Presente para o Dia dos Namorados Que Fogem do Óbvio",
+  "categorias": [
+    "namoro",
+    "relacionamento"
+  ],
+  "cat": "Namoro · Relacionamento",
+  "trilha": "namoro",
+  "trilhaAtual": "Dia dos Namorados",
+  "cor": "rosa",
+  "pre": "ddn-",
+  "capa": {
+    "src": "imagens/capa-presente-dia-dos-namorados.avif",
+    "alt": "Casal sorrindo trocando presente à luz de velas"
+  },
+  "cartao": {
+    "src": "imagens/capa-presente-dia-dos-namorados.avif",
+    "alt": "Casal sorrindo trocando presente à luz de velas"
+  },
+  "fatos": [
+    [
+      "15 ideias",
+      "fora do óbvio, do LEGO ao Kindle"
+    ],
+    [
+      "4 tipos de casal",
+      "românticos, criativos, caseiros, práticos"
+    ],
+    [
+      "3 lojas comparadas",
+      "Amazon, Mercado Livre e Shopee"
+    ]
+  ],
+  "pouco": [
+    [
+      3,
+      "Melhor no geral",
+      "Imprime as fotos do casal na hora e vira lembrança."
+    ],
+    [
+      7,
+      "Melhor custo",
+      "Diversão garantida para os dois."
+    ],
+    [
+      0,
+      "Mais criativo",
+      "Flores que duram e ainda viram programa a dois."
+    ]
+  ],
+  "posNemTodo": null,
+  "marcas": [
+    "fazer a outra pessoa sorrir",
+    "criar momentos juntos em vez de apenas trocar objetos"
+  ],
+  "links": [],
+  "produtos": [
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p1-r.webp",
+      "alt": "Kit LEGO Cherry Blossoms de flores de cerejeira montado por casal como presente criativo para o Dia dos Namorados",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Criativo"
+      ],
+      "pros": [
+        "Flores que não murcham",
+        "Montar junto vira programa"
+      ],
+      "contras": [
+        "Valor um pouco mais alto"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4xlg0jT"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p2-r.webp",
+      "alt": "",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Casa"
+      ],
+      "pros": [
+        "Café de qualidade em casa",
+        "Compacta"
+      ],
+      "contras": [
+        "Cápsulas têm custo extra"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4onZBaD"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p3-r.webp",
+      "alt": "Echo Pop com Alexa em ambiente moderno sendo uma opção de presente para o Dia dos Namorados",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Tecnologia",
+        "Casa"
+      ],
+      "pros": [
+        "Útil no dia a dia",
+        "Fácil de configurar"
+      ],
+      "contras": [
+        "Precisa de internet em casa"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/3RR1r7L"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p4-r.webp",
+      "alt": "Impressora FUJIFILM Instax Mini Link 3 imprimindo fotos de casal para guardar lembranças especiais",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Romântico",
+        "Tecnologia"
+      ],
+      "pros": [
+        "Imprime fotos do celular",
+        "Vira lembrança na hora"
+      ],
+      "contras": [
+        "Filme tem custo extra"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/49RJ8W0"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p5-r.webp",
+      "alt": "Fire TV Stick HD transformando televisão em central de streaming para noites de filmes em casal",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Casa",
+        "Lazer"
+      ],
+      "pros": [
+        "Mais filmes e séries em casa",
+        "Simples de instalar"
+      ],
+      "contras": [
+        "Depende de assinaturas"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4uxpUfD"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p6-r.webp",
+      "alt": "Máquina de fondue elétrica sendo utilizada por casal em jantar romântico no Dia dos Namorados",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Casa",
+        "Romântico"
+      ],
+      "pros": [
+        "Ótima para um jantar a dois",
+        "Diferente do comum"
+      ],
+      "contras": [
+        "Uso mais ocasional"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/3QvaWce"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p7-r.webp",
+      "alt": "Kit para drinks profissional utilizado por casal para preparar coquetéis em casa",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Criativo",
+        "Casa"
+      ],
+      "pros": [
+        "Rende noites divertidas",
+        "Kit completo"
+      ],
+      "contras": [
+        "Só para quem gosta de drinks"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/49RHhk7"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p8-r.webp",
+      "alt": "Casal jogando UNO No Mercy durante noite divertida em casa no Dia dos Namorados",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Lazer"
+      ],
+      "pros": [
+        "Diversão garantida",
+        "Preço baixo"
+      ],
+      "contras": [
+        "Melhor com mais pessoas"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4v2Mn5l"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p9.avif",
+      "alt": "Jogo de cartas para casais promovendo conversas e momentos especiais a dois",
+      "cheia": true,
+      "cor": "pessego",
+      "perfil": [
+        "Romântico",
+        "Criativo"
+      ],
+      "pros": [
+        "Rende boas conversas",
+        "Aproxima o casal"
+      ],
+      "contras": [
+        "Pede tempo a dois"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4um6dY9"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p10.avif",
+      "alt": "Livro personalizado Escrevi um Livro Sobre Nós sendo preenchido por casal apaixonado",
+      "cheia": true,
+      "cor": "lavanda",
+      "perfil": [
+        "Romântico",
+        "Personalizado"
+      ],
+      "pros": [
+        "Muito pessoal",
+        "Barato e marcante"
+      ],
+      "contras": [
+        "Pede tempo para preencher"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/442rhbs"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p11-r.webp",
+      "alt": "Kindle 11ª geração da Amazon como presente para quem gosta de leitura no Dia dos Namorados",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Leitura"
+      ],
+      "pros": [
+        "Leve e prático",
+        "Tela que não cansa"
+      ],
+      "contras": [
+        "Só para quem gosta de ler"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/43p0Mgj"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p12-r.webp",
+      "alt": "Massageador cervical Shiatsu proporcionando relaxamento e bem-estar como presente para o Dia dos Namorados",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Bem-estar"
+      ],
+      "pros": [
+        "Alivia a tensão do dia",
+        "Fácil de usar"
+      ],
+      "contras": [
+        "Uso mais pessoal"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/442rhbs"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p13-r.webp",
+      "alt": "Porta-retrato digital como presente criativo para o Dia dos Namorados",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Romântico",
+        "Tecnologia"
+      ],
+      "pros": [
+        "Mostra as fotos do casal",
+        "Bonito na sala"
+      ],
+      "contras": [
+        "Precisa de configuração"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4um6KcB"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p14.avif",
+      "alt": "Luminária Sunset Lamp criando iluminação romântica em quarto decorado para casal",
+      "cheia": true,
+      "cor": "rosa",
+      "perfil": [
+        "Casa"
+      ],
+      "pros": [
+        "Efeito bonito de pôr do sol",
+        "Ótima para fotos"
+      ],
+      "contras": [
+        "Mais decorativa que útil"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4uxz4Jk"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-dia-dos-namorados/p15.avif",
+      "alt": "Luminária LED para escrever mensagens românticas personalizada para presentear no Dia dos Namorados",
+      "cheia": true,
+      "cor": "pessego",
+      "perfil": [
+        "Romântico",
+        "Casa"
+      ],
+      "pros": [
+        "Permite deixar recados",
+        "Decora e diverte"
+      ],
+      "contras": [
+        "Proposta simples"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/3Szfq23"
+        }
+      }
+    }
+  ]
+}

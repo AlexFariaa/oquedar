@@ -1,0 +1,52 @@
+H1: Política de Privacidade
+P: Última atualização: Junho de 2026
+P: A sua privacidade é importante para nós. Esta Política de Privacidade descreve como o site O que dar? coleta, utiliza e protege as informações dos visitantes.
+H2: 1. Quem somos
+P: O O que dar? é um blog especializado em ideias de presentes, recomendações de produtos e conteúdos informativos voltados para auxiliar usuários na escolha do presente ideal para diferentes ocasiões.
+H2: 2. Informações coletadas
+P: Durante a navegação, algumas informações podem ser coletadas automaticamente, incluindo:
+LI: Endereço IP
+LI: Tipo de navegador
+LI: Dispositivo utilizado
+LI: Páginas visitadas
+LI: Tempo de permanência no site
+LI: Origem do acesso
+P: Esses dados são utilizados para melhorar a experiência dos usuários, analisar o desempenho do site e otimizar nossos conteúdos.
+H2: 3. Cookies
+P: O site utiliza cookies para melhorar a navegação e personalizar a experiência dos visitantes.
+P: Os cookies podem ser utilizados para:
+LI: Lembrar preferências do usuário
+LI: Medir audiência e desempenho
+LI: Exibir anúncios mais relevantes
+LI: Melhorar funcionalidades do site
+P: O usuário pode desativar os cookies diretamente nas configurações do navegador, embora algumas funcionalidades possam ser afetadas.
+H2: 4. Google Analytics
+P: Podemos utilizar ferramentas de análise, como o Google Analytics, para entender como os visitantes utilizam o site.
+P: Essas ferramentas coletam informações de forma agregada e anônima, ajudando na melhoria contínua do conteúdo e da experiência de navegação.
+H2: 5. Publicidade
+P: O O que dar? poderá exibir anúncios fornecidos por parceiros de publicidade, incluindo o Google AdSense.
+P: Esses parceiros podem utilizar cookies e tecnologias semelhantes para apresentar anúncios mais relevantes com base nos interesses e hábitos de navegação dos usuários.
+P: Para mais informações sobre como o Google utiliza dados em publicidade, consulte as políticas oficiais do Google.
+H2: 6. Programas de afiliados
+P: Alguns links presentes no site podem ser links de afiliados.
+P: Isso significa que poderemos receber uma comissão quando uma compra for realizada por meio desses links, sem qualquer custo adicional para o usuário.
+P: Participamos ou poderemos participar de programas de afiliados de empresas e marketplaces como Amazon, Mercado Livre, Shopee e outros parceiros.
+P: As recomendações publicadas são elaboradas com base em pesquisa, curadoria e relevância para o público do site.
+H2: 7. Compartilhamento de informações
+P: Não vendemos, alugamos ou compartilhamos dados pessoais dos usuários com terceiros, exceto quando necessário para:
+LI: Cumprimento de obrigações legais;
+LI: Funcionamento de ferramentas e serviços utilizados pelo site;
+LI: Operação de plataformas de análise, publicidade e afiliados.
+H2: 8. Segurança
+P: Adotamos medidas razoáveis para proteger as informações coletadas contra acessos não autorizados, alterações, divulgação ou destruição indevida.
+P: No entanto, nenhum sistema de transmissão ou armazenamento de dados é totalmente seguro.
+H2: 9. Links para sites de terceiros
+P: Nosso conteúdo pode conter links para sites externos.
+P: Não somos responsáveis pelas políticas de privacidade, práticas ou conteúdos de sites de terceiros. Recomendamos que os usuários consultem as políticas específicas de cada plataforma visitada.
+H2: 10. Direitos dos usuários
+P: Nos termos da Lei Geral de Proteção de Dados (LGPD), os usuários podem solicitar informações sobre seus dados pessoais eventualmente tratados pelo site, bem como exercer os direitos previstos na legislação aplicável.
+H2: 11. Alterações nesta política
+P: Esta Política de Privacidade poderá ser atualizada periodicamente para refletir mudanças no funcionamento do site, exigências legais ou novos serviços implementados.
+P: Recomendamos a consulta desta página sempre que necessário.
+H2: 12. Contato
+P: Caso tenha dúvidas sobre esta Política de Privacidade ou sobre o tratamento de informações realizado pelo site, entre em contato por meio da página de contato disponível no O que dar?.

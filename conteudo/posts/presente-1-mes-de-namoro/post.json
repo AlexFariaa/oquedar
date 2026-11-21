@@ -1,0 +1,274 @@
+{
+  "slug": "presente-1-mes-de-namoro",
+  "status": "publicado",
+  "data": "2026-06-03",
+  "publicar": "2026-06-03T09:00:00-03:00",
+  "titulo": "Presente para 1 Mês de Namoro: 10 Ideias Românticas para Surpreender",
+  "categorias": [
+    "namoro"
+  ],
+  "cat": "Namoro",
+  "trilha": "namoro",
+  "trilhaAtual": "1 mês de namoro",
+  "cor": "rosa",
+  "pre": "n1m-",
+  "capa": {
+    "src": "imagens/capa-presente-1-mes-de-namoro.avif",
+    "alt": "Casal sorrindo com caixas de presente no sofá"
+  },
+  "cartao": {
+    "src": "imagens/capa-presente-1-mes-de-namoro.avif",
+    "alt": "Casal sorrindo com caixas de presente no sofá"
+  },
+  "fatos": [
+    [
+      "10 ideias",
+      "do álbum à cesta de chocolates"
+    ],
+    [
+      "4 tipos de casal",
+      "românticos, criativos, caseiros, personalizados"
+    ],
+    [
+      "3 lojas comparadas",
+      "Amazon, Mercado Livre e Shopee"
+    ]
+  ],
+  "pouco": [
+    [
+      0,
+      "Melhor no geral",
+      "Começa a guardar as memórias do casal desde já."
+    ],
+    [
+      9,
+      "Melhor custo",
+      "Chocolate sempre funciona, sem exagerar."
+    ],
+    [
+      1,
+      "Mais criativo",
+      "Flores que duram e ainda viram uma atividade a dois."
+    ]
+  ],
+  "posNemTodo": null,
+  "marcas": [
+    "demonstrar carinho sem parecer exagerado",
+    "ajudam a transformar a data em uma lembrança especial"
+  ],
+  "links": [],
+  "produtos": [
+    {
+      "img": "imagens/posts/presente-1-mes-de-namoro/p1.avif",
+      "alt": "Álbum Our Adventure Book usado como presente para 1 mês de namoro",
+      "cheia": true,
+      "cor": "lavanda",
+      "perfil": [
+        "Romântico",
+        "Personalizado"
+      ],
+      "pros": [
+        "Guarda as primeiras memórias",
+        "Pode ser completado com o tempo"
+      ],
+      "contras": [
+        "Pede fotos impressas"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4vmXGoG"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-1-mes-de-namoro/p2.avif",
+      "alt": "Kit Lego Girassóis montado por casal como presente de 1 mês de namoro",
+      "cheia": true,
+      "cor": "rosa",
+      "perfil": [
+        "Criativo"
+      ],
+      "pros": [
+        "Flores que não murcham",
+        "Montar junto vira programa"
+      ],
+      "contras": [
+        "Valor um pouco mais alto"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4fVLC9t"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-1-mes-de-namoro/p3.avif",
+      "alt": "Quadro Spotify personalizado com foto e música especial do casal",
+      "cheia": true,
+      "cor": "pessego",
+      "perfil": [
+        "Personalizado"
+      ],
+      "pros": [
+        "Lembra a música do casal",
+        "Fica bonito na parede"
+      ],
+      "contras": [
+        "Prazo de produção"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4o1mi3X"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-1-mes-de-namoro/p4.avif",
+      "alt": "Luminária Rosa Encantada inspirada em A Bela e a Fera para presente romântico",
+      "cheia": true,
+      "cor": "lavanda",
+      "perfil": [
+        "Romântico"
+      ],
+      "pros": [
+        "Visual encantador",
+        "Ótimo para decorar o quarto"
+      ],
+      "contras": [
+        "Mais decorativo que útil"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4oa5mZo"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-1-mes-de-namoro/p5.avif",
+      "alt": "Luminária Lua 3D utilizada como presente para namorado ou namorada",
+      "cheia": true,
+      "cor": "rosa",
+      "perfil": [
+        "Romântico",
+        "Casa"
+      ],
+      "pros": [
+        "Luz suave e aconchegante",
+        "Bonita em qualquer canto"
+      ],
+      "contras": [
+        "Presente comum"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/3RHNaKp"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-1-mes-de-namoro/p6.avif",
+      "alt": "Jogo de cartas Hygge Game com perguntas para casais conversarem",
+      "cheia": true,
+      "cor": "pessego",
+      "perfil": [
+        "Criativo"
+      ],
+      "pros": [
+        "Rende boas conversas",
+        "Ajuda a se conhecerem melhor"
+      ],
+      "contras": [
+        "Pede tempo a dois"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/3Q19CNX"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-1-mes-de-namoro/p7.avif",
+      "alt": "Luminária LED personalizada com foto especial do casal",
+      "cheia": true,
+      "cor": "lavanda",
+      "perfil": [
+        "Personalizado"
+      ],
+      "pros": [
+        "Usa uma foto do casal",
+        "Presente único"
+      ],
+      "contras": [
+        "Prazo de produção"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4vq3Q7N"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-1-mes-de-namoro/p8-r.webp",
+      "alt": "Almofada porta pipoca para casal assistir filmes juntos",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Casa"
+      ],
+      "pros": [
+        "Perfeita para noites de filme",
+        "Divertida e prática"
+      ],
+      "contras": [
+        "Proposta simples"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4dKEETt"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-1-mes-de-namoro/p9-r.webp",
+      "alt": "Kit para vinho Oster utilizado como presente para casal",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Casa"
+      ],
+      "pros": [
+        "Bom para quem gosta de vinho",
+        "Kit completo"
+      ],
+      "contras": [
+        "Só para quem bebe vinho"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/4e4DOzP"
+        }
+      }
+    },
+    {
+      "img": "imagens/posts/presente-1-mes-de-namoro/p10-r.webp",
+      "alt": "Cesta de chocolates Cacau Show para comemorar 1 mês de namoro",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Romântico"
+      ],
+      "pros": [
+        "Agrada quase todo mundo",
+        "Fácil de encontrar"
+      ],
+      "contras": [
+        "Menos surpreendente"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://amzn.to/49wxGz2"
+        }
+      }
+    }
+  ]
+}

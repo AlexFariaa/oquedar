@@ -1,0 +1,371 @@
+{
+  "slug": "presentes-para-quem-gosta-de-basquete",
+  "status": "publicado",
+  "data": "2026-08-14",
+  "publicar": "2026-08-14T09:00:00-03:00",
+  "titulo": "Presente para Quem Gosta de Basquete: 14 Ideias",
+  "titleTag": "Presente para Quem Gosta de Basquete: 14 Ideias Criativas",
+  "desc": "Confira 14 ideias de presente para quem gosta de basquete, com opções criativas para fãs da NBA e apaixonados pelo esporte.",
+  "categorias": [
+    "interesse"
+  ],
+  "cat": "Interesse",
+  "trilha": "interesse",
+  "trilhaAtual": "Basquete",
+  "cor": "lavanda",
+  "pre": "",
+  "capa": {
+    "src": "imagens/basquete-capa.avif",
+    "alt": "Rapaz sorrindo enquanto gira uma bola de basquete na ponta do dedo"
+  },
+  "cartao": {
+    "src": "imagens/basquete-capa.avif",
+    "alt": "Rapaz sorrindo enquanto gira uma bola de basquete na ponta do dedo"
+  },
+  "fatos": [
+    [
+      "14 ideias",
+      "da bola ao Funko"
+    ],
+    [
+      "5 perfis de fã",
+      "quem joga, quem coleciona, quem decora"
+    ],
+    [
+      "3 lojas comparadas",
+      "Amazon, Mercado Livre e Shopee"
+    ]
+  ],
+  "pouco": [
+    [
+      0,
+      "Melhor no geral",
+      "Útil de verdade para quem joga ou está começando."
+    ],
+    [
+      1,
+      "Melhor custo",
+      "Entra na rotina e mostra que você conhece o time."
+    ],
+    [
+      2,
+      "Mais criativo",
+      "Foge das roupas e deixa o quarto com a cara da pessoa."
+    ]
+  ],
+  "posNemTodo": 10,
+  "marcas": [
+    "“como você sabia que eu ia gostar disso?”",
+    "O segredo está em pensar qual desses presentes realmente combina com a pessoa que vai receber.",
+    "Essas respostas já eliminam várias opções."
+  ],
+  "links": [
+    [
+      "presentes para homens de 30 anos",
+      "presentes-para-homens-30-anos.html"
+    ]
+  ],
+  "produtos": [
+    {
+      "img": "imagens/produtos/p1-r.webp",
+      "alt": "Bola de basquete Wilson NBA DRV Series para quem gosta de jogar basquete",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Para quem joga"
+      ],
+      "pros": [
+        "Útil de verdade para quem joga",
+        "Serve para quem está começando"
+      ],
+      "contras": [
+        "Pouco sentido para quem só assiste"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B09s9C6y4"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p2-r.webp",
+      "alt": "Caneca de cerâmica do Boston Celtics para fã de basquete",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Fã da NBA"
+      ],
+      "pros": [
+        "Entra na rotina",
+        "Produto oficial do time"
+      ],
+      "contras": [
+        "Só faz sentido para torcedor do Celtics"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B0hF37WW3"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p3.avif",
+      "alt": "Luminária de basquete com efeito de ilusão 3D para decoração",
+      "cheia": true,
+      "cor": "pessego",
+      "perfil": [
+        "Decoração"
+      ],
+      "pros": [
+        "Foge de roupas e acessórios",
+        "Efeito 3D chama atenção"
+      ],
+      "contras": [
+        "Mais decorativa que útil"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B0b6W9kdr"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p4-r.webp",
+      "alt": "Camiseta masculina NBA Teamster para fãs de basquete",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Fã da NBA",
+        "Roupas e acessórios"
+      ],
+      "pros": [
+        "Fácil de usar no dia a dia",
+        "Boa para quem não joga"
+      ],
+      "contras": [
+        "Depende de acertar o tamanho"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B0bKmcNT5"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p5-r.webp",
+      "alt": "Funko Pop do LeBron James com uniforme do Los Angeles Lakers",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Colecionador",
+        "Fã da NBA"
+      ],
+      "pros": [
+        "Ótimo para quem coleciona",
+        "Funciona como decoração"
+      ],
+      "contras": [
+        "Feito para fã do LeBron"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B08e1wnBk"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p6-r.webp",
+      "alt": "Camiseta masculina NBA Official Super Soft para fãs da liga de basquete",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Roupas e acessórios"
+      ],
+      "pros": [
+        "Confortável e casual",
+        "Não exige entender de basquete"
+      ],
+      "contras": [
+        "Proposta mais básica"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B01ZwpEQJ"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p7-r.webp",
+      "alt": "Boné New Era NBA 9FIFTY 2Tone para completar o visual de quem gosta de basquete",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Fã da NBA",
+        "Roupas e acessórios"
+      ],
+      "pros": [
+        "Junta NBA e acessório",
+        "Estilo esportivo"
+      ],
+      "contras": [
+        "Só para quem já usa boné"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B01gvH6eB"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p8-r.webp",
+      "alt": "Boné masculino NBA Official 59FIFTY para fãs de basquete",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Fã da NBA",
+        "Roupas e acessórios"
+      ],
+      "pros": [
+        "Estética marcante",
+        "Fica pessoal com o time certo"
+      ],
+      "contras": [
+        "Arriscado sem saber o time"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B06YoLhHX"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p9-r.webp",
+      "alt": "Mini aros de basquete com equipes da NBA para jogar em casa",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Para quem joga",
+        "Decoração"
+      ],
+      "pros": [
+        "Diversão dentro de casa",
+        "Bom para competir com amigos"
+      ],
+      "contras": [
+        "Precisa de porta ou parede livre"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B01gJJB6k"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p10-r.webp",
+      "alt": "Bola de basquete Wilson NBA Team Graffiti com visual inspirado nas equipes da NBA",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Para quem joga"
+      ],
+      "pros": [
+        "Visual urbano e colorido",
+        "Bola extra para os treinos"
+      ],
+      "contras": [
+        "A estampa não agrada a todos"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B09Eq6OCx"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p11-r.webp",
+      "alt": "Moletom masculino NBA Official com design de múltiplas equipes",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Fã da NBA",
+        "Roupas e acessórios"
+      ],
+      "pros": [
+        "Neutro: várias equipes",
+        "Bom para dias frios"
+      ],
+      "contras": [
+        "Menos personalizado"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B0hBWpEnG"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p12-r.webp",
+      "alt": "Bola de basquete Wilson NBA DRV Series azul para treinos e partidas",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Para quem joga"
+      ],
+      "pros": [
+        "Cor diferente do tradicional",
+        "Para quem joga com frequência"
+      ],
+      "contras": [
+        "Parecida com a DRV tradicional"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B0cBRL2Xm"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p13-r.webp",
+      "alt": "Camiseta regata masculina oficial da NBA para praticar basquete",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Para quem joga",
+        "Roupas e acessórios"
+      ],
+      "pros": [
+        "Treino ou visual casual",
+        "Pegada bem esportiva"
+      ],
+      "contras": [
+        "Exige saber time e tamanho"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B05guHkOZ"
+        }
+      }
+    },
+    {
+      "img": "imagens/produtos/p14-r.webp",
+      "alt": "Luz noturna de basquete com sensor para decoração de quarto e ambientes internos",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Decoração"
+      ],
+      "pros": [
+        "Não exige acertar o time",
+        "Tem sensor de presença"
+      ],
+      "contras": [
+        "Função mais decorativa"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://link.amazon/B0eLBJG3F"
+        }
+      }
+    }
+  ]
+}
