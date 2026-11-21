@@ -85,7 +85,9 @@
         "amazon": {
           "url": "https://link.amazon/B09s9C6y4",
           "nota": 4.5,
-          "avaliacoes": 1188
+          "avaliacoes": 1188,
+          "preco": 94.99,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -358,7 +360,9 @@
         "amazon": {
           "url": "https://link.amazon/B0cBRL2Xm",
           "nota": 4.5,
-          "avaliacoes": 1188
+          "avaliacoes": 1188,
+          "preco": 117.9,
+          "verificado": "2026-11-21"
         }
       }
     },

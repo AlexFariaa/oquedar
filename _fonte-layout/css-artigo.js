@@ -95,7 +95,7 @@ const CSS_ART = CSS_COMP + `
 @media (max-width:560px){.popup{grid-template-columns:1fr}.popup .ico{display:none}.popup .acoes-pop .btn{flex:1}}
 .leitura p+p,.leitura p+ul,.leitura ul+p,.leitura h3+p{margin-top:var(--e4)}
 .leitura h3{margin-top:var(--e7)}
-.intro p:last-child{font-size:var(--t-sub);font-weight:var(--peso-forte);line-height:1.25;letter-spacing:-.02em;margin-top:var(--e6)}
+/* último parágrafo da introdução no mesmo tamanho dos outros (sem destaque não pedido) */
 
 .secao-art{margin-top:var(--secao)}
 .cabeca-art{display:flex;flex-direction:column;gap:var(--e3);margin-bottom:var(--e6)}

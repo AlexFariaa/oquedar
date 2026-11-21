@@ -7,8 +7,8 @@ section{position:relative}
 .trilha a{display:inline-flex;align-items:center;min-height:44px;text-decoration:none;font-weight:var(--peso-forte)}
 
 /* abertura da categoria, com a fita atravessando */
-.cat-abertura{position:relative;padding-top:clamp(132px,15vw,176px);padding-bottom:calc(var(--e9) + var(--e6));overflow:clip}
-.cat-abertura .fita-cat{position:absolute;z-index:0;left:0;top:auto;bottom:0;width:100%;height:190px;pointer-events:none;filter:drop-shadow(0 10px 18px rgba(255,102,80,.22))}
+.cat-abertura{position:relative;padding-top:clamp(132px,15vw,176px);padding-bottom:190px;overflow:clip}
+.cat-abertura .fita-cat{position:absolute;z-index:0;left:0;top:auto;bottom:0;width:100%;height:170px;pointer-events:none;filter:drop-shadow(0 10px 18px rgba(255,102,80,.22))}
 .cat-abertura .fita-cat path{stroke-width:22;stroke-linecap:round}
 .js .cat-abertura .fita-cat path{stroke-dasharray:1;stroke-dashoffset:1;animation:desenha-cat 2.4s var(--curva) .3s forwards}
 @keyframes desenha-cat{to{stroke-dashoffset:0}}
@@ -69,7 +69,9 @@ section{position:relative}
 @media (max-width:900px){
   .cat-txt,.cat-foto{grid-column:1/-1}
   .cat-foto{aspect-ratio:16/9}
-  .cat-abertura .fita-cat{top:30%}
+  /* celular: a fita fica abaixo da foto, sem passar pelo texto */
+  .cat-abertura{padding-bottom:120px}
+  .cat-abertura .fita-cat{top:auto;bottom:0;height:110px}
   .art-item,.art-item.grande{grid-column:1/-1}
   .salvos{grid-template-columns:repeat(2,minmax(0,1fr))}
   .outras{grid-template-columns:repeat(2,minmax(0,1fr))}

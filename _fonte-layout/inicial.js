@@ -91,13 +91,15 @@ section{position:relative}
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 /* selo girando entre a abertura e a busca */
 .selo-ponte{position:relative;height:0;z-index:5}
-.carimbo{position:absolute;right:-64px;top:-118px;width:236px;aspect-ratio:1;border-radius:50%;display:grid;place-items:center;background:conic-gradient(from 200deg,#FF6650,#F7A8C4,#C7B4F7,#FFD8C9,#FF6650);box-shadow:0 24px 50px rgba(28,26,31,.22)}
+/* moldura que corta o selo na borda da tela (sem criar rolagem para o lado) */
+.selo-clip{position:absolute;right:0;top:-170px;width:300px;height:340px;overflow:hidden;pointer-events:none}
+.carimbo{position:absolute;right:-64px;top:52px;width:236px;aspect-ratio:1;border-radius:50%;display:grid;place-items:center;background:conic-gradient(from 200deg,#FF6650,#F7A8C4,#C7B4F7,#FFD8C9,#FF6650);box-shadow:0 24px 50px rgba(28,26,31,.22)}
 .carimbo::before{content:"";position:absolute;inset:30%;border-radius:50%;background:var(--fundo)}
 .selo-giro{position:absolute;inset:0;width:100%;height:100%;animation:selo-gira 24s linear infinite}
 .selo-giro text{font-family:var(--fonte);font-size:15.5px;font-weight:var(--peso-forte);letter-spacing:.06em;fill:var(--tinta)}
 .selo-q{position:relative;width:52px;height:74px;background:var(--tinta);-webkit-mask:url(imagens/logo-oquedar.png) -54px -24px/151px 151px no-repeat;mask:url(imagens/logo-oquedar.png) -54px -24px/151px 151px no-repeat}
 @keyframes selo-gira{to{transform:rotate(360deg)}}
-@media (max-width:900px){.carimbo{width:168px;right:-52px;top:-84px}.selo-q{transform:scale(.72)}}
+@media (max-width:900px){.carimbo{width:168px;right:-52px;top:86px}.selo-q{transform:scale(.72)}}
 @media (prefers-reduced-motion:reduce){.selo-giro{animation:none}}
 /* busca escura */
 .busca{background:var(--tinta);color:var(--fundo);padding:var(--secao) 0;overflow:hidden;--apoio:rgba(244,242,240,.70);--fio:rgba(244,242,240,.16)}
@@ -292,10 +294,20 @@ section{position:relative}
 .ab-centro .v5{display:inline-flex;right:8%;left:auto;top:auto;bottom:25%;z-index:2}
 .ab-centro .m4{right:3%;bottom:9%;width:120px;rotate:-5deg;animation-delay:-1.5s}
 @media (max-width:900px){
-  .ab-centro .v5,.ab-centro .m1,.ab-centro .m3{display:none}
-  .ab-centro .cena{width:100%;justify-self:stretch;grid-column:1/-1}
-  .ab-centro .v1{left:0;top:6%}.ab-centro .v2{right:0;top:auto;bottom:40%}.ab-centro .v3{left:6%;bottom:4%}
-  .ab-centro .m2{right:6%;top:0;width:74px}.ab-centro .m4{right:8%;left:auto;bottom:0;width:70px}
+  /* celular: fotos e etiquetas em volta do título, menores (faixa em cima e faixa embaixo) */
+  .ab-centro .abertura .wrap{padding-top:64px;padding-bottom:150px}
+  .ab-centro .cena{position:absolute;inset:0;height:auto;width:auto;margin:0;order:0;grid-column:auto}
+  .ab-centro .cena .vid{font-size:var(--t-rotulo);min-height:34px;padding:0 12px;gap:6px}
+  .ab-centro .cena .vid i{width:7px;height:7px}
+  .ab-centro .mom{display:block;width:56px;border-width:2px;border-radius:12px}
+  .ab-centro .m1{left:0;top:0}
+  .ab-centro .v2{right:0;left:auto;top:12px;bottom:auto}
+  .ab-centro .m2{display:none}
+  .ab-centro .v1{left:0;right:auto;top:auto;bottom:96px}
+  .ab-centro .m4{right:0;left:auto;top:auto;bottom:70px;width:64px}
+  .ab-centro .v3{left:26%;right:auto;top:auto;bottom:20px}
+  .ab-centro .m3{left:0;top:auto;bottom:6px;width:48px}
+  .ab-centro .v5{display:inline-flex;right:4%;left:auto;top:auto;bottom:6px}
 }
 @media (max-width:900px){
   .abertura h1,.abertura .abre{grid-column:1/-1}
@@ -305,8 +317,9 @@ section{position:relative}
   .achado .foto,.achado .info{grid-column:1/-1}
   .achado .foto{min-height:360px}
   .faixa .txt{grid-column:1/-1}
-  .faixa{min-height:0;padding-top:300px}
-  .meia-lua{top:var(--e6);transform:none;height:240px}
+  /* celular: foto do presente abaixo do título e do texto, menor, grudada na borda direita */
+  .faixa{min-height:0;flex-direction:column;align-items:stretch;padding:var(--e8) 0 var(--e7)}
+  .meia-lua{position:relative;top:auto;right:auto;transform:none;height:200px;align-self:flex-end;margin-top:var(--e6)}
   .natal-sem .faixa{padding-top:clamp(96px,12vw,176px)}
   .art-item,.art-item.grande{grid-column:1/-1;grid-row:auto}
   .grande .art-img{aspect-ratio:3/2;flex:none;min-height:0}
@@ -489,10 +502,10 @@ ${cab('')}
     </div>
   </section>
 
-  <div class="selo-ponte" aria-hidden="true"><div class="carimbo">
+  <div class="selo-ponte" aria-hidden="true"><div class="selo-clip"><div class="carimbo">
     <svg class="selo-giro" viewBox="0 0 200 200"><defs><path id="selo-circ" d="M100,100 m-74,0 a74,74 0 1,1 148,0 a74,74 0 1,1 -148,0"/></defs><text><textPath href="#selo-circ" textLength="462" lengthAdjust="spacing">IDEIAS DE PRESENTE · CURADORIA O QUE DAR? · </textPath></text></svg>
     <span class="selo-q"></span>
-  </div></div>
+  </div></div></div>
   <section class="bloco-secao" aria-labelledby="t-como">
     <div class="wrap">
       <div class="cabeca">

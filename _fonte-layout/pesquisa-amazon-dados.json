@@ -27,10 +27,10 @@
   "nome": "Quadro Spotify Personalizado",
   "url": "https://amzn.to/4o1mi3X",
   "asin": "B08L88JQGX",
-  "preco": null,
+  "preco": 66.4,
   "nota": 4.8,
   "avaliacoes": 59,
-  "disponivel": false
+  "disponivel": true
  },
  {
   "slug": "presente-1-mes-de-namoro",
@@ -38,10 +38,10 @@
   "nome": "Luminária Rosa Encantada A Bela e a Fera",
   "url": "https://amzn.to/4oa5mZo",
   "asin": "B0DG6TXZWN",
-  "preco": null,
+  "preco": 39.99,
   "nota": 4.6,
   "avaliacoes": 124,
-  "disponivel": false
+  "disponivel": true
  },
  {
   "slug": "presente-1-mes-de-namoro",
@@ -49,10 +49,10 @@
   "nome": "Luminária Lua 3D",
   "url": "https://amzn.to/3RHNaKp",
   "asin": "B07QB88ZLT",
-  "preco": null,
+  "preco": 122.45,
   "nota": 4.4,
   "avaliacoes": 1004,
-  "disponivel": false
+  "disponivel": true
  },
  {
   "slug": "presente-1-mes-de-namoro",
@@ -302,7 +302,7 @@
   "nome": "Cinto de Corrida FlipBelt",
   "url": "https://amzn.to/43Moq6y",
   "asin": "B01CGXURL0",
-  "preco": null,
+  "preco": 237.52,
   "nota": 4.5,
   "avaliacoes": 7083,
   "disponivel": true
@@ -379,10 +379,10 @@
   "nome": "Amazfit Bip 5",
   "url": "https://amzn.to/4abRurQ",
   "asin": "B0DD3WMVG7",
-  "preco": null,
+  "preco": 377.08,
   "nota": 4.4,
   "avaliacoes": 399,
-  "disponivel": false
+  "disponivel": true
  },
  {
   "slug": "presente-para-quem-gosta-de-correr",
@@ -489,10 +489,10 @@
   "nome": "JBL Charge 5",
   "url": "https://amzn.to/3Q5BCjv",
   "asin": "B08X4YMTPM",
-  "preco": null,
+  "preco": 1117.1,
   "nota": 4.8,
   "avaliacoes": 31887,
-  "disponivel": false
+  "disponivel": true
  },
  {
   "slug": "presentes-para-homens-30-anos",
@@ -610,7 +610,7 @@
   "nome": "Bola de Basquete Wilson NBA DRV Series",
   "url": "https://link.amazon/B09s9C6y4",
   "asin": "B091MMRXCK",
-  "preco": null,
+  "preco": 94.99,
   "nota": 4.5,
   "avaliacoes": 1188,
   "disponivel": true
@@ -731,7 +731,7 @@
   "nome": "Bola de Basquete Wilson NBA DRV Series Azul",
   "url": "https://link.amazon/B0cBRL2Xm",
   "asin": "B091MBD9PQ",
-  "preco": null,
+  "preco": 117.9,
   "nota": 4.5,
   "avaliacoes": 1188,
   "disponivel": true

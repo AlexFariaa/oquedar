@@ -128,7 +128,9 @@
         "amazon": {
           "url": "https://amzn.to/4o1mi3X",
           "nota": 4.8,
-          "avaliacoes": 59
+          "avaliacoes": 59,
+          "preco": 66.4,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -151,7 +153,9 @@
         "amazon": {
           "url": "https://amzn.to/4oa5mZo",
           "nota": 4.6,
-          "avaliacoes": 124
+          "avaliacoes": 124,
+          "preco": 39.99,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -175,7 +179,9 @@
         "amazon": {
           "url": "https://amzn.to/3RHNaKp",
           "nota": 4.4,
-          "avaliacoes": 1004
+          "avaliacoes": 1004,
+          "preco": 122.45,
+          "verificado": "2026-11-21"
         }
       }
     },

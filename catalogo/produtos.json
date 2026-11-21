@@ -51,7 +51,12 @@
       "alt": "Quadro Spotify personalizado com foto e música especial do casal",
       "lojas": {
         "amazon": {
-          "historico": [],
+          "historico": [
+            {
+              "data": "2026-11-21",
+              "preco": 66.4
+            }
+          ],
           "url": "https://amzn.to/4o1mi3X",
           "nota": 4.8,
           "avaliacoes": 59
@@ -68,7 +73,12 @@
       "alt": "Luminária Rosa Encantada inspirada em A Bela e a Fera para presente romântico",
       "lojas": {
         "amazon": {
-          "historico": [],
+          "historico": [
+            {
+              "data": "2026-11-21",
+              "preco": 39.99
+            }
+          ],
           "url": "https://amzn.to/4oa5mZo",
           "nota": 4.6,
           "avaliacoes": 124
@@ -85,7 +95,12 @@
       "alt": "Luminária Lua 3D utilizada como presente para namorado ou namorada",
       "lojas": {
         "amazon": {
-          "historico": [],
+          "historico": [
+            {
+              "data": "2026-11-21",
+              "preco": 122.45
+            }
+          ],
           "url": "https://amzn.to/3RHNaKp",
           "nota": 4.4,
           "avaliacoes": 1004
@@ -555,7 +570,12 @@
       "alt": "Cinto de corrida FlipBelt utilizado para transportar celular e objetos durante a corrida",
       "lojas": {
         "amazon": {
-          "historico": [],
+          "historico": [
+            {
+              "data": "2026-11-21",
+              "preco": 237.52
+            }
+          ],
           "url": "https://amzn.to/43Moq6y",
           "nota": 4.5,
           "avaliacoes": 7083
@@ -704,7 +724,12 @@
       "alt": "Smartwatch Amazfit Bip 5 acompanhando dados de treino e atividade física",
       "lojas": {
         "amazon": {
-          "historico": [],
+          "historico": [
+            {
+              "data": "2026-11-21",
+              "preco": 377.08
+            }
+          ],
           "url": "https://amzn.to/4abRurQ",
           "nota": 4.4,
           "avaliacoes": 399
@@ -914,7 +939,12 @@
       "alt": "Caixa de som JBL Charge 5 portátil sendo usada em churrasco e viagem como presente para homens de 30 anos",
       "lojas": {
         "amazon": {
-          "historico": [],
+          "historico": [
+            {
+              "data": "2026-11-21",
+              "preco": 1117.1
+            }
+          ],
           "url": "https://amzn.to/3Q5BCjv",
           "nota": 4.8,
           "avaliacoes": 31887
@@ -1130,7 +1160,12 @@
       "alt": "Bola de basquete Wilson NBA DRV Series para quem gosta de jogar basquete",
       "lojas": {
         "amazon": {
-          "historico": [],
+          "historico": [
+            {
+              "data": "2026-11-21",
+              "preco": 94.99
+            }
+          ],
           "url": "https://link.amazon/B09s9C6y4",
           "nota": 4.5,
           "avaliacoes": 1188
@@ -1355,7 +1390,12 @@
       "alt": "Bola de basquete Wilson NBA DRV Series azul para treinos e partidas",
       "lojas": {
         "amazon": {
-          "historico": [],
+          "historico": [
+            {
+              "data": "2026-11-21",
+              "preco": 117.9
+            }
+          ],
           "url": "https://link.amazon/B0cBRL2Xm",
           "nota": 4.5,
           "avaliacoes": 1188
@@ -1430,5 +1470,5 @@
       ]
     }
   ],
-  "atualizado": "2026-11-21T18:15:50.190Z"
+  "atualizado": "2026-11-21T18:52:11.428Z"
 }

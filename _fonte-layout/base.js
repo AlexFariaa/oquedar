@@ -228,7 +228,7 @@ html{overflow-x:clip}
 .fav-card svg{width:20px;height:20px}
 .fav-card[aria-pressed="true"] svg{fill:var(--coral);stroke:var(--coral)}
 .fav-card:active{transform:scale(.92)}
-@media (max-width:560px){.txt-fav{display:none}.txt-buscar{display:none}.btn-buscar{padding-inline:12px}}
+@media (max-width:560px){.txt-fav{display:none}.txt-buscar{display:none}.btn-buscar{padding-inline:12px}.cab .acoes{gap:4px}.btn-fav,.btn-menu,.btn-buscar{padding-inline:10px}.cab .marca img{width:76px}.barra{gap:var(--e2)}}
 
 /* assistente */
 .assist-bt{position:fixed;right:var(--e4);bottom:var(--e4);z-index:var(--z-menu);display:inline-flex;align-items:center;gap:var(--e2);min-height:56px;padding:0 var(--e5) 0 var(--e2);border:0;border-radius:var(--pilula);background:var(--tinta);color:var(--fundo);font:inherit;font-weight:var(--peso-forte);cursor:pointer;box-shadow:0 16px 40px rgba(28,26,31,.28);transition:transform .2s var(--curva)}

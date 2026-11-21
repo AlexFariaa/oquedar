@@ -179,7 +179,9 @@
         "amazon": {
           "url": "https://amzn.to/3Q5BCjv",
           "nota": 4.8,
-          "avaliacoes": 31887
+          "avaliacoes": 31887,
+          "preco": 1117.1,
+          "verificado": "2026-11-21"
         }
       }
     },
