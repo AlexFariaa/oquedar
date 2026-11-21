@@ -291,3 +291,17 @@ Levantamento do oquedar.com (sitemap, 21/11/2026):
 
 ## Publicação no GitHub (21/11/2026)
 - O conteúdo de `site/` (19 páginas, imagens e um README curto, 117 arquivos) foi enviado para https://github.com/AlexFariaa/oquedar, ramo `main`, commit e069218. O repositório ANNAGHEO/oquedar recusou o envio porque este computador está conectado como AlexFariaa; a A.G. criou o repositório na conta do Alex.
+
+## Implementação da "inteligência" do site (21/11/2026)
+Decisões da A.G.: fotos da Amazon podem ter o fundo retirado; preços atualizados manualmente (sob demanda), guardando a lista de produtos e o que foi usado em cada post; nota exibida = a maior entre as lojas, no formato "4,6 ★ na Amazon (1.234 avaliações)"; GitHub + robô agendado na conta AlexFariaa; troca do WordPress pelo site novo autorizada.
+- Verificado: a conta de associada da Amazon ainda não está aprovada para a API (Creators/PA-API exige conta aprovada e 10 vendas em 30 dias). Hostinger: plano Premium (tem Git e tarefas agendadas). Backup automático do WordPress de 21/11/2026 02:01 na Hostinger (backup manual é bloqueado no Premium).
+- Dados reais no lugar dos exemplos: os 69 produtos dos 5 posts ganharam o link real de afiliado da Amazon (tirado dos posts do WordPress). Sem preço e sem nota até a pesquisa: a página mostra só "Ver na Amazon". Saíram "Nota OQD", preços de exemplo, a faixa "exemplos até a integração" e o filtro de preço (volta sozinho quando houver preços). "Presentes mais salvos" das categorias virou "Presentes desta categoria" (não temos dado de salvamentos).
+- Novo modelo de dados: `conteudo/posts/<post>/` (texto + `post.json` com produtos, lojas, status e data); `catalogo/produtos.json` (todos os produtos e onde foram usados, com histórico de preços); `conteudo/MODELO-ARTIGO.md` e `conteudo/COMO-FUNCIONA.md`. O post de basquete passou a usar o mesmo modelo dos outros.
+- Endereços iguais aos do WordPress (/post/, /category/x/, /sobre-nos/), sitemap.xml, robots.txt, 404 e .htaccess (https sem www, endereços antigos de etiqueta/autor/feed redirecionados).
+- Repositório AlexFariaa/oquedar: ramo `main` com a fonte; robô (GitHub Actions) roda a cada envio e de hora em hora, gera o site e envia para o ramo `publicado`. Primeira execução: sucesso.
+- Pendente: ligar a Hostinger ao ramo `publicado` (a função Git do painel só aceita autorização com conta do GitHub, decisão da A.G.) e mover o WordPress para uma pasta de guarda antes de publicar.
+
+## Site novo no ar (21/11/2026)
+- Alex autorizou a Hostinger no GitHub. Implantação ligada: repositório AlexFariaa/oquedar, ramo `publicado`, pasta public_html, com "Implantação automática" ativa (cada envio do robô ao ramo `publicado` vai para o ar).
+- O WordPress saiu do ar. Os arquivos dele foram substituídos pelo site novo: o painel registra uma implantação anterior à minha troca de pastas, que já tinha publicado o site novo na pasta original. A pasta `wordpress-antigo-2026-11-21` ficou com uma cópia do site novo, e não com o WordPress. O WordPress (arquivos e banco de dados) está no backup automático da Hostinger de 21/11/2026 02:01, que pode ser restaurado ou baixado em Arquivos → Backups. O banco de dados do WordPress não foi alterado.
+- Conferido no ar (oquedar.com): inicial, posts, categorias, páginas, sitemap e robots com resposta 200; endereço sem barra redireciona para com barra; /tag/mulher/ vai para /category/genero/; página inexistente dá 404; /.git bloqueado (403).
