@@ -17,12 +17,13 @@ const publicado = p => p.status === 'publicado' || (p.status === 'agendado' && n
 const todos = fs.readdirSync(CONT).filter(d => fs.existsSync(path.join(CONT, d, 'post.json'))).map(d => Object.assign(JSON.parse(fs.readFileSync(path.join(CONT, d, 'post.json'), 'utf8')), { dir: path.join(CONT, d) }));
 const pub = todos.filter(publicado).sort((a, b) => b.publicar.localeCompare(a.publicar));
 const lista = pub.map((p, k) => ({ t: p.titulo, cat: p.cat, d: dataLonga(p.data), u: p.slug + '.html', cor: p.cor || CORES[k % 3], foto: p.cartao.src, alt: p.cartao.alt, id: 'art-' + p.slug, slug: p.slug, categorias: p.categorias }));
-const produtosPorPost = {};
+const produtosPorPost = {}, textoPorPost = {};
 
 for (const P0 of pub) {
   const slug = P0.slug;
   const arqTexto = ['artigo.md', 'texto.txt'].map(a => path.join(P0.dir, a)).find(a => fs.existsSync(a));
   const post = lePost(arqTexto);
+  textoPorPost[slug] = [post.h1, ...post.intro, ...post.secoes.flatMap(s => [s.titulo, ...s.itens.map(b => b.x)])].join(' ');
   const achaSec = re => post.secoes.find(s => re.test(s.titulo)) || null;
   const numeradas = post.secoes.filter(s => /^\d+\. /.test(s.titulo));
   if (numeradas.length !== P0.produtos.length) console.warn(`ATENÇÃO ${slug}: ${numeradas.length} presentes no texto e ${P0.produtos.length} em post.json`);
@@ -52,4 +53,4 @@ for (const P0 of pub) {
 }
 const agendados = todos.filter(p => !publicado(p));
 if (agendados.length) console.log('agendados (fora do site até a data):', agendados.map(p => p.slug + ' em ' + p.publicar).join(', '));
-module.exports = { lista, produtosPorPost, todos, pub };
+module.exports = { lista, produtosPorPost, textoPorPost, todos, pub };

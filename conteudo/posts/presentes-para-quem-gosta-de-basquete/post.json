@@ -83,7 +83,9 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B09s9C6y4"
+          "url": "https://link.amazon/B09s9C6y4",
+          "nota": 4.5,
+          "avaliacoes": 1188
         }
       }
     },
@@ -104,7 +106,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B0hF37WW3"
+          "url": "https://link.amazon/B0hF37WW3",
+          "nota": 5,
+          "avaliacoes": 5,
+          "preco": 217.99,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -147,7 +153,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B0bKmcNT5"
+          "url": "https://link.amazon/B0bKmcNT5",
+          "nota": 4.7,
+          "avaliacoes": 609,
+          "preco": 158.7,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -169,7 +179,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B08e1wnBk"
+          "url": "https://link.amazon/B08e1wnBk",
+          "nota": 4.8,
+          "avaliacoes": 1387,
+          "preco": 159.9,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -190,7 +204,9 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B01ZwpEQJ"
+          "url": "https://link.amazon/B01ZwpEQJ",
+          "nota": 4.7,
+          "avaliacoes": 3050
         }
       }
     },
@@ -212,7 +228,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B01gvH6eB"
+          "url": "https://link.amazon/B01gvH6eB",
+          "nota": 4.4,
+          "avaliacoes": 1035,
+          "preco": 148.24,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -234,7 +254,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B06YoLhHX"
+          "url": "https://link.amazon/B06YoLhHX",
+          "nota": 4.5,
+          "avaliacoes": 682,
+          "preco": 213.93,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -256,7 +280,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B01gJJB6k"
+          "url": "https://link.amazon/B01gJJB6k",
+          "nota": 4.3,
+          "avaliacoes": 3407,
+          "preco": 166.64,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -277,7 +305,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B09Eq6OCx"
+          "url": "https://link.amazon/B09Eq6OCx",
+          "nota": 4.8,
+          "avaliacoes": 463,
+          "preco": 161.99,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -299,7 +331,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B0hBWpEnG"
+          "url": "https://link.amazon/B0hBWpEnG",
+          "nota": 4.6,
+          "avaliacoes": 57,
+          "preco": 393.87,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -320,7 +356,9 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B0cBRL2Xm"
+          "url": "https://link.amazon/B0cBRL2Xm",
+          "nota": 4.5,
+          "avaliacoes": 1188
         }
       }
     },
@@ -342,7 +380,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B05guHkOZ"
+          "url": "https://link.amazon/B05guHkOZ",
+          "nota": 4.9,
+          "avaliacoes": 21,
+          "preco": 251.1,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -363,9 +405,14 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://link.amazon/B0eLBJG3F"
+          "url": "https://link.amazon/B0eLBJG3F",
+          "nota": 4.6,
+          "avaliacoes": 88,
+          "preco": 116.01,
+          "verificado": "2026-11-21"
         }
       }
     }
-  ]
+  ],
+  "atualizado": "2026-11-21"
 }

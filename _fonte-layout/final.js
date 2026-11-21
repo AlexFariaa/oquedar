@@ -22,7 +22,7 @@ const mapa = [['layout-alta-fidelidade.html', '/', HOJE]]
   .concat(posts.map(p => [p.slug + '.html', '/' + p.slug + '/', p.atualizado || p.data]))
   .concat(cats.map(c => ['categoria-' + c + '.html', '/category/' + c + '/', HOJE]))
   .concat(PAGS.map(p => [p + '.html', '/' + p + '/', HOJE]))
-  .concat([['404.html', '/404.html', null]]);
+  .concat([['buscar.html', '/buscar/', null], ['404.html', '/404.html', null]]);
 
 // limpa o conteúdo de site/ (não a pasta, que o OneDrive às vezes segura)
 fs.mkdirSync(SITE, { recursive: true });
@@ -32,7 +32,7 @@ const usadas = new Set();
 for (const [arq, url] of mapa) {
   let h = fs.readFileSync(path.join(RAIZ, arq), 'utf8');
   for (const [a, u] of mapa) for (const q of ['"', "'"]) h = h.split(q + a).join(q + u);
-  h = h.replace(/(["'(])imagens\//g, '$1/imagens/');
+  h = h.replace(/(["'(])imagens\//g, '$1/imagens/').split("'busca.json'").join("'/busca.json'");
   const extra = url === '/404.html' ? '<meta name="robots" content="noindex">\n' : `<link rel="canonical" href="${DOMINIO}${url}">\n<meta property="og:url" content="${DOMINIO}${url}">\n`;
   h = h.replace('</head>', extra + '</head>');
   (h.match(/\/imagens\/[A-Za-z0-9_\/.-]+\.(?:avif|webp|jpg|png)/g) || []).forEach(x => usadas.add(x.slice(1)));
@@ -48,6 +48,9 @@ for (const rel of usadas) {
   fs.mkdirSync(path.dirname(d), { recursive: true }); fs.copyFileSync(o, d); total += fs.statSync(o).size;
 }
 fs.copyFileSync(path.join(RAIZ, 'imagens', 'CREDITOS.md'), path.join(SITE, 'imagens', 'CREDITOS.md'));
+
+// índice da busca, com os mesmos endereços
+{ let j = fs.readFileSync(path.join(RAIZ, 'busca.json'), 'utf8'); for (const [a, u] of mapa) j = j.split('"' + a).join('"' + u); j = j.replace(/"imagens\//g, '"/imagens/'); fs.writeFileSync(path.join(SITE, 'busca.json'), j); }
 
 // sitemap, robots, .htaccess
 fs.writeFileSync(path.join(SITE, 'sitemap.xml'), '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +

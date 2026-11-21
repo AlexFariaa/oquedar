@@ -76,7 +76,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/4xlg0jT"
+          "url": "https://amzn.to/4xlg0jT",
+          "nota": 4.8,
+          "avaliacoes": 189,
+          "preco": 92.41,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -97,7 +101,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/4onZBaD"
+          "url": "https://amzn.to/4onZBaD",
+          "nota": 4.8,
+          "avaliacoes": 2399,
+          "preco": 479,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -119,7 +127,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/3RR1r7L"
+          "url": "https://amzn.to/3RR1r7L",
+          "nota": 4.8,
+          "avaliacoes": 96998,
+          "preco": 289,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -141,7 +153,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/49RJ8W0"
+          "url": "https://amzn.to/49RJ8W0",
+          "nota": 4.8,
+          "avaliacoes": 1499,
+          "preco": 739,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -163,7 +179,9 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/4uxpUfD"
+          "url": "https://amzn.to/4uxpUfD",
+          "nota": 4.7,
+          "avaliacoes": 33511
         }
       }
     },
@@ -185,7 +203,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/3QvaWce"
+          "url": "https://amzn.to/3QvaWce",
+          "nota": 4.8,
+          "avaliacoes": 879,
+          "preco": 197.91,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -207,7 +229,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/49RHhk7"
+          "url": "https://amzn.to/49RHhk7",
+          "nota": 4.8,
+          "avaliacoes": 40,
+          "preco": 132.97,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -228,7 +254,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/4v2Mn5l"
+          "url": "https://amzn.to/4v2Mn5l",
+          "nota": 4.8,
+          "avaliacoes": 23048,
+          "preco": 26.91,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -250,7 +280,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/4um6dY9"
+          "url": "https://amzn.to/4um6dY9",
+          "nota": 4.8,
+          "avaliacoes": 940,
+          "preco": 27.67,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -272,7 +306,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/442rhbs"
+          "url": "https://amzn.to/442rhbs",
+          "nota": 4.8,
+          "avaliacoes": 394,
+          "preco": 33.32,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -293,7 +331,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/43p0Mgj"
+          "url": "https://amzn.to/43p0Mgj",
+          "nota": 4.8,
+          "avaliacoes": 34869,
+          "preco": 519,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -312,11 +354,7 @@
       "contras": [
         "Uso mais pessoal"
       ],
-      "lojas": {
-        "amazon": {
-          "url": "https://amzn.to/442rhbs"
-        }
-      }
+      "lojas": {}
     },
     {
       "img": "imagens/posts/presente-dia-dos-namorados/p13-r.webp",
@@ -336,7 +374,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/4um6KcB"
+          "url": "https://amzn.to/4um6KcB",
+          "nota": 4.1,
+          "avaliacoes": 330,
+          "preco": 380.17,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -357,7 +399,11 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/4uxz4Jk"
+          "url": "https://amzn.to/4uxz4Jk",
+          "nota": 3.9,
+          "avaliacoes": 471,
+          "preco": 44.9,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -379,9 +425,14 @@
       ],
       "lojas": {
         "amazon": {
-          "url": "https://amzn.to/3Szfq23"
+          "url": "https://amzn.to/3Szfq23",
+          "nota": 4.3,
+          "avaliacoes": 647,
+          "preco": 22.98,
+          "verificado": "2026-11-21"
         }
       }
     }
-  ]
+  ],
+  "atualizado": "2026-11-21"
 }

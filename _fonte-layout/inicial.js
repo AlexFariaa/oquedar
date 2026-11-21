@@ -407,14 +407,14 @@ ${cab('')}
         <h2 class="titulo" id="t-busca">Monte a frase e descubra<span class="sr-only"> o que dar de presente</span>…</h2>
         <p class="abre">Diga para quem é, do que a pessoa gosta e quanto quer gastar. A gente procura o resto.</p>
       </div>
-      <form class="buscador" action="#ideias" aria-label="Montar a busca de presente">
+      <form class="buscador" action="buscar.html" method="get" aria-label="Montar a busca de presente">
         <div class="frase">
           <span>Quero um presente para ${esc_('s-quem', 'Para quem é o presente', ['um colega', 'minha mãe', 'meu namorado', 'uma amiga', 'meu pai', 'minha namorada'])}</span>
           <span>que gosta de ${esc_('s-gosto', 'Do que a pessoa gosta', ['café', 'basquete', 'correr', 'games', 'livros', 'cozinhar'])}</span>
           <span>até ${esc_('s-preco', 'Até quanto quer gastar', ['R$ 150', 'R$ 100', 'R$ 300', 'R$ 500', 'qualquer valor'])}</span>
         </div>
         <div class="rodape-busca">
-          <span class="meta">A busca inteligente entra aqui quando estiver integrada.</span>
+          <span class="meta">Mostramos os artigos e os presentes que combinam com a sua frase.</span>
           <button class="btn btn-oferta" type="submit">Mostrar ideias</button>
         </div>
       </form>

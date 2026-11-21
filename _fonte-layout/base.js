@@ -228,7 +228,7 @@ html{overflow-x:clip}
 .fav-card svg{width:20px;height:20px}
 .fav-card[aria-pressed="true"] svg{fill:var(--coral);stroke:var(--coral)}
 .fav-card:active{transform:scale(.92)}
-@media (max-width:560px){.txt-fav{display:none}.btn-buscar{display:none}}
+@media (max-width:560px){.txt-fav{display:none}.txt-buscar{display:none}.btn-buscar{padding-inline:12px}}
 
 /* assistente */
 .assist-bt{position:fixed;right:var(--e4);bottom:var(--e4);z-index:var(--z-menu);display:inline-flex;align-items:center;gap:var(--e2);min-height:56px;padding:0 var(--e5) 0 var(--e2);border:0;border-radius:var(--pilula);background:var(--tinta);color:var(--fundo);font:inherit;font-weight:var(--peso-forte);cursor:pointer;box-shadow:0 16px 40px rgba(28,26,31,.28);transition:transform .2s var(--curva)}
@@ -287,7 +287,7 @@ const cab = (atual) => `
       </nav>
       <div class="acoes">
         <button class="btn btn-sec btn-peq btn-fav" type="button" id="abre-fav" aria-controls="gaveta" aria-expanded="false">${CORACAO}<span class="txt-fav">Favoritos</span><span class="cont" id="fav-cont">0</span></button>
-        <a class="btn btn-sec btn-peq btn-buscar" href="layout-alta-fidelidade.html#buscar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg>Buscar</a>
+        <a class="btn btn-sec btn-peq btn-buscar" href="buscar.html" aria-label="Buscar ideias de presente"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg><span class="txt-buscar">Buscar</span></a>
         <button class="btn btn-sec btn-peq btn-menu" type="button" aria-expanded="false" aria-controls="menu">Menu</button>
       </div>
     </div>
