@@ -16,11 +16,11 @@
   "cor": "rosa",
   "pre": "mat-",
   "capa": {
-    "src": "imagens/capa-presente-para-maternidade.webp",
+    "src": "imagens/capa-maternidade-gestante.webp",
     "alt": "Gestante sorrindo no sofá com sapatinhos de bebê na barriga, notebook e sacola de presente"
   },
   "cartao": {
-    "src": "imagens/capa-presente-para-maternidade.webp",
+    "src": "imagens/capa-maternidade-gestante.webp",
     "alt": "Gestante sorrindo no sofá com sapatinhos de bebê na barriga, notebook e sacola de presente"
   },
   "fatos": [

@@ -17,7 +17,7 @@ Fotos do Magnific baixadas com a conta da A.G. em 19/11/2026 (licença gratuita:
 | aniversario.jpg (abertura) | magnific | https://www.magnific.com/br/fotos-gratis/casais-comemorando-aniversario_34085808.htm |
 | presentinho.jpg (abertura) | magnific | https://www.magnific.com/br/fotos-gratis/mulher-sorridente-de-close-up-segurando-o-pequeno-presente_5878641.htm |
 | luzes.jpg (abertura) | arthurhidden | https://www.magnific.com/br/fotos-gratis/uma-mulher-morena-bonita-abre-um-presente-adoravel-com-luzes_13083198.htm |
-| capa-presente-para-maternidade.webp | gpointstudio | https://www.magnific.com/br/fotos-gratis/futura-mae-fazendo-compras-online-em-casa_11100381.htm |
+| capa-maternidade-gestante.webp | gpointstudio | https://www.magnific.com/br/fotos-gratis/futura-mae-fazendo-compras-online-em-casa_11100381.htm |
 | autora.jpg | A.G. | Foto enviada pela autora |
 | basquete-capa.avif, capa-*.avif, produtos/p*.avif | oquedar.com | Do próprio site |
 | produtos/recorte/*.webp | oquedar.com | Recortes feitos a partir das fotos de produto |
