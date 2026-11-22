@@ -53,7 +53,7 @@ const produtos = L.map(([o, nome, perfil, pros, contras, alt], i) => {
 // capa: foto do Lummi (uso livre), enviada pela A.G.; original 1920 x 2400, recortada em 3:2
 const capa = { src: 'imagens/capa-chocolate-para-presentear.webp', alt: 'Bombons de chocolate ao leite, amargo e branco em formato de coração sobre fundo rosa', largura: 1400, altura: 933 };
 const post = {
-  slug: SLUG, status: 'agendado', data: '2026-11-25', publicar: '2026-11-25T09:00:00-03:00',
+  slug: SLUG, status: 'agendado', data: '2026-11-25', publicar: '2026-11-25T07:00:00-03:00',
   titulo: 'Chocolate para presentear: opções clássicas, diferentes e especiais',
   titleTagCompleto: 'Chocolate para presentear: 35 sugestões especiais',
   desc: 'Chocolate para presentear vai muito além da caixa de bombons tradicional. Conheça 35 ideias, de trufas e barras especiais a kits e cestas.',

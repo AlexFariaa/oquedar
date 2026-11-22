@@ -375,7 +375,7 @@ Decisões da A.G.: fotos da Amazon podem ter o fundo retirado; preços atualizad
 - Fotos: 21 da Amazon, recortadas, em `imagens/posts/presente-para-amigo-secreto-criativo/` com nomes descritivos. Porta-copos e caneca Biblioteca são fotos com cenário (o recorte mantém o fundo).
 
 ## Post "Presente para amigo secreto criativo" (montagem, 22/11/2026)
-- Texto, títulos, alt texts, destaques, prós/contras e marca-texto da outra IA. Title "Presente para amigo secreto criativo: o que dar?" (48 caracteres, sem o " · O que dar?" para não repetir), meta description e H1 escolhidos pela A.G., endereço /presente-para-amigo-secreto-criativo/. Agendado para 24/11/2026, 9h.
+- Texto, títulos, alt texts, destaques, prós/contras e marca-texto da outra IA. Title "Presente para amigo secreto criativo: o que dar?" (48 caracteres, sem o " · O que dar?" para não repetir), meta description e H1 escolhidos pela A.G., endereço /presente-para-amigo-secreto-criativo/. Agendado para 24/11/2026, 9h (depois mudado para 7h).
 - Categorias: Ocasião (trilha Ocasião > Amigo secreto) e Preço (o post é organizado por faixa de preço; é o primeiro da categoria Preço). Na categoria Ocasião entraram os filtros "Natal e amigo secreto" (este post) e "Chegada do bebê" (maternidade).
 - Links internos (duas frases acrescentadas ao texto): no "Como escolher", link para presentes para quem gosta de cerveja; no fechamento, link para a categoria Ocasião. Os posts de 25 a 27/11 devem linkar de volta para este.
 - Contras trocados por contras de verdade: "capacidade de 414 ml" virou "mais cara que caneca comum"; "potência de 5 W" virou "som para ambientes pequenos"; "precisa de essência" virou "essência vendida à parte"; LEGO e biscoiteira ganharam contra de preço. Palavra-chave em 2 alt texts (caneca Biblioteca e mini impressora).
@@ -395,10 +395,13 @@ Decisões da A.G.: fotos da Amazon podem ter o fundo retirado; preços atualizad
 
 ## Post "Chocolate para presentear" (montagem, 22/11/2026)
 - Texto, títulos, alt texts, destaques, prós/contras e marca-texto da outra IA; o texto veio sem marcações e os títulos (H1, 5 grupos em H2, 35 presentes e perguntas em H3) foram refeitos. Tiradas do texto as menções à "ficha" (produtos 15, 19 e 29).
-- SEO: title "Chocolate para presentear: 35 sugestões especiais" (49 caracteres, sem o " · O que dar?"), meta description da outra IA (138), H1 "Chocolate para presentear: opções clássicas, diferentes e especiais", endereço /chocolate-para-presentear/. Agendado para 25/11/2026, 9h.
+- SEO: title "Chocolate para presentear: 35 sugestões especiais" (49 caracteres, sem o " · O que dar?"), meta description da outra IA (138), H1 "Chocolate para presentear: opções clássicas, diferentes e especiais", endereço /chocolate-para-presentear/. Agendado para 25/11/2026, 9h (depois mudado para 7h).
 - Categorias: Interesse (trilha Interesse > Chocolate) e Ocasião. Na Interesse entrou o assunto "Chocolate e doces"; na Ocasião o post fica em "Natal e amigo secreto". O gerador de categorias agora aceita um assunto diferente em cada categoria.
 - Links internos: na pergunta sobre amigo secreto, link para o post de amigo secreto criativo; no fechamento, link para a categoria Interesse. Link de volta no post de amigo secreto (frase nova no "Como escolher"), que só aparece quando o de chocolate for publicado.
 - "Melhor custo" trocado da caixa Golden Gift para a caixa Mini Show Pistache (a mais barata das caixas de presente). Contras que não eram contras ("Edição de Natal", "Não detalha os sabores", "Combinação de sabor específica"...) trocados por contras de verdade (preço pelo peso, chocolate comprado à parte etc.). Palavra-chave em 2 alt texts (panela Mondial e cesta Cacau Show).
 - Nota do Mercado Livre só entra com 20 ou mais avaliações (uma nota 5,0 com 1 avaliação passaria na frente da Amazon).
 - Capa: foto do Lummi (uso livre) escolhida pela A.G., original 1920 x 2400, recortada no centro em 3:2, 1400 x 933 em .webp (64 KB), `imagens/capa-chocolate-para-presentear.webp`; alt "Bombons de chocolate ao leite, amargo e branco em formato de coração sobre fundo rosa".
 - Conferido com `OQD_AGORA=2026-11-25T10:00:00-03:00`: 35 presentes, nenhuma foto quebrada, sem erros no console, sem rolagem lateral no celular, filtros das categorias certos.
+
+## Horário de publicação (22/11/2026)
+- A pedido da A.G., todos os posts passam a ser agendados para 7h (antes, 9h). Mudados os que ainda não saíram: amigo secreto criativo (24/11) e chocolate para presentear (25/11). O de cerveja (23/11) já estava às 7h. Os já publicados ficam como estão.

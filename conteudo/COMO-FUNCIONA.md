@@ -20,7 +20,7 @@ Regras de exibição: preço e nota só aparecem quando existem; a nota mostrada
 
 ## 4. Publicação
 - `status: "publicado"`: entra no site no próximo envio.
-- `status: "agendado"` com `publicar: "2026-12-01T09:00:00-03:00"`: o robô do GitHub publica sozinho quando a hora chegar (ele tenta a cada 15 minutos; o GitHub às vezes atrasa, então confira o post depois do horário), atualizando inicial, categorias, "Outros posts" e o `sitemap.xml`.
+- `status: "agendado"` com `publicar: "2026-12-01T07:00:00-03:00"`: (horário padrão: 7h) o robô do GitHub publica sozinho quando a hora chegar (ele tenta a cada 15 minutos; o GitHub às vezes atrasa, então confira o post depois do horário), atualizando inicial, categorias, "Outros posts" e o `sitemap.xml`.
 - `status: "rascunho"`: fica guardado, fora do site.
 
 ## 5. Atualização de preços (sob demanda)

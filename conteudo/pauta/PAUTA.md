@@ -18,12 +18,12 @@ Regra de ouro: **um post por intenção**. Várias palavras do mesmo assunto ("d
 
 ## Cronograma (publicar de 3 a 6 semanas antes da data)
 **Aprovado pela A.G. em 22/11/2026: as semanas de 23/11 a 18/12. Janeiro em diante e as datas de 2027 ainda serão decididos juntos.**
-**Frequência: 5 posts por semana, de segunda a sexta, publicados às 9h.** Se um dia não der, o post passa para o dia seguinte e o resto da semana anda junto.
+**Frequência: 5 posts por semana, de segunda a sexta, publicados às 7h (mudança pedida pela A.G. em 22/11/2026; antes era 9h).** Se um dia não der, o post passa para o dia seguinte e o resto da semana anda junto.
 
 ### Semana 23 a 29/11: Natal e amigo secreto (urgente, o pico é na 1ª quinzena de dezembro)
 - **seg 23/11**: presentes para quem gosta de cerveja (590, kd 6): **pronto e agendado (23/11, 7h)**
-- **ter 24/11**: presente para amigo secreto criativo / dicas de presente amigo secreto (590, kd 7) + lembrancinha unissex (590): **pronto e agendado (24/11, 9h)**
-- **qua 25/11**: chocolate para presentear (sua) + chocolate para dar de presente (480) + amigo chocolate criativo (390): **pronto e agendado (25/11, 9h)**
+- **ter 24/11**: presente para amigo secreto criativo / dicas de presente amigo secreto (590, kd 7) + lembrancinha unissex (590): **pronto e agendado (24/11, 7h)**
+- **qua 25/11**: chocolate para presentear (sua) + chocolate para dar de presente (480) + amigo chocolate criativo (390): **pronto e agendado (25/11, 7h)**
 - **qui 26/11**: sugestão de presente de Natal / ideias presente natal (590, kd 8)
 - **sex 27/11**: presente de Natal para amiga (590, kd 9) + presente para amiga secreta criativo (590)
 

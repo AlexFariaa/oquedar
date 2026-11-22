@@ -38,7 +38,7 @@ const produtos = L.map(([nome, perfil, pros, contras, alt], i) => {
 // capa: foto do Magnific (zinkevych), baixada pela conta da A.G. em tamanho original
 const capa = { src: 'imagens/capa-presente-para-amigo-secreto-criativo.webp', alt: 'Homem cobre os olhos de uma mulher sorridente enquanto segura uma caixa de presente para surpreendê-la', largura: 1400, altura: 931 };
 const post = {
-  slug: SLUG, status: 'agendado', data: '2026-11-24', publicar: '2026-11-24T09:00:00-03:00',
+  slug: SLUG, status: 'agendado', data: '2026-11-24', publicar: '2026-11-24T07:00:00-03:00',
   titulo: 'Presente para amigo secreto criativo: 21 sugestões para acertar na escolha',
   titleTagCompleto: 'Presente para amigo secreto criativo: o que dar?',
   desc: 'De itens para café a jogos e acessórios, encontre um presente para amigo secreto criativo entre 21 opções para vários estilos e bolsos.',
