@@ -16,7 +16,8 @@ Regra de ouro: **um post por intenção**. Várias palavras do mesmo assunto ("d
 | presente para casa | sem dado | – | nenhum concorrente | Natal; chá de casa nova |
 | presente para recém-nascido | sem dado | – | (entra no post do bebê) | qualquer época |
 
-## Cronograma sugerido (publicar de 3 a 6 semanas antes da data)
+## Cronograma (publicar de 3 a 6 semanas antes da data)
+**Aprovado pela A.G. em 22/11/2026: as semanas de 23/11 a 18/12. Janeiro em diante e as datas de 2027 ainda serão decididos juntos.**
 **Frequência: 5 posts por semana, de segunda a sexta, publicados às 9h.** Se um dia não der, o post passa para o dia seguinte e o resto da semana anda junto.
 
 ### Semana 23 a 29/11: Natal e amigo secreto (urgente, o pico é na 1ª quinzena de dezembro)
