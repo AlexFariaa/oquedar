@@ -286,7 +286,7 @@ const cab = (atual) => `
         <a href="https://oquedar.com/sobre-nos/">Sobre</a>
       </nav>
       <div class="acoes">
-        <button class="btn btn-sec btn-peq btn-fav" type="button" id="abre-fav" aria-controls="gaveta" aria-expanded="false">${CORACAO}<span class="txt-fav">Favoritos</span><span class="cont" id="fav-cont">0</span></button>
+        <button class="btn btn-sec btn-peq btn-fav" type="button" id="abre-fav" aria-label="Favoritos salvos" aria-controls="gaveta" aria-expanded="false">${CORACAO}<span class="txt-fav">Favoritos</span><span class="cont" id="fav-cont">0</span></button>
         <a class="btn btn-sec btn-peq btn-buscar" href="buscar.html" aria-label="Buscar ideias de presente"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg><span class="txt-buscar">Buscar</span></a>
         <button class="btn btn-sec btn-peq btn-menu" type="button" aria-expanded="false" aria-controls="menu">Menu</button>
       </div>
@@ -336,7 +336,7 @@ const rodape = `
     <p class="creditos">Fotos: Magnific (benzoix, ArthurHidden, gpointstudio e equipe Magnific), Lummi (lébéa) e oquedar.com.</p>
   </div>
 </footer>
-<button class="assist-bt" type="button" id="assist-bt" aria-controls="assist" aria-expanded="false"><span class="bola"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z"/></svg></span><span class="txt-a">Dúvidas?</span></button>
+<button class="assist-bt" type="button" id="assist-bt" aria-label="Dúvidas? Abrir ajuda" aria-controls="assist" aria-expanded="false"><span class="bola"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z"/></svg></span><span class="txt-a">Dúvidas?</span></button>
 <div class="balao" id="balao" role="status" hidden><span id="balao-t"></span><button type="button" id="balao-x" aria-label="Fechar lembrete">&times;</button></div>
 <aside class="assist" id="assist" aria-labelledby="t-assist" hidden>
   <div class="assist-topo"><span class="bola" aria-hidden="true"></span><span><b id="t-assist">Assistente O que dar?</b><span class="meta">Respostas rápidas sobre o site</span></span><button class="btn btn-sec btn-peq" type="button" id="assist-x">Fechar</button></div>
