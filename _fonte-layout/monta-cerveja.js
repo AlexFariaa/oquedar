@@ -45,7 +45,7 @@ const post = {
   categorias: ['interesse'], cat: 'Interesse', trilha: 'interesse', trilhaAtual: 'Cerveja', cor: 'pessego', pre: 'cv-',
   capa, cartao: capa,
   fatos: [['22 ideias', 'do kit artesanal à chopeira'], ['5 tipos de presente', 'beber, servir, gelar, bar e aprender'], ['3 lojas comparadas', 'Amazon, Mercado Livre e Shopee']],
-  pouco: [[1, 'Melhor no geral', 'Quatro estilos numa embalagem pronta para presente.'], [4, 'Melhor custo', 'Caneca de vidro de 510 ml em formato de caveira.'], [21, 'Mais criativo', 'Equipamento e ingredientes para fazer cerveja em casa.']],
+  pouco: [[0, 'Melhor no geral', 'Quatro estilos numa embalagem pronta para presente.'], [3, 'Melhor custo', 'Caneca de vidro de 510 ml em formato de caveira.'], [20, 'Mais criativo', 'Equipamento e ingredientes para fazer cerveja em casa.']],
   posNemTodo: null,
   marcas: ['O recipiente também faz parte da experiência de apreciar uma cerveja.', 'O mais importante é escolher algo que tenha relação com os interesses de quem vai receber.'],
   links: [['presentes para homens de 30 anos', 'presentes-para-homens-30-anos.html'], ['ideias de presentes por interesse', 'categoria-interesse.html']],
