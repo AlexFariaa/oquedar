@@ -346,7 +346,7 @@ td.preco-c{font-weight:var(--peso-forte)}
 .tabela-caixa .btn{font-weight:500}
 /* celular: número e nome primeiro, depois a imagem, nota, prós e contras, preço */
 @media (max-width:900px){
-  html:not(.m-compacto) .prod-topo{display:flex;flex-direction:column;gap:var(--e4)}
+  html:not(.m-compacto) .prod-topo{display:flex;flex-direction:column;align-items:stretch;gap:var(--e4)}
   html:not(.m-compacto) .prod-info{display:contents}
   html:not(.m-compacto) .prod-info>.num{order:1}
   html:not(.m-compacto) .prod-info>.sub{order:2;margin-top:calc(var(--e3) * -1)}
