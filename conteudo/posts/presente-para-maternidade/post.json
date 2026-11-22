@@ -1,0 +1,619 @@
+{
+  "slug": "presente-para-maternidade",
+  "status": "publicado",
+  "data": "2026-11-21",
+  "publicar": "2026-11-21T09:00:00-03:00",
+  "titulo": "15 ideias de presente para maternidade: opções para mãe e bebê",
+  "titleTagCompleto": "Presente para maternidade: 15 ideias para mãe e bebê",
+  "desc": "Procurando um presente para maternidade? Veja 15 sugestões para o bebê, para a mãe e para tornar os primeiros meses mais especiais.",
+  "palavraChave": "presente para maternidade",
+  "categorias": [
+    "ocasiao"
+  ],
+  "cat": "Ocasião",
+  "trilha": "ocasiao",
+  "trilhaAtual": "Maternidade",
+  "cor": "rosa",
+  "pre": "mat-",
+  "capa": {
+    "src": "imagens/capa-presente-para-maternidade.webp",
+    "alt": "Almofada de amamentação, naninha, livro do bebê, paninhos de boca e bodies sobre fundo rosa"
+  },
+  "cartao": {
+    "src": "imagens/capa-presente-para-maternidade.webp",
+    "alt": "Almofada de amamentação, naninha, livro do bebê, paninhos de boca e bodies sobre fundo rosa"
+  },
+  "fatos": [
+    [
+      "15 ideias",
+      "do body ao canguru"
+    ],
+    [
+      "3 momentos",
+      "para o bebê, para a mãe e para os primeiros meses"
+    ],
+    [
+      "3 lojas comparadas",
+      "Amazon, Mercado Livre e Shopee"
+    ]
+  ],
+  "pouco": [
+    [
+      8,
+      "Melhor no geral",
+      "Conforto para a mãe em todas as mamadas."
+    ],
+    [
+      4,
+      "Melhor custo",
+      "Barato, útil e fácil de levar na visita."
+    ],
+    [
+      7,
+      "Mais afetivo",
+      "Vira lembrança para guardar por anos."
+    ]
+  ],
+  "posNemTodo": null,
+  "marcas": [
+    "é uma maneira carinhosa de participar dessa nova fase",
+    "o mais importante é considerar as necessidades e preferências de quem vai receber"
+  ],
+  "links": [
+    [
+      "presentes para homens de 30 anos",
+      "presentes-para-homens-30-anos.html"
+    ]
+  ],
+  "produtos": [
+    {
+      "nome": "Kit de 8 bodies de manga curta Simple Joys by Carter's",
+      "img": "imagens/posts/presente-para-maternidade/kit-bodies-carters-manga-curta.webp",
+      "alt": "Kit com oito bodies de manga curta Simple Joys by Carter's em branco e tons de cinza",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Enxoval",
+        "Clássico"
+      ],
+      "pros": [
+        "Vem com 8 peças",
+        "Cores neutras combinam com tudo"
+      ],
+      "contras": [
+        "Bebês crescem rápido: escolha bem o tamanho"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07NGXP45B?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 21566,
+          "preco": 133.18,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Kit com 3 cueiros flanelados Papi",
+      "img": "imagens/posts/presente-para-maternidade/kit-cueiros-flanelados-papi.webp",
+      "alt": "Três cueiros flanelados Papi dobrados, em tons de rosa com estampa delicada",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Enxoval",
+        "Barato"
+      ],
+      "pros": [
+        "Flanela 100% algodão",
+        "Três unidades no kit"
+      ],
+      "contras": [
+        "Muitas famílias já ganham cueiros"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07DJVZF1V?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 8208,
+          "preco": 21.88,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/2zzcnJv",
+          "preco": 44.68,
+          "verificado": "2026-11-21",
+          "nota": 4.8,
+          "avaliacoes": 589
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/7pv0FeenIN",
+          "preco": 19.99,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Naninha Buba Ovelhinha",
+      "img": "imagens/posts/presente-para-maternidade/naninha-buba-ovelhinha.webp",
+      "alt": "Naninha Buba bege em formato de ovelhinha, com estrelas bordadas",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Afetivo",
+        "Lúdico"
+      ],
+      "pros": [
+        "Leve e sem pilhas",
+        "Visual delicado"
+      ],
+      "contras": [
+        "Siga as orientações de uso no sono"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07CVRJVXX?tag=oquedar-20",
+          "nota": 4.9,
+          "avaliacoes": 2362,
+          "preco": 56.9,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/1PsdjBF",
+          "preco": 65.95,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 14
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/2gCu6BxegY",
+          "preco": 61.8,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Toalha com capuz Papi Mami Bichuus",
+      "img": "imagens/posts/presente-para-maternidade/toalha-capuz-papi-mami-bichuus.webp",
+      "alt": "Toalha infantil com capuz de coelhinho bordado, Papi Mami Bichuus, em branco e cinza",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Banho",
+        "Enxoval"
+      ],
+      "pros": [
+        "Forrada com tecido de fralda",
+        "Tamanho que acompanha o crescimento"
+      ],
+      "contras": [
+        "Ocupa mais espaço na mala"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07N28G8MQ?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 1242,
+          "preco": 58.89,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/23G4Fs6",
+          "preco": 72.9,
+          "verificado": "2026-11-21",
+          "nota": 4.8,
+          "avaliacoes": 184
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/9AQNqAPIr5",
+          "preco": 66,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Kit com 3 paninhos de boca Papi",
+      "img": "imagens/posts/presente-para-maternidade/kit-paninhos-boca-papi.webp",
+      "alt": "Três paninhos de boca Papi estampados, com fita para prender a chupeta",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Barato",
+        "Prático"
+      ],
+      "pros": [
+        "Prende a chupeta",
+        "Cabe na bolsa do bebê"
+      ],
+      "contras": [
+        "Presente simples, bom para combinar com outro"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07XJ77K19?tag=oquedar-20",
+          "nota": 4.9,
+          "avaliacoes": 2538,
+          "preco": 15.35,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/31GRWuj",
+          "preco": 26.18,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 668
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/2qWKIXibuF",
+          "preco": 24.49,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Móbile Tiny Love Take Along",
+      "img": "imagens/posts/presente-para-maternidade/mobile-tiny-love-take-along.webp",
+      "alt": "Móbile Tiny Love Take Along com bichinhos coloridos pendurados, para berço e carrinho",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Quarto",
+        "Estímulo"
+      ],
+      "pros": [
+        "Serve no berço e no carrinho",
+        "5 melodias"
+      ],
+      "contras": [
+        "Pilhas AA não inclusas"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B071HPN2JW?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 9176,
+          "preco": 124.91,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/2JxLx6m",
+          "preco": 124.91,
+          "verificado": "2026-11-21",
+          "nota": 4.8,
+          "avaliacoes": 585
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4fxyTzitKn",
+          "preco": 174.48,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Saída de maternidade Sanches Baby com 7 peças",
+      "img": "imagens/posts/presente-para-maternidade/saida-maternidade-sanches-baby.webp",
+      "alt": "Saída de maternidade Sanches Baby verde e cru, com casaquinho, touca, luvas, sapatinhos e manta",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Especial",
+        "Para guardar"
+      ],
+      "pros": [
+        "Conjunto completo de 7 peças",
+        "Marca a ida para casa"
+      ],
+      "contras": [
+        "Os pais podem já ter escolhido a saída"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B09Z4V1GCP?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 233,
+          "preco": 216.25,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/2BQ4Hq5",
+          "preco": 259.1,
+          "verificado": "2026-11-21",
+          "nota": 5,
+          "avaliacoes": 2
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/3B9AhC2waf",
+          "preco": 229.42,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Livro Primeiro Ano do Bebê",
+      "img": "imagens/posts/presente-para-maternidade/livro-primeiro-ano-do-bebe.webp",
+      "alt": "Capa azul do livro Primeiro Ano do Bebê, com ilustração de elefantinho",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Afetivo",
+        "Barato"
+      ],
+      "pros": [
+        "Vira lembrança para a vida",
+        "Espaço para fotos e recados"
+      ],
+      "contras": [
+        "Pede tempo dos pais para preencher"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/8533100000?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 1096,
+          "preco": 20.34,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/1JLAigY",
+          "preco": 19,
+          "verificado": "2026-11-21",
+          "nota": 4.8,
+          "avaliacoes": 29
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/50aosZrA2j",
+          "preco": 19.3,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Almofada de amamentação extra grande",
+      "img": "imagens/posts/presente-para-maternidade/almofada-amamentacao-extra-grande.webp",
+      "alt": "Almofada de amamentação rosê extra grande, com babado e laço",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Para a mãe",
+        "Conforto"
+      ],
+      "pros": [
+        "Capa removível com zíper",
+        "Enchimento em refil"
+      ],
+      "contras": [
+        "A família pode já ter uma"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0C1HZV4SD?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 439,
+          "preco": 55.95,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/1K9HLwC",
+          "preco": 58.9,
+          "verificado": "2026-11-21",
+          "nota": 4.8,
+          "avaliacoes": 378
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/70LtGIUivs",
+          "preco": 47.89,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Copo Stanley Quencher de 1,18 litro",
+      "img": "imagens/posts/presente-para-maternidade/copo-stanley-quencher-118l.webp",
+      "alt": "Copo Stanley Quencher de 1,18 litro rosa-claro, com alça e canudo",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Para a mãe",
+        "Uso pessoal"
+      ],
+      "pros": [
+        "Mantém a bebida gelada",
+        "Tampa com canudo e alça"
+      ],
+      "contras": [
+        "Mais caro que copos comuns"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0BTHPZ9J4?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 4622,
+          "preco": 161.19,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/1Dbv4gg",
+          "preco": 189.68,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 2525
+        }
+      }
+    },
+    {
+      "nome": "Kit com 2 camisolas de amamentação em viscose",
+      "img": "imagens/posts/presente-para-maternidade/kit-camisolas-amamentacao-viscose.webp",
+      "alt": "Duas mulheres usando camisolas de amamentação em viscose com botões na frente",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Para a mãe",
+        "Conforto"
+      ],
+      "pros": [
+        "Abertura com botões para amamentar",
+        "Duas peças no kit"
+      ],
+      "contras": [
+        "Depende de acertar o tamanho"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0CFLX8PBT?tag=oquedar-20",
+          "nota": 4.4,
+          "avaliacoes": 233,
+          "preco": 85.4,
+          "verificado": "2026-11-21"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/1qdn6t8mfl",
+          "preco": 75.9,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Luz noturna recarregável com acionamento por toque",
+      "img": "imagens/posts/presente-para-maternidade/luz-noturna-recarregavel-toque.webp",
+      "alt": "Luz noturna de toque com brilho quente, ao lado do controle remoto",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Noites",
+        "Prático"
+      ],
+      "pros": [
+        "Luz quente e regulável",
+        "Timer e controle remoto"
+      ],
+      "contras": [
+        "Mais uma coisa para recarregar"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0CNPQRL72?tag=oquedar-20",
+          "nota": 4.4,
+          "avaliacoes": 1901,
+          "preco": 42.74,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Bolsa maternidade mochila impermeável BH Store",
+      "img": "imagens/posts/presente-para-maternidade/mochila-maternidade-bh-store.webp",
+      "alt": "Bolsa maternidade BH Store azul-marinho em formato de mochila",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Passeios",
+        "Prático"
+      ],
+      "pros": [
+        "Mãos livres",
+        "Bolsos térmicos para mamadeira"
+      ],
+      "contras": [
+        "Volumosa para levar na visita"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B08F8S43KN?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 2172,
+          "preco": 166.49,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/2HW8m4u",
+          "preco": 122.89,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 885
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/BVZ7t4IkF",
+          "preco": 319.9,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Babá eletrônica TP-Link Tapo C210",
+      "img": "imagens/posts/presente-para-maternidade/baba-eletronica-tp-link-tapo-c210.webp",
+      "alt": "Câmera TP-Link Tapo C210 ao lado da caixa e de um celular com o aplicativo",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Tecnologia",
+        "Segurança"
+      ],
+      "pros": [
+        "Avisa quando detecta choro",
+        "Visão noturna"
+      ],
+      "contras": [
+        "Precisa de Wi-Fi e configuração"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B095CLQ1PT?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 45744,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/2KrjxkN",
+          "preco": 142.42,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 7736
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4LL85Vu7zK",
+          "preco": 233.75,
+          "verificado": "2026-11-21"
+        }
+      }
+    },
+    {
+      "nome": "Canguru Cosco Kids Loop",
+      "img": "imagens/posts/presente-para-maternidade/canguru-cosco-kids-loop.webp",
+      "alt": "Canguru Cosco Kids Loop preto para carregar o bebê junto ao corpo",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Passeios",
+        "Primeiros meses"
+      ],
+      "pros": [
+        "Bebê perto do corpo",
+        "Lavável à máquina"
+      ],
+      "contras": [
+        "Só até 9 kg",
+        "Nem toda família usa"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B084DSPYG8?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 2611,
+          "preco": 104.74,
+          "verificado": "2026-11-21"
+        },
+        "ml": {
+          "url": "https://meli.la/1spgryF",
+          "preco": 104.75,
+          "verificado": "2026-11-21",
+          "nota": 4.9,
+          "avaliacoes": 1563
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/2VtTuBqxU4",
+          "preco": 149,
+          "verificado": "2026-11-21"
+        }
+      }
+    }
+  ]
+}

@@ -121,6 +121,10 @@ body:not(.cab-oculto) .filtro{top:88px}
 .contagem{font-size:var(--t-rotulo);color:var(--apoio);margin-bottom:var(--e3)}
 
 .produto{padding:var(--e7) 0;border-top:1px solid var(--fio)}
+.grupo-prod{padding:var(--e8) 0 var(--e5);border-top:1px solid var(--fio)}
+.grupo-prod h2{font-size:clamp(1.6rem,1.2rem + 1.6vw,2.3rem);margin:0 0 var(--e4)}
+.grupo-prod+.produto{border-top:0}
+#produtos .produto h3.sub{font-size:clamp(1.35rem,1.1rem + 1vw,1.8rem)}
 .produto[hidden]{display:none}
 .prod-topo{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:var(--e5);align-items:start}
 .prod-foto{position:sticky;top:160px;grid-column:1/span 5;aspect-ratio:1;border-radius:var(--raio);overflow:hidden}
@@ -174,6 +178,7 @@ a.nome:hover{text-decoration:underline}
 .faq details{border-top:1px solid var(--fio)}
 .faq summary{list-style:none;display:flex;justify-content:space-between;align-items:center;gap:var(--e4);min-height:64px;padding:var(--e4) 0;cursor:pointer;font-weight:var(--peso-forte);font-size:var(--t-abertura);line-height:1.35}
 .faq summary::-webkit-details-marker{display:none}
+.faq-q{font:inherit;margin:0;color:inherit}
 .faq summary .mais-ico{flex:none;width:44px;height:44px;border-radius:50%;border:1.5px solid var(--fio-forte);position:relative;transition:transform .3s var(--curva),background-color .2s var(--curva)}
 .faq summary .mais-ico::before,.faq summary .mais-ico::after{content:"";position:absolute;left:50%;top:50%;width:14px;height:2px;background:currentColor;transform:translate(-50%,-50%)}
 .faq summary .mais-ico::after{transform:translate(-50%,-50%) rotate(90deg)}

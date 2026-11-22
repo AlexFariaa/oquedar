@@ -23,6 +23,7 @@ function blocosHtml(itens, ind = '            ') {
 
 function montaArtigo(D) {
   const P = D.produtos, N = P.length, nomes = P.map(p => p.nome);
+  const G = D.grupos || [], hProd = G.length ? 'h3' : 'h2'; // com grupos, cada presente é H3 dentro do H2 do grupo
   const imgProd = i => `<img class="img-prod${P[i].cheia ? ' cheia' : ''}" src="${P[i].img}" loading="lazy" decoding="async" width="600" height="600" alt="${esc(P[i].alt)}">`;
   const fpItem = i => `<li><a href="#p-${i + 1}"><span class="fp-img c-${P[i].cor}"><span class="fp-n">${String(i + 1).padStart(2, '0')}</span>${imgProd(i)}</span><span class="fp-t">${esc(nomes[i])}</span></a></li>`;
   const favPresente = (i, comTexto) => { const p = P[i], n = i + 1; const attrs = `data-fav-tipo="presentes" data-fav-id="${D.pre}p-${n}" data-fav-nome="${esc(nomes[i])}" data-fav-url="${D.arquivo}#p-${n}" data-fav-cor="${p.cor}" aria-pressed="false"`;
@@ -38,7 +39,7 @@ function montaArtigo(D) {
         <div class="prod-foto c-${p.cor}">${imgFav(i)}${favPresente(i, false)}</div>
         <div class="prod-info">
           <span class="num">${String(n).padStart(2, '0')} de ${N}</span>
-          <h2 class="sub">${esc(p.titulo)}</h2>
+          <${hProd} class="sub">${esc(p.titulo)}</${hProd}>
           <div class="tags">${p.perfil.map(t => `<span class="tag">${t}</span>`).join('')}</div>
           ${nota ? `<div class="avaliacao"><span class="nota"><b>${nota.nota.toFixed(1).replace('.', ',')} ★</b><span class="meta">na ${nota.nome}${nota.avaliacoes ? ` · ${nota.avaliacoes.toLocaleString('pt-BR')} avaliações` : ''}</span></span></div>` : ''}
           <details class="pc-det" open><summary>Prós e contras</summary><div class="pc">
@@ -56,6 +57,7 @@ ${blocosHtml(p.itens, '        ')}      </div>
 
   // índice: só as seções que o post tem
   const indice = [['intro', 'Introdução'], ['rapido', 'Se você tem pouco tempo'], ['selecao', 'Seleção O que dar?']];
+  G.forEach((g, k) => indice.push(['grupo-' + (k + 1), g.curto || g.titulo.replace(/:.*$/, '')]));
   if (D.comoEscolhemos) indice.push(['escolhemos', 'Como escolhemos']);
   indice.push(['comp', 'Comparativo rápido']);
   if (D.qualCombina) indice.push(['qual', 'Qual presente combina']);
@@ -65,7 +67,16 @@ ${blocosHtml(p.itens, '        ')}      </div>
   const listaIndice = indice.map(([id, t]) => `<li><a href="#${id}">${t}</a></li>`).join('');
 
   const temPreco = P.some(p => ofertasDe(p).pr.length), temNota = P.some(p => notaDe(p));
-  const total = P.map((p, i) => cardProduto(p, i));
+  const total = P.map((p, i) => {
+    const g = G.findIndex(x => x.de === i);
+    const cabG = g < 0 ? '' : `
+    <div class="grupo-prod" id="grupo-${g + 1}">
+      <h2 class="sub" id="t-grupo-${g + 1}">${esc(G[g].titulo)}</h2>
+      <div class="leitura">
+${blocosHtml(G[g].itens, '        ')}      </div>
+    </div>`;
+    return cabG + cardProduto(p, i);
+  });
   const posPausa = D.nemTodo ? Math.min(D.posNemTodo || 10, N) : N;
   let pausa = '';
   if (D.nemTodo) {
@@ -223,9 +234,9 @@ ${D.qualCombina ? `
         </section>
 ` : ''}${(D.extras || []).map((x, k) => textoSec('extra-' + k, x)).join('')}${D.faq ? `
         <section class="secao-art texto-art bloco-escuro" id="faq" aria-labelledby="t-faq">
-          <h2 class="sub" id="t-faq">Perguntas Frequentes</h2>
+          <h2 class="sub" id="t-faq">${esc(D.faq.titulo)}</h2>
           <div class="faq">${faqPares.map(q => `
-            <details><summary>${esc(q[0])}<span class="mais-ico" aria-hidden="true"></span></summary>${q[1].map(r => `<p class="resp">${esc(r)}</p>`).join('')}</details>`).join('')}
+            <details><summary><h3 class="faq-q">${esc(q[0])}</h3><span class="mais-ico" aria-hidden="true"></span></summary>${q[1].map(r => `<p class="resp">${esc(r)}</p>`).join('')}</details>`).join('')}
           </div>
         </section>
 ` : ''}${D.fechamento ? `
@@ -361,6 +372,17 @@ ${rodape}
   // marca-texto só dentro do conteúdo (nunca no título ou na descrição da página)
   const marca = (h, txt) => { const i = h.indexOf('<main'), k = h.indexOf(esc(txt), i); if (i < 0 || k < 0) { console.warn('marca-texto não achado:', txt.slice(0, 50)); return h; } return h.slice(0, k) + '<span class="marca-txt">' + esc(txt) + '</span><span class="cursor-tag" aria-hidden="true"><i></i><b>A.G.</b></span>' + h.slice(k + esc(txt).length); };
   for (const t of D.marcas || []) html = marca(html, t);
+  // dados estruturados (schema.org): trilha, lista de presentes e perguntas frequentes. Sem autor e sem data, a pedido da A.G.
+  const SITE = 'https://oquedar.com', urlPost = `${SITE}/${D.slug}/`, abs = s => /^https?:/.test(s) ? s : `${SITE}/${s.replace(/^\/+/, '')}`;
+  const ld = [
+    { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: SITE + '/' },
+      { '@type': 'ListItem', position: 2, name: D.trilha[0], item: `${SITE}/category/${D.trilha[1].replace(/^categoria-|\.html$/g, '')}/` },
+      { '@type': 'ListItem', position: 3, name: D.trilhaAtual, item: urlPost }] },
+    { '@context': 'https://schema.org', '@type': 'ItemList', name: D.h1, numberOfItems: N, itemListElement: P.map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: nomes[i], url: `${urlPost}#p-${i + 1}`, ...(p.img ? { image: abs(p.img) } : {}) })) },
+  ];
+  if (faqPares.length) ld.push({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqPares.map(([q, r]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: r.join(' ') } })) });
+  html = html.replace('</head>', ld.map(o => `<script type="application/ld+json">${JSON.stringify(o).replace(/</g, '\\u003c')}</script>`).join('\n') + '\n</head>');
   return html;
 }
 

@@ -25,10 +25,22 @@ for (const P0 of pub) {
   const post = lePost(arqTexto);
   textoPorPost[slug] = [post.h1, ...post.intro, ...post.secoes.flatMap(s => [s.titulo, ...s.itens.map(b => b.x)])].join(' ');
   const achaSec = re => post.secoes.find(s => re.test(s.titulo)) || null;
-  const numeradas = post.secoes.filter(s => /^\d+\. /.test(s.titulo));
+  let numeradas = post.secoes.filter(s => /^\d+\. /.test(s.titulo));
+  // presentes em H3 dentro de grupos (H2): "## Presentes para o bebê" > "### 1. Kit de bodies"
+  const grupos = [], secGrupo = new Set();
+  if (!numeradas.length) {
+    for (const s of post.secoes) {
+      const k0 = s.itens.findIndex(b => b.t === 'H3' && /^\d+\. /.test(b.x)); if (k0 < 0) continue;
+      secGrupo.add(s); grupos.push({ titulo: s.titulo, itens: s.itens.slice(0, k0), de: numeradas.length });
+      let atual = null;
+      for (const b of s.itens.slice(k0)) {
+        if (b.t === 'H3' && /^\d+\. /.test(b.x)) { atual = { titulo: b.x, itens: [] }; numeradas.push(atual); } else atual.itens.push(b);
+      }
+    }
+  }
   if (numeradas.length !== P0.produtos.length) console.warn(`ATENÇÃO ${slug}: ${numeradas.length} presentes no texto e ${P0.produtos.length} em post.json`);
   const comoEscolhemos = achaSec(/^Como (escolhemos|selecionamos)/i), nemTodo = achaSec(/^Nem Todo/i), qualCombina = achaSec(/^Qual Presente Combina/i), faq = achaSec(/^Perguntas Frequentes/i);
-  const usadas = new Set([comoEscolhemos, nemTodo, qualCombina, faq, ...numeradas]);
+  const usadas = new Set([comoEscolhemos, nemTodo, qualCombina, faq, ...numeradas, ...secGrupo]);
   const sobra = post.secoes.filter(s => !usadas.has(s) && !/^(Neste artigo|Sugestões de Presentes)/i.test(s.titulo));
   const fechamento = sobra.length ? sobra[sobra.length - 1] : null, extras = sobra.slice(0, -1);
   const a0 = lista.find(a => a.slug === slug);
@@ -40,7 +52,7 @@ for (const P0 of pub) {
   produtosPorPost[slug] = produtos.map((p, i) => ({ nome: p.nome, img: p.img, alt: p.alt, cor: p.cor, cheia: p.cheia, lojas: p.lojas, url: `${slug}.html#p-${i + 1}`, id: (P0.pre || '') + 'p-' + (i + 1) }));
   const D = {
     slug, arquivo: slug + '.html', pre: P0.pre || '',
-    titleTag: (P0.titleTag || post.h1) + ' · O que dar?', desc: P0.desc || (post.intro[0] || post.h1).slice(0, 155),
+    titleTag: P0.titleTagCompleto || (P0.titleTag || post.h1) + ' · O que dar?', grupos, desc: P0.desc || (post.intro[0] || post.h1).slice(0, 155),
     h1: post.h1, dataTxt: dataLonga(P0.data), leitura: Math.max(3, Math.round(post.palavras / 200)),
     trilha: [CATNOME[P0.trilha] || P0.trilha, `categoria-${P0.trilha}.html`], trilhaAtual: P0.trilhaAtual,
     capa: P0.capa, fatos: P0.fatos, intro: post.intro, produtos,
