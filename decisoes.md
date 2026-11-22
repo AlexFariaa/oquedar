@@ -320,3 +320,9 @@ Decisões da A.G.: fotos da Amazon podem ter o fundo retirado; preços atualizad
 - Massageador Cervical Shiatsu e Casio G-Shock, que tinham ficado sem link por causa dos links errados do WordPress, agora aparecem com o Mercado Livre.
 - Itens parecidos, não idênticos, a conferir pela A.G.: Porta-Retrato Digital (ML: modelo Wi-Fi de 10"; Amazon: acrílico de 5"), Cesta Cacau Show (ML: cesta de revendedor), Luz Noturna 3D de basquete (ML: bola 3D Chicago Bulls), bonés New Era (ML: time diferente), Kit Cerveja (ML: kit de 6 latas IPA).
 - Catálogo (`catalogo/produtos.json`) refeito do zero para tirar duas entradas antigas dos links errados.
+
+## Shopee nos posts (21/11/2026)
+- A busca direta em shopee.com.br pediu verificação de tráfego já na primeira tentativa; a pesquisa foi feita pela "Oferta de produto" do portal de afiliados (affiliate.shopee.com.br), uma busca por vez, e o link de afiliada (s.shopee.com.br) saiu do botão "Obter link" de cada produto.
+- 51 dos 69 presentes têm link da Shopee, com preço de 21/11/2026. A Shopee não mostra nota nem avaliações no portal de afiliados, então a nota exibida continua vindo da Amazon ou do Mercado Livre. Dados em `_fonte-layout/pesquisa-shopee.json`.
+- Sem Shopee: UNO No Mercy (só kits com vários UNO), Escrevi um Livro Sobre Nós, Garmin Forerunner 165 e 55 (só acessórios), FlipBelt, Arboleaf, Boné Adidas Superlite, JBL Endurance Peak 3, Stanley Aerolight Fast Flow, JBL Charge 5, Kit Cerveja Artesanal, Caneca Boston Celtics (só personalizadas não oficiais), Boné 59FIFTY NBA (só de times de beisebol), camisetas/moletom Ultra Game e Bola DRV azul.
+- Situação final: 48 presentes nas três lojas, 13 em duas, 8 só na Amazon. Nenhum presente ficou sem loja.

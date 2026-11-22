@@ -95,6 +95,11 @@
           "verificado": "2026-11-21",
           "nota": 4.9,
           "avaliacoes": 327
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/9V3E9l9Lsh",
+          "preco": 143,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -153,6 +158,11 @@
           "verificado": "2026-11-21",
           "nota": 4.7,
           "avaliacoes": 23
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/1gKMpOyILG",
+          "preco": 19.8,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -212,6 +222,11 @@
           "verificado": "2026-11-21",
           "nota": 4.9,
           "avaliacoes": 138
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/20xDE2ecR7",
+          "preco": 179.9,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -265,6 +280,11 @@
         "ml": {
           "url": "https://meli.la/2ZKdjUg",
           "preco": 149.9,
+          "verificado": "2026-11-21"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/5q9vn6LI5x",
+          "preco": 178.42,
           "verificado": "2026-11-21"
         }
       }
@@ -323,6 +343,11 @@
           "avaliacoes": 3407,
           "preco": 166.64,
           "verificado": "2026-11-21"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/1gKMpTIbo1",
+          "preco": 270.44,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -355,6 +380,11 @@
           "verificado": "2026-11-21",
           "nota": 4.9,
           "avaliacoes": 140
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/3qOrPT5cqd",
+          "preco": 191.09,
+          "verificado": "2026-11-21"
         }
       }
     },
@@ -464,6 +494,11 @@
           "verificado": "2026-11-21",
           "nota": 4.5,
           "avaliacoes": 4
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/1qdn1pC1Ej",
+          "preco": 10,
+          "verificado": "2026-11-21"
         }
       }
     }
