@@ -29,7 +29,7 @@ const produtos = L.map(([nome, asin, preco, nota, av, arq, perfil, pros, contras
   if (R.shopee[n]) lojas.shopee = { url: R.shopee[n][1], preco: R.shopee[n][0], verificado: HOJE };
   return { nome, img: `imagens/posts/${SLUG}/${arq}.webp`, alt, cheia: false, cor: CORES[i % 3], perfil, pros, contras, lojas };
 });
-const capa = { src: 'imagens/capa-melhor-presente-menino-3-anos.webp', alt: 'Caminhão de bombeiro, xilofone, LEGO DUPLO, jogo da memória e bicicleta de equilíbrio sobre fundo lilás' };
+const capa = { src: 'imagens/capa-menino-3-anos-unicornio.webp', alt: 'Criança de cabelo cacheado sorrindo e segurando um unicórnio de pelúcia' };
 const post = {
   slug: SLUG, status: 'agendado', data: HOJE, publicar: `${HOJE}T09:00:00-03:00`,
   titulo: 'Melhor presente para menino de 3 anos: ideias para gastar energia e se divertir',
