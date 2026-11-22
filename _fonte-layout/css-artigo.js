@@ -112,7 +112,7 @@ const CSS_ART = CSS_COMP + `
 .escolha h3{font-size:var(--t-corpo);line-height:1.35}
 @media (hover:hover){.escolha:hover{transform:translateY(-4px);box-shadow:0 18px 40px rgba(70,30,40,.10)}}
 
-.filtro{position:sticky;top:var(--e3);z-index:calc(var(--z-cab) - 1);display:flex;flex-wrap:wrap;align-items:center;gap:var(--e2);padding:var(--e2);margin-bottom:var(--e5);border-radius:var(--pilula);background:rgba(255,255,255,.75);-webkit-backdrop-filter:blur(16px);backdrop-filter:blur(16px);border:1px solid #fff;box-shadow:0 10px 30px rgba(70,30,40,.06);transition:top .35s var(--curva)}
+.filtro{position:relative;z-index:calc(var(--z-cab) - 1);display:flex;flex-wrap:wrap;align-items:center;gap:var(--e2);padding:var(--e2);margin-bottom:var(--e5);border-radius:var(--pilula);background:rgba(255,255,255,.75);-webkit-backdrop-filter:blur(16px);backdrop-filter:blur(16px);border:1px solid #fff;box-shadow:0 10px 30px rgba(70,30,40,.06);transition:top .35s var(--curva)}
 body:not(.cab-oculto) .filtro{top:88px}
 .filtro .rotulo{padding:0 var(--e3)}
 .filtro button{font:inherit;min-height:44px;padding:0 var(--e4);border-radius:var(--pilula);border:1.5px solid var(--fio-forte);background:transparent;color:var(--tinta);cursor:pointer;transition:background-color .2s var(--curva),color .2s var(--curva),border-color .2s var(--curva)}
