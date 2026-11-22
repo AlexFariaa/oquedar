@@ -17,35 +17,35 @@ Regra de ouro: **um post por intenção**. Várias palavras do mesmo assunto ("d
 | presente para recém-nascido | sem dado | – | (entra no post do bebê) | qualquer época |
 
 ## Cronograma sugerido (publicar de 3 a 6 semanas antes da data)
-A frequência é decisão da A.G.; abaixo há até 5 ideias por semana, em ordem de prioridade.
+**Frequência: 5 posts por semana, de segunda a sexta, publicados às 9h.** Se um dia não der, o post passa para o dia seguinte e o resto da semana anda junto.
 
 ### Semana 23 a 29/11: Natal e amigo secreto (urgente, o pico é na 1ª quinzena de dezembro)
-1. presente para amigo secreto criativo / dicas de presente amigo secreto (590, kd 7) + lembrancinha unissex (590)
-2. chocolate para presentear (sua)
-3. sugestão de presente de Natal / ideias presente natal (590, kd 8)
-4. presente de Natal para amiga (590, kd 9) + presente para amiga secreta criativo (590)
-5. presente de formatura (990, kd 5): formaturas são em dezembro
+- **seg 23/11**: presente para amigo secreto criativo / dicas de presente amigo secreto (590, kd 7) + lembrancinha unissex (590)
+- **ter 24/11**: chocolate para presentear (sua)
+- **qua 25/11**: sugestão de presente de Natal / ideias presente natal (590, kd 8)
+- **qui 26/11**: presente de Natal para amiga (590, kd 9) + presente para amiga secreta criativo (590)
+- **sex 27/11**: presente de formatura (990, kd 5): formaturas são em dezembro
 
 ### Semana 30/11 a 6/12
-1. ideia de presente de Natal para namorado (590, kd 13)
-2. presente para chefe homem / sugestão de presente para chefe feminino (590 / 480): amigo secreto da firma
-3. presente para professor (610, kd 9): fim do ano letivo
-4. presentes tecnológicos para homens / presentes masculinos criativos (590, kd 7)
-5. presente para casa (sua): Natal e casa nova
+- **seg 30/11**: ideia de presente de Natal para namorado (590, kd 13)
+- **ter 1/12**: presente para chefe homem / sugestão de presente para chefe feminino (590 / 480): amigo secreto da firma
+- **qua 2/12**: presente para professor (610, kd 9): fim do ano letivo
+- **qui 3/12**: presentes tecnológicos para homens / presentes masculinos criativos (590, kd 7)
+- **sex 4/12**: presente para casa (sua): Natal e casa nova
 
 ### Semana 7 a 13/12
-1. presente para marido (740, kd 7)
-2. ideias de presente para esposa (590, kd 7)
-3. lembrança para médico (sua): fim de ano no consultório
-4. presente para mulheres / presentes até 100 reais feminino (910 / 590, kd 7)
-5. presente barato (910, kd 9): compras de última hora
+- **seg 7/12**: presente para marido (740, kd 7)
+- **ter 8/12**: ideias de presente para esposa (590, kd 7)
+- **qua 9/12**: lembrança para médico (sua): fim de ano no consultório
+- **qui 10/12**: presente para mulheres / presentes até 100 reais feminino (910 / 590, kd 7)
+- **sex 11/12**: presente barato (910, kd 9): compras de última hora
 
 ### Semana 14 a 20/12 (última hora de Natal)
-1. presente para adolescentes (990, kd 8)
-2. o que dar de presente de 15 anos (sua) + presente para menino de 15 anos (590)
-3. presente de aniversário para menina de 10 anos (sua) + meninos de 10 anos (660)
-4. o que dar de presente para homem (990, kd 8)
-5. presentes para namorado (760, kd 9)
+- **seg 14/12**: presente para adolescentes (990, kd 8)
+- **ter 15/12**: o que dar de presente de 15 anos (sua) + presente para menino de 15 anos (590)
+- **qua 16/12**: presente de aniversário para menina de 10 anos (sua) + meninos de 10 anos (660)
+- **qui 17/12**: o que dar de presente para homem (990, kd 8)
+- **sex 18/12**: presentes para namorado (760, kd 9)
 
 ### Janeiro e fevereiro (sem data forte: bons para os assuntos de sempre)
 - presente criativo para bebê recém-nascido (sua), presente para pai de primeira viagem (590), presente para menino de 1 ano (590)
