@@ -12,7 +12,7 @@ Regra de ouro: **um post por intenção**. Várias palavras do mesmo assunto ("d
 | o que dar de presente de 15 anos | 590 | 6 | buscandopresente (5º) | qualquer época; forte em dezembro (festas) |
 | presente de aniversário para menina de 10 anos | 590 | 6 | buscandopresente (4º), presentespara (9º) | qualquer época; Dia das Crianças (out) |
 | lembrança para médico | 590 | 6 | buscandopresente (19º) | fim de ano e Dia do Médico (18/out) |
-| chocolate para presentear | sem dado | – | nenhum concorrente | Natal, amigo secreto e Páscoa |
+| ~~chocolate para presentear~~ (agendado 25/11; atualizar na Páscoa) | sem dado | – | nenhum concorrente | Natal, amigo secreto e Páscoa |
 | presente para casa | sem dado | – | nenhum concorrente | Natal; chá de casa nova |
 | presente para recém-nascido | sem dado | – | (entra no post do bebê) | qualquer época |
 
@@ -23,7 +23,7 @@ Regra de ouro: **um post por intenção**. Várias palavras do mesmo assunto ("d
 ### Semana 23 a 29/11: Natal e amigo secreto (urgente, o pico é na 1ª quinzena de dezembro)
 - **seg 23/11**: presentes para quem gosta de cerveja (590, kd 6): **pronto e agendado (23/11, 7h)**
 - **ter 24/11**: presente para amigo secreto criativo / dicas de presente amigo secreto (590, kd 7) + lembrancinha unissex (590): **pronto e agendado (24/11, 9h)**
-- **qua 25/11**: chocolate para presentear (sua)
+- **qua 25/11**: chocolate para presentear (sua) + chocolate para dar de presente (480) + amigo chocolate criativo (390): **pronto e agendado (25/11, 9h)**
 - **qui 26/11**: sugestão de presente de Natal / ideias presente natal (590, kd 8)
 - **sex 27/11**: presente de Natal para amiga (590, kd 9) + presente para amiga secreta criativo (590)
 

@@ -1,0 +1,55 @@
+{
+ "data": "2026-11-22",
+ "fonte": "2ª rodada (a 1ª foi recusada: itens de mercado não são presenteáveis). Amazon: 46 buscas em lote; Mercado Livre: 10 buscas (Kopenhagen, Cacau Show, Dengo, Lindt, Godiva, Dubai, degustação, Gramado, Ferrero Collection, fondue). Preço da busca; ML sem nota na busca.",
+ "formato": "[n, loja, id, nome, preço, nota, avaliações, imagem]  loja a = Amazon (id = ASIN), m = Mercado Livre (id = MLB/MLBU)",
+ "grupos": [
+  ["Caixas de bombons e trufas de marca", [
+   [1, "a", "B0HHG5G4NZ", "Trufas Kopenhagen Língua de Gato 120 g", 49.90, 5.0, 20, "61D+DFdoN4L"],
+   [2, "a", "B0B2G25GB1", "Cacau Show Clássicos Golden Gift sortido 160 g", 66.40, 5.0, 11, "61A1DZalcGL"],
+   [3, "a", "B0GYZR4XQC", "Kopenhagen caixa de bombons degustação", 89.19, 4.4, 12, "41L5Y6j4uvL"],
+   [4, "m", "MLB2120883619", "Ferrero Collection Grand Assortment, bombons sortidos 158,9 g", 93, null, null, "697150-MLB119494446218_112026"],
+   [5, "m", "MLB54116826", "Lata presente Lindt com 10 trufas sortidas", 147, null, null, "730874-MLA99403687296_112025"],
+   [6, "m", "MLBU1726823609", "Bombons Clássicos Kopenhagen 180 g, caixa presente com 18", 144, null, null, "622514-MLB91633689183_092025"],
+   [7, "m", "MLB2121497823", "Dengo lata de trufas ao leite 132 g (Natal)", 159, null, null, "642454-MLB121390435913_112026"],
+   [8, "m", "MLB2118403022", "Lindt Dulces Deseos, caixa de bombons finos 143 g", 179, null, null, "703664-MLB112256329122_062026"],
+   [9, "m", "MLB2083821907", "Nhá Benta Kopenhagen tradicional, caixa com 6", 192, null, null, "692185-MLB91633579813_092025"],
+   [10, "a", "B005SOJBUI", "Trufas Lindt Lindor sortidas 337 g", 141.55, 4.4, 236, "61s+WNWqq5L"],
+   [11, "a", "B09P8WS97D", "Bombons Ferrero Rocher, caixa com 48", 146.49, 4.8, 535, "71y8wJu4R4L"],
+   [12, "m", "MLBU5899801144", "Dengo lata Rochedos de noz-pecã e castanha-de-caju 170 g", 259, null, null, "913894-MLB121391067419_112026"]
+  ]],
+  ["Chocolates diferentes (para quem já provou de tudo)", [
+   [13, "m", "MLB2081066760", "Mini Show Pistache Cacau Show, caixa de bombons 108 g", 38, null, null, "741654-MLB106600974861_022026"],
+   [14, "a", "B0FKXCC3TR", "Chocolate orgânico Mendoá 81% cacau", 40.75, 4.8, 13, "81qxtoCVEvL"],
+   [15, "m", "MLBU5894473039", "Kit degustação 6 minichocolates de 25 g, Grankakao", 61, null, null, "800152-MLB121748230853_112026"],
+   [16, "a", "B0FL6TH2NB", "Barra Bacio di Latte sabor pistache", 74.85, 4.5, 208, "61z0eC9PEtL"],
+   [17, "m", "MLBU4786011670", "Chocolate Dubai branco com pistache e kunafa 80 g", 78, null, null, "949065-MLB116314349303_082026"],
+   [18, "a", "B0HDDGWDJW", "Kit Kopenhagen + Nescafé Dolce Gusto, cápsulas Língua de Gato", 81.90, 5.0, 23, "51nACR0jgLL"],
+   [19, "m", "MLBU4448113527", "10 minibarras de chocolate de origem, Acauá Cacao", 99, null, null, "710516-MLB113901080952_072026"],
+   [20, "a", "B07KZG6YCW", "Lindt Gold ao leite com avelãs 300 g", 129.19, 4.7, 1000, "61-fENue12L"],
+   [21, "m", "MLBU4100187097", "Lindt Dubai Style 70%, edição especial pistache e kadayif", 159, null, null, "902295-MLA112204245330_062026"],
+   [22, "m", "MLB2132784742", "Dengo drágeas de cupuaçu 150 g", 179, null, null, "875891-MLB121923686787_112026"],
+   [23, "m", "MLBU4041296050", "Godiva Masterpieces ao leite com avelã", 212, null, null, "829834-MLA111487123486_052026"],
+   [24, "m", "MLBU3972138276", "Godiva chocolate Dubai crocante com kadayif e pistache 122 g", 295, null, null, "995754-MLB110700391190_052026"]
+  ]],
+  ["Chocolate de Natal", [
+   [25, "a", "B0HN4DG219", "Kit Chaminé do Noel com caneca e bola de Natal, Chocolataria Gramado", 78.00, null, 0, "71EGocK1ysL"],
+   [26, "a", "B0HN4BJQ4F", "Kit Mimo de Natal, Chocolataria Gramado", 149.71, null, 0, "71t7kUoUtsL"],
+   [27, "a", "B096LK4S3S", "Calendário do Advento Milka", 149.90, 4.3, 337, "71IOxfVFtgL"],
+   [28, "m", "MLBU5855380399", "Cubos de panetone Dengo 200 g", 219, null, null, "654473-MLB121463101705_112026"]
+  ]],
+  ["Experiências com chocolate", [
+   [29, "a", "B07MB7S8FF", "Conjunto para fondue em inox, 10 peças", 74.95, 4.5, 98, "51D5u62grUL"],
+   [30, "m", "MLBU3957172286", "Kit fondue para casal com petisqueira de madeira", 78, null, null, "869562-MLB111404025147_052026"],
+   [31, "a", "8539629429", "Livro \"Enciclopédia do chocolate\"", 86.95, 4.9, 194, "51yzv1aYzQL"],
+   [32, "m", "MLBU5043746713", "Kit para produzir chocolate artesanal 70% em casa", 160, null, null, "870082-MLB115551843666_082026"],
+   [33, "a", "B09V39N65M", "Panela elétrica para fondue Oster (110 V e 220 V)", 183.74, 4.9, 554, "51FMJp5eYOL"],
+   [34, "a", "B08KHD84BG", "Panela elétrica para fondue Mondial", 244.05, 4.9, 131, "51TbOjwsmeL"],
+   [35, "a", "B0C5S7KDTV", "Kit fondue de chocolate Nostalgia, com marshmallows", 266.91, 4.3, 840, "71b182zW+9L"]
+  ]],
+  ["Cestas prontas", [
+   [36, "m", "MLBU5430455963", "Cesta Lindt Lindor em formato de coração", 189, null, null, "916888-MLB117503921628_102026"],
+   [37, "m", "", "Cesta presente Cacau Show com 25 chocolates", 269, null, null, "885970-MLB117855498844_102026"],
+   [38, "m", "", "Cesta zero açúcar Lindt e Kopenhagen", 349, null, null, "692345-MLB89071978723_072025"]
+  ]]
+ ]
+}

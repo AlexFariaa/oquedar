@@ -19,8 +19,10 @@ const CATS = [
   ['Namoro', 'namoro', 'rosa', 'Presentes para namoro.', 'Ideias para cada fase do namoro, do primeiro mês às datas especiais.', 'imagens/aniversario.jpg', 'Casais comemorando um aniversário'],
 ];
 // assuntos de exemplo só na categoria Interesse (aprovado no layout)
-const SUBS = { interesse: [['todos', 'Todos'], ['esportes', 'Esportes'], ['games', 'Games'], ['musica', 'Música'], ['cafe', 'Café'], ['bebidas', 'Bebidas'], ['leitura', 'Leitura'], ['cozinha', 'Cozinha']], ocasiao: [['todos', 'Todos'], ['natal', 'Natal e amigo secreto'], ['bebe', 'Chegada do bebê']] };
-const subDe = { 'presentes-para-quem-gosta-de-basquete.html': 'esportes', 'presente-para-quem-gosta-de-correr.html': 'esportes', 'presentes-para-quem-gosta-de-cerveja.html': 'bebidas', 'presente-para-amigo-secreto-criativo.html': 'natal', 'presente-para-maternidade.html': 'bebe' };
+const SUBS = { interesse: [['todos', 'Todos'], ['esportes', 'Esportes'], ['games', 'Games'], ['musica', 'Música'], ['cafe', 'Café'], ['bebidas', 'Bebidas'], ['chocolate', 'Chocolate e doces'], ['leitura', 'Leitura'], ['cozinha', 'Cozinha']], ocasiao: [['todos', 'Todos'], ['natal', 'Natal e amigo secreto'], ['bebe', 'Chegada do bebê']] };
+const subDe = { 'presentes-para-quem-gosta-de-basquete.html': 'esportes', 'presente-para-quem-gosta-de-correr.html': 'esportes', 'presentes-para-quem-gosta-de-cerveja.html': 'bebidas', 'presente-para-amigo-secreto-criativo.html': 'natal', 'presente-para-maternidade.html': 'bebe', 'chocolate-para-presentear.html': { interesse: 'chocolate', ocasiao: 'natal' } };
+// um post em duas categorias pode ter um assunto em cada uma
+const subNa = (u, cat) => { const v = subDe[u]; return v && typeof v === 'object' ? v[cat] : v; };
 const { ofertasDe, reais: reaisO } = require('./ofertas.js');
 
 // presentes de um post: basquete vem da base; os outros, de posts.js
@@ -71,7 +73,7 @@ ${cab('cat')}
     <h2 class="sr" id="t-lista">Artigos de presentes por ${nome.toLowerCase()}</h2>
     ${subs ? `<div class="sub-filtro" role="group" aria-label="Filtrar por assunto">${subs.map((s, k) => `<button type="button" data-sub="${s[0]}" aria-pressed="${k === 0}">${s[1]}</button>`).join('')}</div>` : ''}
     <div class="ordem"><p class="meta" id="cat-cont" aria-live="polite">Mostrando ${nA} ${nA === 1 ? 'artigo' : 'artigos'}</p></div>
-    <div class="cat-artigos" id="cat-artigos">${daCat.map((a, i) => cartao(a, i === 0 && nA > 1, subDe[a.u])).join('')}
+    <div class="cat-artigos" id="cat-artigos">${daCat.map((a, i) => cartao(a, i === 0 && nA > 1, subNa(a.u, slug))).join('')}
       <div class="vazio-cat" id="vazio-cat"${nA ? ' hidden' : ''}>${qLogo()}<p class="sub">Ainda não temos ideias aqui.</p><p class="meta">Esse assunto está chegando. Enquanto isso, veja os outros ou salve a categoria nos favoritos.</p></div>
     </div>
   </section>

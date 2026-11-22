@@ -156,7 +156,7 @@ Depois, considere o que sabe sobre a pessoa sorteada. Se ela gosta de café, por
 
 Também vale pensar se a pessoa costuma preferir presentes úteis ou divertidos. Garrafas e canecas térmicas são opções funcionais para o cotidiano, enquanto um quebra-cabeça ou um conjunto de porta-copos com frases engraçadas pode trazer um toque de descontração. Não existe uma única resposta certa: o importante é escolher algo que tenha a ver com o estilo de quem vai receber.
 
-Se você não conhece muito bem a pessoa, prefira presentes versáteis e que não dependam de gostos muito específicos. Acessórios para bebidas não alcoólicas, itens para casa, canecas e objetos de organização podem ser alternativas mais seguras. Nesses casos, a ideia é escolher algo que tenha boas chances de ser aproveitado, sem tentar adivinhar preferências muito particulares.
+Se você não conhece muito bem a pessoa, prefira presentes versáteis e que não dependam de gostos muito específicos. Acessórios para bebidas não alcoólicas, itens para casa, canecas e objetos de organização podem ser alternativas mais seguras. Nesses casos, a ideia é escolher algo que tenha boas chances de ser aproveitado, sem tentar adivinhar preferências muito particulares. Para quem ama doces, uma boa saída são as ideias de chocolate para presentear.
 
 ## Perguntas frequentes sobre presente para amigo secreto
 

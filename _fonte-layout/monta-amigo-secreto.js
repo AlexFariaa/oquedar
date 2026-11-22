@@ -49,7 +49,7 @@ const post = {
   pouco: [[5, 'Melhor no geral', 'Uma opção versátil para acompanhar bebidas ao longo do dia.'], [0, 'Melhor custo', 'Uma lembrancinha divertida que também ajuda a proteger a mesa.'], [16, 'Mais criativo', 'Imprime etiquetas, listas, fotos e lembretes pelo celular.']],
   posNemTodo: null,
   marcas: ['As ideias estão organizadas por faixa de preço, já que a maioria dos sorteios de amigo secreto combina um valor antes da troca.', 'Um presente para amigo secreto criativo não precisa ser caro nem muito elaborado.'],
-  links: [['presentes para quem gosta de cerveja', 'presentes-para-quem-gosta-de-cerveja.html'], ['ideias de presente por ocasião', 'categoria-ocasiao.html']],
+  links: [['presentes para quem gosta de cerveja', 'presentes-para-quem-gosta-de-cerveja.html'], ['ideias de presente por ocasião', 'categoria-ocasiao.html'], ['ideias de chocolate para presentear', 'chocolate-para-presentear.html']],
   produtos,
 };
 const dir = path.join(__dirname, '..', 'conteudo', 'posts', SLUG); fs.mkdirSync(dir, { recursive: true });

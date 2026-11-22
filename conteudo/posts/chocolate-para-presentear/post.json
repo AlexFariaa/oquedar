@@ -1,0 +1,1150 @@
+{
+  "slug": "chocolate-para-presentear",
+  "status": "agendado",
+  "data": "2026-11-25",
+  "publicar": "2026-11-25T09:00:00-03:00",
+  "titulo": "Chocolate para presentear: opções clássicas, diferentes e especiais",
+  "titleTagCompleto": "Chocolate para presentear: 35 sugestões especiais",
+  "desc": "Chocolate para presentear vai muito além da caixa de bombons tradicional. Conheça 35 ideias, de trufas e barras especiais a kits e cestas.",
+  "palavraChave": "chocolate para presentear",
+  "categorias": [
+    "interesse",
+    "ocasiao"
+  ],
+  "cat": "Interesse · Ocasião",
+  "trilha": "interesse",
+  "trilhaAtual": "Chocolate",
+  "cor": "lavanda",
+  "pre": "ch-",
+  "capa": {
+    "src": "imagens/capa-chocolate-para-presentear.webp",
+    "alt": "Bombons de chocolate ao leite, amargo e branco em formato de coração sobre fundo rosa",
+    "largura": 1400,
+    "altura": 933
+  },
+  "cartao": {
+    "src": "imagens/capa-chocolate-para-presentear.webp",
+    "alt": "Bombons de chocolate ao leite, amargo e branco em formato de coração sobre fundo rosa",
+    "largura": 1400,
+    "altura": 933
+  },
+  "fatos": [
+    [
+      "35 ideias",
+      "de caixas clássicas a fondue"
+    ],
+    [
+      "5 tipos de presente",
+      "caixas, diferentes, Natal, fondue e cestas"
+    ],
+    [
+      "3 lojas comparadas",
+      "Amazon, Mercado Livre e Shopee"
+    ]
+  ],
+  "pouco": [
+    [
+      4,
+      "Melhor no geral",
+      "Reúne bombons variados em uma caixa pronta para presentear."
+    ],
+    [
+      13,
+      "Melhor custo",
+      "Bombons de pistache numa caixa pronta para presentear."
+    ],
+    [
+      15,
+      "Mais criativo",
+      "Oferece cinco sabores para experimentar em pequenas porções."
+    ]
+  ],
+  "posNemTodo": null,
+  "marcas": [
+    "Uma seleção bem pensada pode transformar um doce em uma lembrança especial",
+    "A escolha fica mais fácil quando você considera o gosto da pessoa, a ocasião e o tipo de experiência que gostaria de proporcionar."
+  ],
+  "links": [
+    [
+      "ideias de presente para amigo secreto criativo",
+      "presente-para-amigo-secreto-criativo.html"
+    ],
+    [
+      "ideias de presente por interesse",
+      "categoria-interesse.html"
+    ]
+  ],
+  "produtos": [
+    {
+      "nome": "Trufas Kopenhagen Língua de Gato 120 g",
+      "img": "imagens/posts/chocolate-para-presentear/trufas-kopenhagen-lingua-de-gato-120g.webp",
+      "alt": "Dez minitrufas de chocolate ao leite com recheio cremoso, embaladas individualmente.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Trufas",
+        "Clássico"
+      ],
+      "pros": [
+        "Embaladas individualmente",
+        "Recheio cremoso"
+      ],
+      "contras": [
+        "Apenas chocolate ao leite"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0HHG5G4NZ?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 49.9,
+          "nota": 5,
+          "avaliacoes": 20
+        }
+      }
+    },
+    {
+      "nome": "Cacau Show Clássicos Golden Gift 160 g",
+      "img": "imagens/posts/chocolate-para-presentear/cacau-show-classicos-golden-gift-160g.webp",
+      "alt": "Caixa de bombons sortidos de chocolate ao leite com recheios variados.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Sortidos",
+        "Presente"
+      ],
+      "pros": [
+        "Três tipos de recheio",
+        "Apresentação para presente"
+      ],
+      "contras": [
+        "Inclui cereja ao licor"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0B2G25GB1?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 66.4,
+          "nota": 5,
+          "avaliacoes": 11
+        },
+        "ml": {
+          "url": "https://meli.la/14FFzDH",
+          "preco": 89.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/3Vm2KtkcAG",
+          "preco": 79.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Bombons Kopenhagen Soul Good avelã zero açúcar 160 g",
+      "img": "imagens/posts/chocolate-para-presentear/bombons-kopenhagen-soul-good-zero-acucar.webp",
+      "alt": "Lata com oito bombons de chocolate ao leite e recheio de avelã.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Zero açúcar",
+        "Avelã"
+      ],
+      "pros": [
+        "Sem açúcar",
+        "Sem glúten e lactose"
+      ],
+      "contras": [
+        "Apenas oito bombons"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/16LjdYs",
+          "preco": 108,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/3LSc8alFVF",
+          "preco": 152.58,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kopenhagen Bombons Degradê Duo 176 g",
+      "img": "imagens/posts/chocolate-para-presentear/kopenhagen-caixa-bombons-degrade-duo.webp",
+      "alt": "Caixa com bombons de chocolate ao leite e chocolate amargo.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Duo",
+        "Bombons"
+      ],
+      "pros": [
+        "Chocolate ao leite",
+        "Chocolate amargo"
+      ],
+      "contras": [
+        "Preço alto pelo peso"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0GYZR4XQC?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 89.19,
+          "nota": 4.4,
+          "avaliacoes": 12
+        },
+        "ml": {
+          "url": "https://meli.la/2VxWRjb",
+          "preco": 157.16,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/3qOsjVjLUM",
+          "preco": 170.58,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Ferrero Collection Grand Assortment 158,9 g",
+      "img": "imagens/posts/chocolate-para-presentear/ferrero-collection-grand-assortment.webp",
+      "alt": "Caixa com seleção de bombons Ferrero de sabores variados.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Sortidos",
+        "Ferrero"
+      ],
+      "pros": [
+        "Sabores variados",
+        "Caixa de presente"
+      ],
+      "contras": [
+        "Pouca quantidade pelo preço"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/2SHhYM5",
+          "preco": 93.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kopenhagen Bombons Clássicos, caixa com 18",
+      "img": "imagens/posts/chocolate-para-presentear/kopenhagen-bombons-classicos-18-unidades.webp",
+      "alt": "Caixa com 18 bombons de chocolate amargo, branco e ao leite.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Clássicos",
+        "Sortidos"
+      ],
+      "pros": [
+        "Quatro combinações",
+        "18 unidades"
+      ],
+      "contras": [
+        "Nem todos gostam de frutas"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0HHFYX64B?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 101.74,
+          "nota": 4,
+          "avaliacoes": 1
+        },
+        "ml": {
+          "url": "https://meli.la/1YQD8uG",
+          "preco": 144.39,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Lata Lindt com 10 trufas Lindor sortidas",
+      "img": "imagens/posts/chocolate-para-presentear/lata-lindt-10-trufas-lindor.webp",
+      "alt": "Lata reutilizável com dez trufas Lindor de sabores variados.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Trufas",
+        "Lata"
+      ],
+      "pros": [
+        "Lata reutilizável",
+        "Sabores variados"
+      ],
+      "contras": [
+        "Apenas dez unidades"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/2f5D3Fj",
+          "preco": 147.24,
+          "verificado": "2026-11-22",
+          "nota": 4.9,
+          "avaliacoes": 51
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/3g5SXCjypL",
+          "preco": 158.4,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Lata Dengo de trufas ao leite 132 g",
+      "img": "imagens/posts/chocolate-para-presentear/dengo-lata-trufas-ao-leite.webp",
+      "alt": "Lata decorativa com 12 trufas de ganache ao leite cobertas com cacau em pó.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Natal",
+        "Trufas"
+      ],
+      "pros": [
+        "12 unidades",
+        "Lata reutilizável"
+      ],
+      "contras": [
+        "Preço alto pelo peso"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/2yUZfDA",
+          "preco": 159.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4B1j87i4oS",
+          "preco": 159.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Lindt Dulces Deseos 143 g",
+      "img": "imagens/posts/chocolate-para-presentear/lindt-dulces-deseos-bombons-finos.webp",
+      "alt": "Caixa com 15 bombons finos sortidos de chocolate amargo e ao leite.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Bombons",
+        "Sortidos"
+      ],
+      "pros": [
+        "15 bombons",
+        "Recheios variados"
+      ],
+      "contras": [
+        "Pouca quantidade pelo preço"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/23riJRn",
+          "preco": 179.91,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Nhá Benta Kopenhagen, caixa com 6",
+      "img": "imagens/posts/chocolate-para-presentear/nha-benta-kopenhagen-6-unidades.webp",
+      "alt": "Caixa com seis Nhá Bentas de marshmallow, wafer e cobertura de chocolate ao leite.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Marshmallow",
+        "Clássico"
+      ],
+      "pros": [
+        "Seis unidades",
+        "Combina wafer e marshmallow"
+      ],
+      "contras": [
+        "Apenas chocolate ao leite"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/2FfTi1v",
+          "preco": 192.39,
+          "verificado": "2026-11-22",
+          "nota": 4.7,
+          "avaliacoes": 20
+        }
+      }
+    },
+    {
+      "nome": "Trufas Lindt Lindor sortidas 337 g",
+      "img": "imagens/posts/chocolate-para-presentear/lindt-lindor-sortido-337g.webp",
+      "alt": "Caixa com trufas Lindor de chocolate ao leite, amargo extra e branco.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Trufas",
+        "Sortidos"
+      ],
+      "pros": [
+        "Três tipos de chocolate",
+        "Recheio cremoso"
+      ],
+      "contras": [
+        "Preço varia muito entre lojas"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B005SOJBUI?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 141.55,
+          "nota": 4.4,
+          "avaliacoes": 236
+        },
+        "ml": {
+          "url": "https://meli.la/2o6tAxA",
+          "preco": 249.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Ferrero Rocher, caixa com 48",
+      "img": "imagens/posts/chocolate-para-presentear/ferrero-rocher-48-unidades.webp",
+      "alt": "Caixa com 48 bombons de avelã, recheio cremoso, wafer e cobertura de chocolate.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Compartilhar",
+        "Avelã"
+      ],
+      "pros": [
+        "48 bombons",
+        "Pacotes com três unidades"
+      ],
+      "contras": [
+        "Um sabor só"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B09P8WS97D?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 146.49,
+          "nota": 4.8,
+          "avaliacoes": 535
+        },
+        "ml": {
+          "url": "https://meli.la/1NuJxAU",
+          "preco": 162.19,
+          "verificado": "2026-11-22",
+          "nota": 4.9,
+          "avaliacoes": 999
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/1LhXkwRj4j",
+          "preco": 184.99,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Lata Dengo Rochedos de noz-pecã e castanha-de-caju 170 g",
+      "img": "imagens/posts/chocolate-para-presentear/dengo-lata-rochedos-noz-peca-castanha.webp",
+      "alt": "Lata com rochedos de chocolate, noz-pecã e castanha-de-caju.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Castanhas",
+        "Natal"
+      ],
+      "pros": [
+        "Duas castanhas",
+        "Textura crocante"
+      ],
+      "contras": [
+        "Preço alto pelo peso"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/1pmycbK",
+          "preco": 259.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/1qdoLrPp3q",
+          "preco": 259.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Cacau Show Mini Show Pistache 108 g",
+      "img": "imagens/posts/chocolate-para-presentear/cacau-show-mini-show-pistache.webp",
+      "alt": "Caixa com bombons pequenos recheados com creme de pistache.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Pistache",
+        "Bombons"
+      ],
+      "pros": [
+        "Recheio cremoso",
+        "Sabor de pistache"
+      ],
+      "contras": [
+        "Só para quem gosta de pistache"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/2gE4upn",
+          "preco": 38.9,
+          "verificado": "2026-11-22",
+          "nota": 4.7,
+          "avaliacoes": 140
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/1gKO9YQSOp",
+          "preco": 58.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Chocolate orgânico Mendoá 81% com nibs 80 g",
+      "img": "imagens/posts/chocolate-para-presentear/chocolate-organico-mendoa-81-cacau.webp",
+      "alt": "Barra de chocolate orgânico 81% cacau com nibs crocantes.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Amargo",
+        "Orgânico"
+      ],
+      "pros": [
+        "Cacau 81%",
+        "Nibs crocantes"
+      ],
+      "contras": [
+        "Sabor intenso"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0FKXCC3TR?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 40.75,
+          "nota": 4.8,
+          "avaliacoes": 13
+        },
+        "ml": {
+          "url": "https://meli.la/1MEqVcP",
+          "preco": 44.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/2BGekTOYNw",
+          "preco": 42.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit degustação GranKakao com 6 minibarras",
+      "img": "imagens/posts/chocolate-para-presentear/kit-degustacao-grankakao-6-minibarras.webp",
+      "alt": "Kit com seis minibarras de chocolate em cinco sabores, incluindo cupuaçu e tangerina.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Degustação",
+        "Variados"
+      ],
+      "pros": [
+        "Cinco sabores",
+        "Seis minibarras"
+      ],
+      "contras": [
+        "Porções pequenas"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/25LJ1ev",
+          "preco": 61.41,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Chocolate Dubai branco com pistache e kunafa 80 g",
+      "img": "imagens/posts/chocolate-para-presentear/chocolate-dubai-branco-pistache-kunafa.webp",
+      "alt": "Barra de chocolate branco recheada com pistache e kunafa crocante.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Pistache",
+        "Diferente"
+      ],
+      "pros": [
+        "Recheio de pistache",
+        "Kunafa crocante"
+      ],
+      "contras": [
+        "Apenas 80 g"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0H3QT3SCD?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 49.9
+        },
+        "ml": {
+          "url": "https://meli.la/2nHoPXw",
+          "preco": 78.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/20xEYAPBiv",
+          "preco": 49.99,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit Kopenhagen Dolce Gusto Língua de Gato",
+      "img": "imagens/posts/chocolate-para-presentear/kit-kopenhagen-dolce-gusto-lingua-de-gato.webp",
+      "alt": "Kit com duas cápsulas Dolce Gusto sabor Língua de Gato e duas barras de chocolate.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Bebida",
+        "Kit"
+      ],
+      "pros": [
+        "Duas cápsulas",
+        "Duas barras"
+      ],
+      "contras": [
+        "Precisa de máquina Dolce Gusto"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0HDDGWDJW?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 81.9,
+          "nota": 5,
+          "avaliacoes": 23
+        }
+      }
+    },
+    {
+      "nome": "Acauá Cacao com 10 minibarras",
+      "img": "imagens/posts/chocolate-para-presentear/acaua-cacao-10-minibarras.webp",
+      "alt": "Conjunto com dez minibarras de chocolate tree to bar em cinco sabores.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Degustação",
+        "Origem"
+      ],
+      "pros": [
+        "Dez minibarras",
+        "Cinco sabores"
+      ],
+      "contras": [
+        "Porções de 15 g"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/1rzh6KM",
+          "preco": 99.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Lindt Gold ao leite 300 g",
+      "img": "imagens/posts/chocolate-para-presentear/lindt-gold-ao-leite-300g.webp",
+      "alt": "Tablete grande de chocolate ao leite Lindt.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Ao leite",
+        "Tablete"
+      ],
+      "pros": [
+        "300 g",
+        "Textura macia"
+      ],
+      "contras": [
+        "Apenas chocolate ao leite"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07KZG6YCW?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 129.19,
+          "nota": 4.7,
+          "avaliacoes": 1024
+        },
+        "ml": {
+          "url": "https://meli.la/2C7U3yb",
+          "preco": 169.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/6L6Di9LUC0",
+          "preco": 82.49,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Lindt Dubai Style 70% pistache e kadayif",
+      "img": "imagens/posts/chocolate-para-presentear/lindt-dubai-style-70-pistache-kadayif.webp",
+      "alt": "Barra de chocolate 70% cacau recheada com pistache e kadayif crocante.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Amargo",
+        "Pistache"
+      ],
+      "pros": [
+        "Cacau 70%",
+        "Recheio crocante"
+      ],
+      "contras": [
+        "Preço alto para uma barra"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/1a72qHK",
+          "preco": 159.91,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Dengo drágeas de cupuaçu 150 g",
+      "img": "imagens/posts/chocolate-para-presentear/dengo-drageas-de-cupuacu.webp",
+      "alt": "Drágeas de chocolate com cupuaçu, fruta da Amazônia.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Cupuaçu",
+        "Frutas"
+      ],
+      "pros": [
+        "Fruta amazônica",
+        "Combinação diferente"
+      ],
+      "contras": [
+        "Preço alto pelo peso"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/21uSJRV",
+          "preco": 179.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/6VPduSKqr3",
+          "preco": 179.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Godiva Masterpieces ao leite com avelã",
+      "img": "imagens/posts/chocolate-para-presentear/godiva-masterpieces-ao-leite-avela.webp",
+      "alt": "Chocolate belga ao leite com avelã em embalagem de 83 g.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Importado",
+        "Avelã"
+      ],
+      "pros": [
+        "Chocolate belga",
+        "Ao leite com avelã"
+      ],
+      "contras": [
+        "Caro para 83 g"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/1DUERJS",
+          "preco": 212,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/60TNJXMkry",
+          "preco": 195,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Godiva chocolate Dubai com kadayif e pistache 122 g",
+      "img": "imagens/posts/chocolate-para-presentear/godiva-chocolate-dubai-kadayif-pistache.webp",
+      "alt": "Chocolate ao leite com pistache de Antep e kadayif crocante.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Importado",
+        "Pistache"
+      ],
+      "pros": [
+        "Pistache de Antep",
+        "Kadayif crocante"
+      ],
+      "contras": [
+        "Importado e caro"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/1Aft1Mv",
+          "preco": 295.2,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit Chaminé do Noel com caneca, Chocolataria Gramado",
+      "img": "imagens/posts/chocolate-para-presentear/kit-chamine-do-noel-caneca-chocolataria-gramado.webp",
+      "alt": "Caneca temática com bola de Natal de chocolate ao leite e confeitos.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Natal",
+        "Caneca"
+      ],
+      "pros": [
+        "Caneca reutilizável",
+        "160 g de chocolate"
+      ],
+      "contras": [
+        "Tema natalino"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0HN4DG219?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 78
+        }
+      }
+    },
+    {
+      "nome": "Kit Mimo de Natal, Chocolataria Gramado",
+      "img": "imagens/posts/chocolate-para-presentear/kit-mimo-de-natal-chocolataria-gramado.webp",
+      "alt": "Cesta natalina decorada com seleção de chocolates e laço.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Natal",
+        "Cesta"
+      ],
+      "pros": [
+        "402 g de chocolates",
+        "Cesta pronta"
+      ],
+      "contras": [
+        "Tema natalino"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0HN4BJQ4F?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 149.71
+        }
+      }
+    },
+    {
+      "nome": "Calendário do Advento Milka",
+      "img": "imagens/posts/chocolate-para-presentear/calendario-do-advento-milka.webp",
+      "alt": "Calendário de Natal com 24 janelinhas de pequenos chocolates Milka.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Natal",
+        "Calendário"
+      ],
+      "pros": [
+        "24 janelinhas",
+        "Pequenos chocolates"
+      ],
+      "contras": [
+        "Uso ligado à contagem natalina"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B096LK4S3S?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 149.9,
+          "nota": 4.3,
+          "avaliacoes": 337
+        },
+        "ml": {
+          "url": "https://meli.la/1HRnhsX",
+          "preco": 169.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Dengo cubos de panetone 200 g",
+      "img": "imagens/posts/chocolate-para-presentear/dengo-cubos-de-panetone.webp",
+      "alt": "Cubos de panetone cobertos com chocolate ao leite 50% cacau.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Panetone",
+        "Natal"
+      ],
+      "pros": [
+        "200 g",
+        "Chocolate 50% cacau"
+      ],
+      "contras": [
+        "Preço alto pelo peso"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/2FffCdF",
+          "preco": 219,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Conjunto para fondue inox com 10 peças",
+      "img": "imagens/posts/chocolate-para-presentear/conjunto-fondue-inox-10-pecas.webp",
+      "alt": "Conjunto de fondue com panela de aço inox e cabo de baquelite.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Fondue",
+        "Inox"
+      ],
+      "pros": [
+        "Aço inox",
+        "Dez peças"
+      ],
+      "contras": [
+        "Chocolate comprado à parte"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07MB7S8FF?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 74.95,
+          "nota": 4.5,
+          "avaliacoes": 98
+        },
+        "ml": {
+          "url": "https://meli.la/1T6BaF4",
+          "preco": 66,
+          "verificado": "2026-11-22",
+          "nota": 4.9,
+          "avaliacoes": 309
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/6AmnVqM7X1",
+          "preco": 78.99,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit fondue para casal com petisqueira de madeira",
+      "img": "imagens/posts/chocolate-para-presentear/kit-fondue-casal-petisqueira-madeira.webp",
+      "alt": "Kit de fondue de cerâmica e aço inox com petisqueira de madeira.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Fondue",
+        "Casal"
+      ],
+      "pros": [
+        "Petisqueira de madeira",
+        "Peça de cerâmica e inox"
+      ],
+      "contras": [
+        "Chocolate comprado à parte"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/2DQX686",
+          "preco": 78.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Livro Enciclopédia do chocolate",
+      "img": "imagens/posts/chocolate-para-presentear/livro-enciclopedia-do-chocolate.webp",
+      "alt": "Livro de capa dura sobre técnicas e receitas com chocolate, de Frédéric Bau.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Livro",
+        "Receitas"
+      ],
+      "pros": [
+        "Capa dura",
+        "Técnicas e receitas"
+      ],
+      "contras": [
+        "Mais para quem cozinha"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/8539629429?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "nota": 4.9,
+          "avaliacoes": 194
+        },
+        "ml": {
+          "url": "https://meli.la/33W7McD",
+          "preco": 147.7,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/5fqWuvO1Xw",
+          "preco": 174.35,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Panela elétrica para fondue Oster",
+      "img": "imagens/posts/chocolate-para-presentear/panela-eletrica-fondue-oster.webp",
+      "alt": "Panela elétrica para fondue com quatro níveis de temperatura e função manter aquecido.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Fondue",
+        "Elétrica"
+      ],
+      "pros": [
+        "Quatro temperaturas",
+        "Mantém aquecido"
+      ],
+      "contras": [
+        "Confira a voltagem"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B09V39N65M?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 183.74,
+          "nota": 4.9,
+          "avaliacoes": 554
+        },
+        "ml": {
+          "url": "https://meli.la/1NmSgS6",
+          "preco": 197.99,
+          "verificado": "2026-11-22",
+          "nota": 4.9,
+          "avaliacoes": 2257
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/AUvmfp0kef",
+          "preco": 239.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Panela elétrica para fondue Mondial",
+      "img": "imagens/posts/chocolate-para-presentear/panela-eletrica-fondue-mondial.webp",
+      "alt": "Panela elétrica de fondue com capacidade de 2,4 litros e oito garfos, presente para quem gosta de chocolate.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Fondue",
+        "Elétrica"
+      ],
+      "pros": [
+        "Capacidade de 2,4 litros",
+        "Oito garfos"
+      ],
+      "contras": [
+        "Confira a voltagem"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B08KHD84BG?tag=oquedar-20",
+          "verificado": "2026-11-22",
+          "preco": 244.05,
+          "nota": 4.9,
+          "avaliacoes": 131
+        },
+        "ml": {
+          "url": "https://meli.la/2rZvzKH",
+          "preco": 215.99,
+          "verificado": "2026-11-22",
+          "nota": 4.9,
+          "avaliacoes": 765
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/9zzW4u2efa",
+          "preco": 249.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Cesta Lindt Lindor coração",
+      "img": "imagens/posts/chocolate-para-presentear/cesta-lindt-lindor-coracao.webp",
+      "alt": "Caixa em formato de coração com frase romântica e trufas Lindor embaladas individualmente.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Romântico",
+        "Trufas"
+      ],
+      "pros": [
+        "Caixa em formato de coração",
+        "Trufas individuais"
+      ],
+      "contras": [
+        "Só para ocasião romântica"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/1aXQKtm",
+          "preco": 189.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Cesta Cacau Show com 25 chocolates",
+      "img": "imagens/posts/chocolate-para-presentear/cesta-cacau-show-25-chocolates.webp",
+      "alt": "Cesta de chocolate para presentear com trufas, barrinhas e tabletes sortidos.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Cesta",
+        "Sortidos"
+      ],
+      "pros": [
+        "25 chocolates",
+        "Três formatos"
+      ],
+      "contras": [
+        "Preço alto"
+      ],
+      "lojas": {
+        "ml": {
+          "url": "https://meli.la/1crjVAj",
+          "preco": 259,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/AAIwHD21Kd",
+          "preco": 298.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    }
+  ]
+}
