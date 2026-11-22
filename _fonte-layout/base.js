@@ -4,7 +4,7 @@ const path = require('path');
 const OUT = path.join(__dirname, '..'); // raiz do projeto (funciona no computador e no robô do GitHub)
 const txt = fs.readFileSync(path.join(__dirname, 'basquete.txt'), 'utf8').split('\n');
 const LOGO = 'imagens/logo-oquedar.png';
-const FOTO_BASQ = 'imagens/basquete-capa.avif';
+const FOTO_BASQ = 'imagens/capa-presentes-para-quem-gosta-de-basquete.avif';
 const LOGO_ESCURO = 'imagens/logo-oquedar-rodape.png';
 // fotos dos produtos do post real (embutidas para abrir em qualquer lugar)
 const PROD = []; for (let n = 1; n <= 14; n++) PROD.push('data:image/avif;base64,' + fs.readFileSync(OUT + '/imagens/produtos/p' + n + '.avif').toString('base64'));

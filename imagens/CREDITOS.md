@@ -23,3 +23,4 @@ Fotos do Magnific baixadas com a conta da A.G. em 19/11/2026 (licença gratuita:
 | basquete-capa.avif, capa-*.avif, produtos/p*.avif | oquedar.com | Do próprio site |
 | produtos/recorte/*.webp | oquedar.com | Recortes feitos a partir das fotos de produto |
 | compartilhar.png, icone.png | O Que Dar | Feitos para o projeto a partir da logo (`_fonte-layout/extras/`) |
+| capa-presentes-para-quem-gosta-de-cerveja.webp | magnific | https://www.magnific.com/br/fotos-gratis/pessoas-desfrutando-de-bebida-de-guarana-ao-ar-livre_66104282.htm |

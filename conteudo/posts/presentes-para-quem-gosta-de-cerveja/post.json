@@ -1,0 +1,792 @@
+{
+  "slug": "presentes-para-quem-gosta-de-cerveja",
+  "status": "agendado",
+  "data": "2026-11-23",
+  "publicar": "2026-11-23T07:00:00-03:00",
+  "titulo": "Presentes para quem gosta de cerveja: opções para degustar, servir e compartilhar",
+  "titleTagCompleto": "Presentes para quem gosta de cerveja: 22 ideias · O que dar?",
+  "desc": "Presentes para quem gosta de cerveja incluem muito mais que bebidas. Explore acessórios, livros, utensílios e kits para diferentes ocasiões.",
+  "palavraChave": "presentes para quem gosta de cerveja",
+  "categorias": [
+    "interesse"
+  ],
+  "cat": "Interesse",
+  "trilha": "interesse",
+  "trilhaAtual": "Cerveja",
+  "cor": "pessego",
+  "pre": "cv-",
+  "capa": {
+    "src": "imagens/capa-presentes-para-quem-gosta-de-cerveja.webp",
+    "alt": "Casal sorridente brindando com copos de bebida gelada ao ar livre",
+    "largura": 1400,
+    "altura": 933
+  },
+  "cartao": {
+    "src": "imagens/capa-presentes-para-quem-gosta-de-cerveja.webp",
+    "alt": "Casal sorridente brindando com copos de bebida gelada ao ar livre",
+    "largura": 1400,
+    "altura": 933
+  },
+  "fatos": [
+    [
+      "22 ideias",
+      "do kit artesanal à chopeira"
+    ],
+    [
+      "5 tipos de presente",
+      "beber, servir, gelar, bar e aprender"
+    ],
+    [
+      "3 lojas comparadas",
+      "Amazon, Mercado Livre e Shopee"
+    ]
+  ],
+  "pouco": [
+    [
+      1,
+      "Melhor no geral",
+      "Quatro estilos numa embalagem pronta para presente."
+    ],
+    [
+      4,
+      "Melhor custo",
+      "Caneca de vidro de 510 ml em formato de caveira."
+    ],
+    [
+      21,
+      "Mais criativo",
+      "Equipamento e ingredientes para fazer cerveja em casa."
+    ]
+  ],
+  "posNemTodo": null,
+  "marcas": [
+    "O recipiente também faz parte da experiência de apreciar uma cerveja.",
+    "O mais importante é escolher algo que tenha relação com os interesses de quem vai receber."
+  ],
+  "links": [
+    [
+      "presentes para homens de 30 anos",
+      "presentes-para-homens-30-anos.html"
+    ],
+    [
+      "ideias de presentes por interesse",
+      "categoria-interesse.html"
+    ]
+  ],
+  "produtos": [
+    {
+      "nome": "Kit Schornstein com 4 cervejas artesanais",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/kit-schornstein-4-cervejas-artesanais.webp",
+      "alt": "Caixa de presente com quatro garrafas de cerveja artesanal Schornstein.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Cerveja artesanal",
+        "Degustação"
+      ],
+      "pros": [
+        "Quatro estilos",
+        "Embalagem com alça"
+      ],
+      "contras": [
+        "Uma garrafa de cada estilo"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B097C4NH6X?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 65,
+          "preco": 122.4,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2s9WgXt",
+          "preco": 98.96,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit Paulistânia Marco Zero com copo",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/kit-paulistania-marco-zero-copo.webp",
+      "alt": "Caixa de presente com duas garrafas Paulistânia Marco Zero e um copo da marca.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Kit presente",
+        "American Lager"
+      ],
+      "pros": [
+        "Duas garrafas de 600 ml",
+        "Copo da marca"
+      ],
+      "contras": [
+        "Copo de só 300 ml"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B08N5F9DZK?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 283,
+          "preco": 69.32,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Barril Paulaner Hefe-Weissbier 5 litros",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/barril-paulaner-hefe-weissbier-5-litros.webp",
+      "alt": "Barril de 5 litros de cerveja Paulaner Hefe-Weissbier com ilustração de paisagem.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Cerveja de trigo",
+        "Barril"
+      ],
+      "pros": [
+        "5 litros para dividir",
+        "Cervejaria da Oktoberfest"
+      ],
+      "contras": [
+        "Melhor para dividir em grupo"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0064T4K2U?tag=oquedar-20",
+          "nota": 4.5,
+          "avaliacoes": 363,
+          "preco": 185.68,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2dZV3Ns",
+          "preco": 187.99,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Caneca de chopp Caveira Rock Style, Lyor",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/caneca-chopp-caveira-lyor.webp",
+      "alt": "Caneca de vidro de 510 ml em formato de caveira, cheia de cerveja com espuma.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Caneca",
+        "Visual rock"
+      ],
+      "pros": [
+        "Vidro, 510 ml",
+        "Formato de caveira"
+      ],
+      "contras": [
+        "Não vai à lava-louças"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B077LH96GC?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 3137,
+          "preco": 31.26,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1Qb1MV4",
+          "preco": 32.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4LL8wOyIbd",
+          "preco": 20,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Jogo de 6 taças Floripa, Nadir",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/tacas-floripa-nadir.webp",
+      "alt": "Taça de vidro Floripa vazia e conjunto com seis taças cheias de cerveja.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Taças",
+        "Receber em casa"
+      ],
+      "pros": [
+        "Seis taças",
+        "Uso versátil"
+      ],
+      "contras": [
+        "Modelo simples, de uso diário"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B076VQBPBH?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 180,
+          "preco": 46.45,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1Uv8gVU",
+          "preco": 55.91,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4B1ik5yvwc",
+          "preco": 47.49,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Taças Beer Master, Ruvolo",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/tacas-beer-master-ruvolo.webp",
+      "alt": "Quatro taças de cerveja de vidro com formato bojudo e pé.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Taças",
+        "Degustação"
+      ],
+      "pros": [
+        "Borda fina",
+        "Realça o aroma"
+      ],
+      "contras": [
+        "Indicadas para cervejas claras"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B08HG81G8C?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 79,
+          "preco": 51.28,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2d31XLP",
+          "preco": 53.99,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit de degustação True com 4 copos",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/kit-degustacao-true-4-copos.webp",
+      "alt": "Quatro copos de vidro para cerveja em formatos diferentes, cada um com um estilo.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Degustação",
+        "Copos"
+      ],
+      "pros": [
+        "Um copo por estilo",
+        "Vai à lava-louças"
+      ],
+      "contras": [
+        "Vendido do exterior"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0BDC7CKSJ?tag=oquedar-20",
+          "nota": 4.4,
+          "avaliacoes": 342,
+          "preco": 221.93,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Caneca térmica para cerveja TermoPro",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/caneca-termica-cerveja-termopro.webp",
+      "alt": "Caneca térmica grande de aço inox com alça.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Térmico",
+        "Caneca"
+      ],
+      "pros": [
+        "709 ml em aço inox",
+        "Isolamento a vácuo"
+      ],
+      "contras": [
+        "Lavar só à mão"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B09SZM1419?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 222,
+          "preco": 56.97,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2nxKBcK",
+          "preco": 46.44,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Copo térmico 4 em 1 para lata e long neck",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/copo-termico-4-em-1-lata-long-neck.webp",
+      "alt": "Copo térmico de inox com borda de borracha e tampa transparente ao lado.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Térmico",
+        "Versátil"
+      ],
+      "pros": [
+        "Lata e long neck",
+        "Tampa inclusa"
+      ],
+      "contras": [
+        "Marca genérica"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0DS9C2RX6?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 195,
+          "preco": 47.99,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2HSaNai",
+          "preco": 59.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/40iIXmzZHb",
+          "preco": 39.95,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Suporte térmico para lata Thermos",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/suporte-termico-lata-thermos.webp",
+      "alt": "Suporte térmico de aço inox para lata, com borda preta e a marca Thermos.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Térmico",
+        "Porta-lata"
+      ],
+      "pros": [
+        "Gelada por até 3 horas",
+        "Não marca a mesa"
+      ],
+      "contras": [
+        "Só para lata de 354 ml"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0000644AF?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 11581,
+          "preco": 74.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Growler térmico Stanley Classic 1,9 L",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/growler-stanley-classic.webp",
+      "alt": "Growler térmico de 1,9 litro com alça lateral e tampa com trava.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Growler",
+        "Térmico"
+      ],
+      "pros": [
+        "1,9 litro",
+        "Tampa que não vaza"
+      ],
+      "contras": [
+        "Mais caro que o Coleman"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B079Y9P9ZD?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 1449,
+          "preco": 304.95,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1nwwtBP",
+          "preco": 323,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Growler térmico Coleman 1,9 L",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/growler-coleman.webp",
+      "alt": "Growler térmico Coleman de 1,9 litro com alça presa à tampa.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Growler",
+        "Térmico"
+      ],
+      "pros": [
+        "Frio por até 76 horas",
+        "Base emborrachada"
+      ],
+      "contras": [
+        "Grande para o dia a dia"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B08YRXP1CM?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 952,
+          "preco": 149.9,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2qvtQD4",
+          "preco": 199,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/3qOsLU0Cca",
+          "preco": 239.02,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Balde de gelo inox com tampa",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/balde-gelo-inox-tampa.webp",
+      "alt": "Balde de gelo de inox com tampa, colher, pinça e coador.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Bar em casa",
+        "Gelo"
+      ],
+      "pros": [
+        "Parede dupla a vácuo",
+        "Pinça, colher e coador"
+      ],
+      "contras": [
+        "Marca genérica"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0DC6HF3RV?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 91,
+          "preco": 154.3,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2LcH6ho",
+          "preco": 162.42,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Chopeira Krups Beertender",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/chopeira-krups-beertender.webp",
+      "alt": "Chopeira elétrica com torneira no alto e bandeja para apoiar o copo.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Chopeira",
+        "Bar em casa"
+      ],
+      "pros": [
+        "Resfria a 4 °C",
+        "Chope bom por 30 dias"
+      ],
+      "contras": [
+        "Barril vendido à parte"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B079DWJ7SV?tag=oquedar-20",
+          "nota": 4.2,
+          "avaliacoes": 70,
+          "preco": 799,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1eot6TQ",
+          "preco": 799,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Tábua de frios magnética Lumai",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/tabua-frios-magnetica-lumai.webp",
+      "alt": "Tábua de bambu com queijos, frutas, frios e talheres em suporte magnético.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Petiscos",
+        "Bambu"
+      ],
+      "pros": [
+        "Peças encaixam por ímãs",
+        "8 talheres inclusos"
+      ],
+      "contras": [
+        "Ocupa espaço na mesa"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0FDK26ZPV?tag=oquedar-20",
+          "nota": 4.9,
+          "avaliacoes": 109,
+          "preco": 118.82,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2BeJNMG",
+          "preco": 125,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/3g5S9B0pxZ",
+          "preco": 164.95,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit de placas decorativas de bar",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/placas-decorativas-bar-cerveja.webp",
+      "alt": "Seis placas decorativas com frases sobre cerveja e churrasco, uma em formato de caneca.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Decoração",
+        "Bar"
+      ],
+      "pros": [
+        "Seis placas",
+        "Fita dupla face inclusa"
+      ],
+      "contras": [
+        "Frases não agradam a todos"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B09MWFH827?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 60,
+          "preco": 70.3,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Abridor de garrafas Brinox Beli",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/abridor-garrafas-brinox-beli.webp",
+      "alt": "Abridor de aço inox para garrafas e latas, com 9 cm.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Abridor",
+        "Aço inox"
+      ],
+      "pros": [
+        "Abre garrafas e latas",
+        "Compacto"
+      ],
+      "contras": [
+        "Pequeno, fácil de perder"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B01FQDFPQY?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 3396,
+          "preco": 6.36,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2jj46a8",
+          "preco": 15.89,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/8VAhu4Ltea",
+          "preco": 8.79,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Abridor de parede com coletor de tampinhas",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/abridor-parede-coletor-tampinhas.webp",
+      "alt": "Abridor de parede com base de madeira, âncora de metal e rede que recolhe as tampinhas.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Abridor",
+        "Decoração"
+      ],
+      "pros": [
+        "Recolhe as tampinhas",
+        "Base de madeira"
+      ],
+      "contras": [
+        "Precisa fixar na parede"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0CDPSJPS8?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 277,
+          "preco": 124.72,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "O livro da cerveja",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/o-livro-da-cerveja.webp",
+      "alt": "Capa de O livro da cerveja com ilustração de uma garrafa e informações ao redor.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Livro",
+        "Guia prático"
+      ],
+      "pros": [
+        "Escrito por sommelière",
+        "272 páginas"
+      ],
+      "contras": [
+        "Menos completo que o Larousse"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/6555604026?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 235,
+          "preco": 54.75,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1n5AynD",
+          "preco": 49.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/8KrHhlMWzZ",
+          "preco": 69.93,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Larousse da cerveja",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/larousse-da-cerveja.webp",
+      "alt": "Capa do Larousse da cerveja com três copos de cerveja de cores diferentes.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Livro",
+        "Cultura cervejeira"
+      ],
+      "pros": [
+        "440 páginas ilustradas",
+        "Guia de estilos"
+      ],
+      "contras": [
+        "Leitura longa"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/8578814568?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 226,
+          "preco": 155.75,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/29fFZU2",
+          "preco": 158.74,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit Craft A Brew para fazer cerveja em casa",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/kit-craft-a-brew-cerveja-em-casa.webp",
+      "alt": "Kit para fazer cerveja em casa com garrafão de vidro, funil, termômetro e ingredientes.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Cerveja caseira",
+        "Kit"
+      ],
+      "pros": [
+        "Equipamento e ingredientes",
+        "Guia de preparo"
+      ],
+      "contras": [
+        "Vendido do exterior"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B00IYN6Z6S?tag=oquedar-20",
+          "nota": 4.5,
+          "avaliacoes": 3540,
+          "preco": 477.66,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Jogo Cala a Boca e Bebe Logo, Buró",
+      "img": "imagens/posts/presentes-para-quem-gosta-de-cerveja/jogo-cala-a-boca-e-bebe-logo-buro.webp",
+      "alt": "Caixa do jogo de cartas Cala a Boca e Bebe Logo com um copo desenhado.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Jogo",
+        "Adultos"
+      ],
+      "pros": [
+        "50 cartas",
+        "De 3 a 8 jogadores"
+      ],
+      "contras": [
+        "Só para maiores de 18"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0BG32NDFJ?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 569,
+          "preco": 30.99,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1cga85U",
+          "preco": 30.99,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/8AXrVSNAKY",
+          "preco": 46.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    }
+  ]
+}

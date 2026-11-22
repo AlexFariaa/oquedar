@@ -53,8 +53,10 @@ fs.copyFileSync(path.join(RAIZ, 'imagens', 'CREDITOS.md'), path.join(SITE, 'imag
 { let j = fs.readFileSync(path.join(RAIZ, 'busca.json'), 'utf8'); for (const [a, u] of mapa) j = j.split('"' + a).join('"' + u); j = j.replace(/"imagens\//g, '"/imagens/'); fs.writeFileSync(path.join(SITE, 'busca.json'), j); }
 
 // sitemap, robots, .htaccess
-fs.writeFileSync(path.join(SITE, 'sitemap.xml'), '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
-  mapa.filter(m => m[2]).map(([, u, d]) => `  <url><loc>${DOMINIO}${u}</loc><lastmod>${d}</lastmod></url>`).join('\n') + '\n</urlset>\n');
+// capa de cada post entra no sitemap de imagens (ajuda o Google Imagens a achar e ligar a foto ao post)
+const capaDe = Object.fromEntries(posts.filter(p => p.capa && p.capa.src).map(p => ['/' + p.slug + '/', p.capa.src]));
+fs.writeFileSync(path.join(SITE, 'sitemap.xml'), '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n' +
+  mapa.filter(m => m[2]).map(([, u, d]) => `  <url><loc>${DOMINIO}${u}</loc><lastmod>${d}</lastmod>${capaDe[u] ? `<image:image><image:loc>${DOMINIO}/${capaDe[u]}</image:loc></image:image>` : ''}</url>`).join('\n') + '\n</urlset>\n');
 fs.writeFileSync(path.join(SITE, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${DOMINIO}/sitemap.xml\n`);
 fs.writeFileSync(path.join(SITE, '.htaccess'), `# O que dar? · site estático (gerado por _fonte-layout/final.js)
 DirectoryIndex index.html

@@ -19,8 +19,8 @@ const CATS = [
   ['Namoro', 'namoro', 'rosa', 'Presentes para namoro.', 'Ideias para cada fase do namoro, do primeiro mês às datas especiais.', 'imagens/aniversario.jpg', 'Casais comemorando um aniversário'],
 ];
 // assuntos de exemplo só na categoria Interesse (aprovado no layout)
-const SUBS = { interesse: [['todos', 'Todos'], ['esportes', 'Esportes'], ['games', 'Games'], ['musica', 'Música'], ['cafe', 'Café'], ['leitura', 'Leitura'], ['cozinha', 'Cozinha']] };
-const subDe = { 'presentes-para-quem-gosta-de-basquete.html': 'esportes', 'presente-para-quem-gosta-de-correr.html': 'esportes' };
+const SUBS = { interesse: [['todos', 'Todos'], ['esportes', 'Esportes'], ['games', 'Games'], ['musica', 'Música'], ['cafe', 'Café'], ['bebidas', 'Bebidas'], ['leitura', 'Leitura'], ['cozinha', 'Cozinha']] };
+const subDe = { 'presentes-para-quem-gosta-de-basquete.html': 'esportes', 'presente-para-quem-gosta-de-correr.html': 'esportes', 'presentes-para-quem-gosta-de-cerveja.html': 'bebidas' };
 const { ofertasDe, reais: reaisO } = require('./ofertas.js');
 
 // presentes de um post: basquete vem da base; os outros, de posts.js

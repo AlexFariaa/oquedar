@@ -14,12 +14,12 @@
   "cor": "pessego",
   "pre": "correr-",
   "capa": {
-    "src": "imagens/posts/presente-para-quem-gosta-de-correr/capa.avif",
-    "alt": "ideia de presente para quem gosta de correr, corredora treinando ao ar livre utilizando acessórios de corrida"
+    "src": "imagens/posts/presente-para-quem-gosta-de-correr/capa-presente-para-quem-gosta-de-correr.avif",
+    "alt": "Corredora treinando ao ar livre com acessórios de corrida"
   },
   "cartao": {
     "src": "imagens/capa-presente-para-quem-gosta-de-correr.avif",
-    "alt": "Mulher sorrindo enquanto corre ao ar livre"
+    "alt": "Corredora treinando ao ar livre com acessórios de corrida"
   },
   "fatos": [
     [

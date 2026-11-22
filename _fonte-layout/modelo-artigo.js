@@ -155,7 +155,7 @@ ${cab('')}
           <span class="aviso"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg>Este artigo tem links de afiliados. Se você comprar por eles, podemos receber uma comissão, sem custo a mais para você.</span>
         </div>
         <div class="capa-grade">
-          <figure class="capa-foto"><img src="${D.capa.src}" alt="${esc(D.capa.alt)}" width="600" height="400"></figure>
+          <figure class="capa-foto"><img src="${D.capa.src}" alt="${esc(D.capa.alt)}" width="600" height="400" fetchpriority="high"></figure>
           <div class="capa-lado c-${a0.cor}">
             <span class="rotulo" style="color:var(--tinta)">Neste artigo</span>
             <ul class="fatos">
@@ -236,7 +236,7 @@ ${D.qualCombina ? `
         <section class="secao-art texto-art bloco-escuro" id="faq" aria-labelledby="t-faq">
           <h2 class="sub" id="t-faq">${esc(D.faq.titulo)}</h2>
           <div class="faq">${faqPares.map(q => `
-            <details><summary><h3 class="faq-q">${esc(q[0])}</h3><span class="mais-ico" aria-hidden="true"></span></summary>${q[1].map(r => `<p class="resp">${esc(r)}</p>`).join('')}</details>`).join('')}
+            <details><summary><h3 class="faq-q">${esc(q[0])}</h3><span class="mais-ico" aria-hidden="true"></span></summary>${q[1].map(r => linka(`<p class="resp">${esc(r)}</p>`)).join('')}</details>`).join('')}
           </div>
         </section>
 ` : ''}${D.fechamento ? `
@@ -382,6 +382,15 @@ ${rodape}
     { '@context': 'https://schema.org', '@type': 'ItemList', name: D.h1, numberOfItems: N, itemListElement: P.map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: nomes[i], url: `${urlPost}#p-${i + 1}`, ...(p.img ? { image: abs(p.img) } : {}) })) },
   ];
   if (faqPares.length) ld.push({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqPares.map(([q, r]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: r.join(' ') } })) });
+  // capa como imagem principal da página (Google Imagens/Discover) e como imagem de compartilhamento
+  if (D.capa && D.capa.src) {
+    const capaAbs = abs(D.capa.src), dims = D.capa.largura ? { width: D.capa.largura, height: D.capa.altura } : {};
+    ld.push({ '@context': 'https://schema.org', '@type': 'WebPage', name: D.titleTag, url: urlPost, description: D.desc, primaryImageOfPage: { '@type': 'ImageObject', url: capaAbs, caption: D.capa.alt, ...dims } });
+    html = html.replace(/<meta property="og:type" content="website">/, '<meta property="og:type" content="article">');
+    // WhatsApp e Facebook não leem .avif: nesses posts o compartilhamento continua com a imagem padrão
+    if (!/\.avif$/i.test(D.capa.src)) html = html.replace(/<meta property="og:image" content="[^"]*">\n<meta property="og:image:width" content="\d+">\n<meta property="og:image:height" content="\d+">/,
+        `<meta property="og:image" content="${capaAbs}">\n` + (D.capa.largura ? `<meta property="og:image:width" content="${D.capa.largura}">\n<meta property="og:image:height" content="${D.capa.altura}">\n` : '') + `<meta property="og:image:alt" content="${esc(D.capa.alt)}">\n<meta name="twitter:image" content="${capaAbs}">`);
+  }
   html = html.replace('</head>', ld.map(o => `<script type="application/ld+json">${JSON.stringify(o).replace(/</g, '\\u003c')}</script>`).join('\n') + '\n</head>');
   return html;
 }
