@@ -335,3 +335,11 @@ Decisões da A.G.: fotos da Amazon podem ter o fundo retirado; preços atualizad
 - Amazon: link completo com a etiqueta oquedar-20 (a padrão do SiteStripe). A babá eletrônica Tapo C210 está sem oferta principal na Amazon hoje (aparece sem preço lá).
 - Fotos: as 15 da Amazon, com fundo branco recortado, em .webp com nomes descritivos (12 a 137 KB). Capa provisória montada com os próprios produtos; pode ser trocada por uma foto.
 - Lojas: 11 presentes nas três lojas, 3 em duas, 1 só na Amazon (kit de 8 bodies Carter's). Sem Mercado Livre: bodies, camisolas, luz noturna. Sem Shopee: bodies, Stanley Quencher (só o Protour), luz noturna. Parecidos, não idênticos: cueiros no ML (80 x 80 cm), saída de maternidade no ML e na Shopee (outra cor), livro na Shopee (capa rosa), bolsa no ML (BH Travel).
+
+## Post "Melhor presente para menino de 3 anos" (agendado para 22/11/2026, 9h)
+- Texto, títulos, alt texts, tags, prós e contras e marca-texto vieram da outra IA, a partir do pacote `conteudo/pesquisas/pacote-menino-3-anos.md`. O texto chegou sem as marcações de título; H1, H2 (4 grupos) e H3 (17 presentes e perguntas) foram refeitos conforme a estrutura combinada.
+- Ajustes: frase com link interno no "Como escolher" (seleção de presentes por idade, que leva à categoria Idade); alguns contras trocados por contras de verdade (ex.: "indicado a partir de 3 anos" virou "Ocupa espaço para guardar").
+- Itens trocados antes do texto porque a idade indicada era acima de 3 anos: Hot Wheels 5 carros (4+), Pula Macaco (4+), maleta Doutor Canino (5+, era kit de pet shop), pista Hot Wheels (5+), xilofone (5+), controle remoto (4+) e LEGO Classic (4+).
+- Lojas: Amazon nos 17; Mercado Livre em 14 (sem Play-Doh Fun Tub, quebra-cabeça Grow e maleta BBR); Shopee em 12 (sem patinete Hurtle, Play-Doh Fun Tub, quebra-cabeça Grow, jogo da memória Carlu e livro Perigoso!). No ML a nota não entra, porque a busca não mostra o número de avaliações.
+- Pesquisa mais econômica: buscas da Amazon e da Shopee feitas em lote dentro da página; no ML, leitura dos dados da página de busca, sem abrir cada produto; links do ML gerados passando os endereços de uma página para a outra pelo navegador.
+- Capa provisória montada com os produtos (pode ser trocada por foto; trocar com nome de arquivo novo).

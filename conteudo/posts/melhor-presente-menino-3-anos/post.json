@@ -1,0 +1,658 @@
+{
+  "slug": "melhor-presente-menino-3-anos",
+  "status": "agendado",
+  "data": "2026-11-22",
+  "publicar": "2026-11-22T09:00:00-03:00",
+  "titulo": "Melhor presente para menino de 3 anos: ideias para gastar energia e se divertir",
+  "titleTagCompleto": "Melhor presente para menino de 3 anos: dicas e ideias",
+  "desc": "Procurando o melhor presente para menino de 3 anos? Veja 17 ideias de brinquedos e descubra opções para diferentes gostos e brincadeiras.",
+  "palavraChave": "melhor presente para menino de 3 anos",
+  "categorias": [
+    "idade"
+  ],
+  "cat": "Idade",
+  "trilha": "idade",
+  "trilhaAtual": "Menino de 3 anos",
+  "cor": "lavanda",
+  "pre": "m3-",
+  "capa": {
+    "src": "imagens/capa-melhor-presente-menino-3-anos.webp",
+    "alt": "Caminhão de bombeiro, xilofone, LEGO DUPLO, jogo da memória e bicicleta de equilíbrio sobre fundo lilás"
+  },
+  "cartao": {
+    "src": "imagens/capa-melhor-presente-menino-3-anos.webp",
+    "alt": "Caminhão de bombeiro, xilofone, LEGO DUPLO, jogo da memória e bicicleta de equilíbrio sobre fundo lilás"
+  },
+  "fatos": [
+    [
+      "17 ideias",
+      "da bicicleta ao livro ilustrado"
+    ],
+    [
+      "4 estilos de brincadeira",
+      "energia, criar, faz de conta e jogos"
+    ],
+    [
+      "3 lojas comparadas",
+      "Amazon, Mercado Livre e Shopee"
+    ]
+  ],
+  "pouco": [
+    [
+      4,
+      "Melhor no geral",
+      "65 peças grandes e caixa para guardar."
+    ],
+    [
+      14,
+      "Melhor custo",
+      "40 peças de MDF em caixa de madeira."
+    ],
+    [
+      6,
+      "Mais criativo",
+      "Massinha, cortadores, extrusor, rolo e carimbos."
+    ]
+  ],
+  "posNemTodo": null,
+  "marcas": [
+    "O melhor presente não é necessariamente o mais caro ou o mais elaborado",
+    "um presente escolhido com atenção pode render muitas brincadeiras e boas lembranças"
+  ],
+  "links": [
+    [
+      "seleção de presentes por idade",
+      "categoria-idade.html"
+    ]
+  ],
+  "produtos": [
+    {
+      "nome": "Bicicleta de equilíbrio Buba",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/bicicleta-equilibrio-buba.webp",
+      "alt": "Bicicleta infantil de equilíbrio com quatro rodas, guidão e assento, sem pedais.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Movimento",
+        "Equilíbrio"
+      ],
+      "pros": [
+        "Quatro rodas",
+        "Guidão móvel e macio"
+      ],
+      "contras": [
+        "Idade exata não informada"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0DFFTP71B?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 5726,
+          "preco": 139,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1jWZAna",
+          "preco": 126.42,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4LL8AzomFY",
+          "preco": 199.89,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Triciclo Avespa Spider, Maral",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/triciclo-avespa-spider-maral.webp",
+      "alt": "Triciclo infantil com haste de empurrar para o adulto e pedais.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Passeio",
+        "Movimento"
+      ],
+      "pros": [
+        "Dois modos de uso",
+        "Haste removível"
+      ],
+      "contras": [
+        "Ocupa espaço para guardar"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0D6HGCRL3?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 4166,
+          "preco": 199.8,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/29gdZ2d",
+          "preco": 269,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/9Kjo8CM3ez",
+          "preco": 239,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Patinete Hurtle 2 em 1",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/patinete-hurtle-2-em-1.webp",
+      "alt": "Patinete infantil de três rodas com assento retrátil e rodas com LED.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Movimento",
+        "Versátil"
+      ],
+      "pros": [
+        "Assento retrátil",
+        "Guidão em quatro alturas"
+      ],
+      "contras": [
+        "Pesa cerca de 3 kg"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B088TY63YB?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 18569,
+          "preco": 338.16,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1qConPo",
+          "preco": 479,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Barraca toca infantil dobrável",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/barraca-toca-infantil.webp",
+      "alt": "Barraca infantil dobrável em formato de oca com estampa de animais da floresta.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Imaginação",
+        "Faz de conta"
+      ],
+      "pros": [
+        "Dobrável",
+        "Fácil de armar"
+      ],
+      "contras": [
+        "Ocupa 72 x 70 x 91 cm"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0997SCXLT?tag=oquedar-20",
+          "nota": 4.9,
+          "avaliacoes": 568,
+          "preco": 67.01,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1JMGuu9",
+          "preco": 60.82,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/AKcLK3n7u5",
+          "preco": 79.8,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "LEGO DUPLO Caixa Clássica de Peças 10913",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/lego-duplo-caixa-classica-10913.webp",
+      "alt": "Caixa LEGO DUPLO com peças grandes, carrinho e bonequinhos montados.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Construção",
+        "Criatividade"
+      ],
+      "pros": [
+        "65 peças grandes",
+        "Caixa para guardar"
+      ],
+      "contras": [
+        "Idade exata não informada"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07WJJF8PB?tag=oquedar-20",
+          "nota": 4.9,
+          "avaliacoes": 12540,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2HktwrB",
+          "preco": 221.29,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/40iHmR6IOh",
+          "preco": 274.8,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Blocos de montar magnéticos Brastoy",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/blocos-magneticos-brastoy.webp",
+      "alt": "Peças magnéticas translúcidas montadas em formato de castelo e outras figuras.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Construção",
+        "Magnético"
+      ],
+      "pros": [
+        "120 peças",
+        "Montagem 2D e 3D"
+      ],
+      "contras": [
+        "Muitas peças para guardar"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B09K7NGY56?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 1130,
+          "preco": 121.56,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2WpvwWH",
+          "preco": 139.84,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/2VtTzh2s5x",
+          "preco": 129.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Play-Doh Fun Tub com 19 acessórios",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/play-doh-fun-tub.webp",
+      "alt": "Balde Play-Doh com potes de massinha e acessórios para modelar.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Massinha",
+        "Criatividade"
+      ],
+      "pros": [
+        "19 acessórios",
+        "Pote para guardar"
+      ],
+      "contras": [
+        "Pede supervisão na brincadeira"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B00TPMDLOG?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 13428,
+          "preco": 93.41,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Lousa mágica digital",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/lousa-magica-digital.webp",
+      "alt": "Lousa digital de 8,5 polegadas com caneta e desenho em traços coloridos.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Desenho",
+        "Criatividade"
+      ],
+      "pros": [
+        "Tela de 8,5 polegadas",
+        "Permite apagar"
+      ],
+      "contras": [
+        "Faixa etária não informada"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B09FJ4SXYK?tag=oquedar-20",
+          "nota": 4.4,
+          "avaliacoes": 9452,
+          "preco": 18.61,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1sXVtk4",
+          "preco": 23.03,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4fxyZibkAm",
+          "preco": 19.99,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Quebra-cabeça Grow com animais",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/quebra-cabeca-grow-animais.webp",
+      "alt": "Caixa de quebra-cabeças Grow com ilustrações de animais.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Quebra-cabeça",
+        "Animais"
+      ],
+      "pros": [
+        "Três quebra-cabeças",
+        "Temas variados"
+      ],
+      "contras": [
+        "Montagens pequenas"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0932G7J48?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 2356,
+          "preco": 25.13,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Hot Wheels Monster Trucks",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/hot-wheels-monster-trucks.webp",
+      "alt": "Carrinhos Hot Wheels Monster Trucks com rodas gigantes ao lado da embalagem.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Carrinhos",
+        "Veículos"
+      ],
+      "pros": [
+        "Rodas gigantes",
+        "Carroceria detalhada"
+      ],
+      "contras": [
+        "Escala pequena (1:64)"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07F6ZBW52?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 22168,
+          "preco": 77.8,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1eH21pG",
+          "preco": 77.8,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/7VI9x12Bvy",
+          "preco": 79,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Caminhão de bombeiro Brutale, Roma Jensen",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/caminhao-bombeiro-brutale-roma.webp",
+      "alt": "Caminhão de bombeiro de brinquedo com escada giratória e mangueira.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Veículos",
+        "Faz de conta"
+      ],
+      "pros": [
+        "Escada giratória",
+        "Lança água"
+      ],
+      "contras": [
+        "Brincar com água molha"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B076B9PBDL?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 1150,
+          "preco": 51.39,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2gDdhzP",
+          "preco": 59.99,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/7fba9H3BIZ",
+          "preco": 50.35,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Pista Ramp Racer, Maral",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/pista-ramp-racer-maral.webp",
+      "alt": "Criança brincando com pista de rampas e carrinhos.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Carrinhos",
+        "Pistas"
+      ],
+      "pros": [
+        "Três montagens",
+        "28 peças e dois carrinhos"
+      ],
+      "contras": [
+        "Faixa etária não informada"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07SMXX88D?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 2914,
+          "preco": 56.89,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1Cj5j2h",
+          "preco": 65.99,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/8VAh8oqsGJ",
+          "preco": 64.71,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Caixa de ferramentas infantil",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/caixa-ferramentas-infantil.webp",
+      "alt": "Maleta de ferramentas de brinquedo aberta com martelo, chaves, parafusos e carrinho.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Ferramentas",
+        "Montagem"
+      ],
+      "pros": [
+        "Maleta para guardar",
+        "Vem com carrinho para montar"
+      ],
+      "contras": [
+        "Ferramentas são de brinquedo"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07C7LM836?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 1348,
+          "preco": 64.12,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1AtDQga",
+          "preco": 68.6,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/gRpoTJ0DH",
+          "preco": 72.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Maleta Doutora com luz e som, BBR Toys",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/maleta-doutora-luz-som-bbr.webp",
+      "alt": "Maleta médica infantil com estetoscópio, seringa e acessórios de brinquedo.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Médico",
+        "Faz de conta"
+      ],
+      "pros": [
+        "Luz e som",
+        "Acompanha acessórios"
+      ],
+      "contras": [
+        "Peças pequenas para guardar"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B09611H8SS?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 642,
+          "preco": 88.35,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/80EQXxiIGv",
+          "preco": 99.96,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Jogo da memória Frutas e Hortaliças, Carlu",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/jogo-memoria-frutas-carlu.webp",
+      "alt": "Jogo da memória em caixa de madeira com peças ilustradas de frutas e hortaliças.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Jogo",
+        "Memória"
+      ],
+      "pros": [
+        "20 pares em MDF",
+        "Caixa de madeira"
+      ],
+      "contras": [
+        "Peças pequenas, de 5 x 5 cm"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07BH438CZ?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 1514,
+          "preco": 32.97,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1ZZAFJ9",
+          "preco": 25.49,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Xilofone Peixinho, Buba",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/xilofone-peixinho-buba.webp",
+      "alt": "Xilofone infantil em formato de peixe com teclas e baqueta.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Música",
+        "Sons"
+      ],
+      "pros": [
+        "Formato de peixe",
+        "Acompanha baqueta"
+      ],
+      "contras": [
+        "Simples para crianças maiores"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07CVQS58G?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 635,
+          "preco": 63.91,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/25vja7v",
+          "preco": 61,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/80EQXzGfuS",
+          "preco": 82.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Livro Perigoso!",
+      "img": "imagens/posts/melhor-presente-menino-3-anos/livro-perigoso.webp",
+      "alt": "Capa do livro infantil Perigoso! com ilustração de um crocodilo.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Livro",
+        "Leitura"
+      ],
+      "pros": [
+        "Livro infantil ilustrado",
+        "Capa com crocodilo"
+      ],
+      "contras": [
+        "Faixa etária não informada"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/8538058975?tag=oquedar-20",
+          "nota": 4.9,
+          "avaliacoes": 29346,
+          "preco": 16.98,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1314JKT",
+          "preco": 19.64,
+          "verificado": "2026-11-22"
+        }
+      }
+    }
+  ]
+}
