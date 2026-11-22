@@ -220,7 +220,7 @@ ${textoSec('escolhemos', D.comoEscolhemos)}
               <caption class="sr">Os presentes desta lista e onde comprar</caption>
               <thead><tr><th scope="col">Presente</th>${temNota ? '<th scope="col">Nota</th>' : ''}${temPreco ? '<th scope="col">A partir de</th>' : ''}<th scope="col"><span class="sr">Ação</span></th></tr></thead>
               <tbody>${P.map((p, i) => { const O = ofertasDe(p), mo = O.melhor, nt = notaDe(p); return `
-                <tr><th scope="row"><span class="cel-prod"><span class="num-c">${String(i + 1).padStart(2, '0')}</span><span class="mini-prod c-${p.cor}">${imgProd(i)}</span><a class="nome" href="#p-${i + 1}">${esc(nomes[i])}</a></span></th>${temNota ? `<td class="n">${nt ? nt.nota.toFixed(1).replace('.', ',') + ' ★' : ''}</td>` : ''}${temPreco ? `<td class="n">${mo && mo.preco > 0 ? reais(mo.preco) : ''}</td>` : ''}<td>${mo ? linkLoja(mo, nomes[i], 'btn btn-sec btn-peq', mo.preco > 0 ? 'Ver oferta' : 'Ver na ' + mo.nome) : ''}</td></tr>`; }).join('')}
+                <tr><th scope="row"><span class="cel-prod"><span class="num-c">${String(i + 1).padStart(2, '0')}</span><span class="mini-prod c-${p.cor}">${imgProd(i)}</span><a class="nome" href="#p-${i + 1}">${esc(nomes[i])}</a></span></th>${temNota ? `<td class="n nota-c">${nt ? nt.nota.toFixed(1).replace('.', ',') + ' ★' : ''}</td>` : ''}${temPreco ? `<td class="n preco-c">${mo && mo.preco > 0 ? reais(mo.preco) : ''}</td>` : ''}<td>${mo ? linkLoja(mo, nomes[i], 'btn btn-sec btn-peq', mo.preco > 0 ? 'Ver oferta' : 'Ver na ' + mo.nome) : ''}</td></tr>`; }).join('')}
               </tbody>
             </table>
           </div>

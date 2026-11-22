@@ -335,5 +335,28 @@ a.nome:hover{text-decoration:underline}
   .fecho blockquote{font-size:var(--t-sub)}
   .aviso{border-radius:var(--raio-interno)}
 }
+/* textos de abertura das seções no tamanho do parágrafo */
+.cabeca-art .abre{font-size:var(--t-corpo);line-height:1.6}
+/* nota menor */
+.nota b{font-size:1.25rem}
+/* comparativo: só o preço em negrito */
+td a.nome,th a.nome{font-weight:600}
+td.nota-c{font-weight:var(--peso-normal);font-size:.9375rem;color:var(--apoio)}
+td.preco-c{font-weight:var(--peso-forte)}
+.tabela-caixa .btn{font-weight:500}
+/* celular: número e nome primeiro, depois a imagem, nota, prós e contras, preço */
+@media (max-width:900px){
+  html:not(.m-compacto) .prod-topo{display:flex;flex-direction:column;gap:var(--e4)}
+  html:not(.m-compacto) .prod-info{display:contents}
+  html:not(.m-compacto) .prod-info>.num{order:1}
+  html:not(.m-compacto) .prod-info>.sub{order:2;margin-top:calc(var(--e3) * -1)}
+  html:not(.m-compacto) .prod-info>.tags{order:3}
+  html:not(.m-compacto) .prod-foto{order:4;width:100%}
+  html:not(.m-compacto) .prod-info>.avaliacao{order:5}
+  html:not(.m-compacto) .prod-info>.pc-det{order:6}
+  html:not(.m-compacto) .prod-info>.comparador{order:7}
+  html:not(.m-compacto) .prod-info>.favoritar{order:8}
+  .nota b{font-size:1.125rem}
+}
 `;
 module.exports = CSS_ART;
