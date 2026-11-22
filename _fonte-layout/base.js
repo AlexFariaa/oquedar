@@ -333,7 +333,7 @@ const rodape = `
     </div>
     <p class="palavra" aria-hidden="true">O que <span>dar?</span></p>
     <div class="linha"><span>© 2026 O que dar?</span><span>Criação de sites profissionais por <a href="https://a2agency.com.br/">A2 Marketing</a></span></div>
-    <p class="creditos">Fotos: Magnific (benzoix, ArthurHidden e equipe Magnific) e oquedar.com.</p>
+    <p class="creditos">Fotos: Magnific (benzoix, ArthurHidden, gpointstudio e equipe Magnific) e oquedar.com.</p>
   </div>
 </footer>
 <button class="assist-bt" type="button" id="assist-bt" aria-controls="assist" aria-expanded="false"><span class="bola"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z"/></svg></span><span class="txt-a">Dúvidas?</span></button>
