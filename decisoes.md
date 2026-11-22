@@ -343,3 +343,6 @@ Decisões da A.G.: fotos da Amazon podem ter o fundo retirado; preços atualizad
 - Lojas: Amazon nos 17; Mercado Livre em 14 (sem Play-Doh Fun Tub, quebra-cabeça Grow e maleta BBR); Shopee em 12 (sem patinete Hurtle, Play-Doh Fun Tub, quebra-cabeça Grow, jogo da memória Carlu e livro Perigoso!). No ML a nota não entra, porque a busca não mostra o número de avaliações.
 - Pesquisa mais econômica: buscas da Amazon e da Shopee feitas em lote dentro da página; no ML, leitura dos dados da página de busca, sem abrir cada produto; links do ML gerados passando os endereços de uma página para a outra pelo navegador.
 - Capa provisória montada com os produtos (pode ser trocada por foto; trocar com nome de arquivo novo).
+
+## Agendamento atrasado (22/11/2026)
+- O post de menino de 3 anos estava agendado para 9h, mas o robô agendado do GitHub não rodou entre 8h09 e 12h41 (o GitHub atrasa ou pula execuções agendadas quando está sobrecarregado). Publicado à mão às 12h45, com um envio ao repositório (todo envio dispara o robô).
