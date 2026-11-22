@@ -23,6 +23,8 @@ function blocosHtml(itens, ind = '            ') {
 
 function montaArtigo(D) {
   const P = D.produtos, N = P.length, nomes = P.map(p => p.nome);
+  // links internos (post.json "links"): a primeira ocorrência do texto em cada bloco vira link
+  const linka = h => (D.links || []).reduce((s, [txt, href]) => s.replace(esc(txt), `<a class="link" href="${href}">${esc(txt)}</a>`), h);
   const G = D.grupos || [], hProd = G.length ? 'h3' : 'h2'; // com grupos, cada presente é H3 dentro do H2 do grupo
   const imgProd = i => `<img class="img-prod${P[i].cheia ? ' cheia' : ''}" src="${P[i].img}" loading="lazy" decoding="async" width="600" height="600" alt="${esc(P[i].alt)}">`;
   const fpItem = i => `<li><a href="#p-${i + 1}"><span class="fp-img c-${P[i].cor}"><span class="fp-n">${String(i + 1).padStart(2, '0')}</span>${imgProd(i)}</span><span class="fp-t">${esc(nomes[i])}</span></a></li>`;
@@ -51,7 +53,7 @@ function montaArtigo(D) {
         </div>
       </div>
       <div class="prod-texto leitura">
-${blocosHtml(p.itens, '        ')}      </div>
+${linka(blocosHtml(p.itens, '        '))}      </div>
     </article>`;
   };
 
@@ -90,7 +92,6 @@ ${blocosHtml(G[g].itens, '        ')}      </div>
         </div>
       </aside>`;
   }
-  const linka = h => (D.links || []).reduce((s, [txt, href]) => s.replace(esc(txt), `<a class="link" href="${href}">${esc(txt)}</a>`), h);
 
   // "qual presente combina": itens de lista que são presentes da lista viram miniaturas
   const qualHtml = (() => {

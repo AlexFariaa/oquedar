@@ -58,7 +58,7 @@ for (const P0 of pub) {
     capa: P0.capa, fatos: P0.fatos, intro: post.intro, produtos,
     pouco: (P0.pouco || []).map(([i, selo, porque], j) => ({ i, selo, porque, cor: CORES[j] })),
     nemTodo, posNemTodo: P0.posNemTodo, comoEscolhemos, qualCombina, extras, faq, fechamento,
-    marcas: P0.marcas || [], links: P0.links || [], artigo: a0, outros: lista.filter(x => x !== a0),
+    marcas: P0.marcas || [], links: (P0.links || []).filter(([, href]) => { const alvo = todos.find(t => t.slug + '.html' === href); return !alvo || publicado(alvo); }), artigo: a0, outros: lista.filter(x => x !== a0),
   };
   fs.writeFileSync(path.join(OUT, D.arquivo), montaArtigo(D));
   console.log(D.arquivo, produtos.length, 'presentes');

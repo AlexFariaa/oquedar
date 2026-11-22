@@ -56,7 +56,12 @@
   "marcas": [
     "algo que seja útil, tenha qualidade e combine com a personalidade da pessoa presenteada"
   ],
-  "links": [],
+  "links": [
+    [
+      "kit de cerveja artesanal",
+      "presentes-para-quem-gosta-de-cerveja.html"
+    ]
+  ],
   "produtos": [
     {
       "img": "imagens/posts/presentes-para-homens-30-anos/p1-r.webp",
