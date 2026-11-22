@@ -21,34 +21,35 @@ Regra de ouro: **um post por intenção**. Várias palavras do mesmo assunto ("d
 **Frequência: 5 posts por semana, de segunda a sexta, publicados às 9h.** Se um dia não der, o post passa para o dia seguinte e o resto da semana anda junto.
 
 ### Semana 23 a 29/11: Natal e amigo secreto (urgente, o pico é na 1ª quinzena de dezembro)
-- **seg 23/11**: presente para amigo secreto criativo / dicas de presente amigo secreto (590, kd 7) + lembrancinha unissex (590)
-- **ter 24/11**: chocolate para presentear (sua)
-- **qua 25/11**: sugestão de presente de Natal / ideias presente natal (590, kd 8)
-- **qui 26/11**: presente de Natal para amiga (590, kd 9) + presente para amiga secreta criativo (590)
-- **sex 27/11**: presente de formatura (990, kd 5): formaturas são em dezembro
+- **seg 23/11**: presentes para quem gosta de cerveja (590, kd 6): **pronto e agendado (23/11, 7h)**
+- **ter 24/11**: presente para amigo secreto criativo / dicas de presente amigo secreto (590, kd 7) + lembrancinha unissex (590)
+- **qua 25/11**: chocolate para presentear (sua)
+- **qui 26/11**: sugestão de presente de Natal / ideias presente natal (590, kd 8)
+- **sex 27/11**: presente de Natal para amiga (590, kd 9) + presente para amiga secreta criativo (590)
 
 ### Semana 30/11 a 6/12
-- **seg 30/11**: ideia de presente de Natal para namorado (590, kd 13)
-- **ter 1/12**: presente para chefe homem / sugestão de presente para chefe feminino (590 / 480): amigo secreto da firma
-- **qua 2/12**: presente para professor (610, kd 9): fim do ano letivo
-- **qui 3/12**: presentes tecnológicos para homens / presentes masculinos criativos (590, kd 7)
-- **sex 4/12**: presente para casa (sua): Natal e casa nova
+- **seg 30/11**: presente de formatura (990, kd 5): formaturas são em dezembro
+- **ter 1/12**: ideia de presente de Natal para namorado (590, kd 13)
+- **qua 2/12**: presente para chefe homem / sugestão de presente para chefe feminino (590 / 480): amigo secreto da firma
+- **qui 3/12**: presente para professor (610, kd 9): fim do ano letivo
+- **sex 4/12**: presentes tecnológicos para homens / presentes masculinos criativos (590, kd 7)
 
 ### Semana 7 a 13/12
-- **seg 7/12**: presente para marido (740, kd 7)
-- **ter 8/12**: ideias de presente para esposa (590, kd 7)
-- **qua 9/12**: lembrança para médico (sua): fim de ano no consultório
-- **qui 10/12**: presente para mulheres / presentes até 100 reais feminino (910 / 590, kd 7)
-- **sex 11/12**: presente barato (910, kd 9): compras de última hora
+- **seg 7/12**: presente para casa (sua): Natal e casa nova
+- **ter 8/12**: presente para marido (740, kd 7)
+- **qua 9/12**: ideias de presente para esposa (590, kd 7)
+- **qui 10/12**: lembrança para médico (sua): fim de ano no consultório
+- **sex 11/12**: presente para mulheres / presentes até 100 reais feminino (910 / 590, kd 7)
 
 ### Semana 14 a 20/12 (última hora de Natal)
-- **seg 14/12**: presente para adolescentes (990, kd 8)
-- **ter 15/12**: o que dar de presente de 15 anos (sua) + presente para menino de 15 anos (590)
-- **qua 16/12**: presente de aniversário para menina de 10 anos (sua) + meninos de 10 anos (660)
-- **qui 17/12**: o que dar de presente para homem (990, kd 8)
-- **sex 18/12**: presentes para namorado (760, kd 9)
+- **seg 14/12**: presente barato (910, kd 9): compras de última hora
+- **ter 15/12**: presente para adolescentes (990, kd 8)
+- **qua 16/12**: o que dar de presente de 15 anos (sua) + presente para menino de 15 anos (590)
+- **qui 17/12**: presente de aniversário para menina de 10 anos (sua) + meninos de 10 anos (660)
+- **sex 18/12**: o que dar de presente para homem (990, kd 8)
 
 ### Janeiro e fevereiro (sem data forte: bons para os assuntos de sempre)
+- presentes para namorado (760, kd 9): saiu de dezembro quando a cerveja entrou
 - presente criativo para bebê recém-nascido (sua), presente para pai de primeira viagem (590), presente para menino de 1 ano (590)
 - dicas de presente de casamento (590) e presente de casamento elegante (480): época de casamentos; o que dar para casal em bodas (590)
 - ideias de presentes para crianças (590), livro para presentear (920)
