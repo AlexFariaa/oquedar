@@ -33,7 +33,7 @@ for (const [arq, url] of mapa) {
   let h = fs.readFileSync(path.join(RAIZ, arq), 'utf8');
   for (const [a, u] of mapa) for (const q of ['"', "'"]) h = h.split(q + a).join(q + u);
   h = h.replace(/(["'(])imagens\//g, '$1/imagens/').split("'busca.json'").join("'/busca.json'");
-  const extra = url === '/404.html' ? '<meta name="robots" content="noindex">\n' : `<link rel="canonical" href="${DOMINIO}${url}">\n<meta property="og:url" content="${DOMINIO}${url}">\n`;
+  const extra = url === '/404.html' ? '<meta name="robots" content="noindex">\n' : url === '/buscar/' ? `<meta name="robots" content="noindex, follow">\n<link rel="canonical" href="${DOMINIO}${url}">\n` : `<link rel="canonical" href="${DOMINIO}${url}">\n<meta property="og:url" content="${DOMINIO}${url}">\n`;
   h = h.replace('</head>', extra + '</head>');
   (h.match(/\/imagens\/[A-Za-z0-9_\/.-]+\.(?:avif|webp|jpg|png)/g) || []).forEach(x => usadas.add(x.slice(1)));
   const destino = url.endsWith('/') ? path.join(SITE, url, 'index.html') : path.join(SITE, url);

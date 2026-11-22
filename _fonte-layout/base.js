@@ -188,7 +188,7 @@ html{overflow-x:clip}
 .rodape .chamada .lado{grid-column:1/span 6;display:flex;flex-wrap:wrap;align-items:center;gap:var(--e4)}
 .rodape .chamada .lado p{color:var(--apoio)}
 .rodape .colunas{display:grid;grid-template-columns:1.3fr .9fr 1fr 1fr 1.5fr;gap:var(--e6);width:100%;overflow-wrap:anywhere}
-.rodape h3{font-size:var(--t-rotulo);font-weight:var(--peso-forte);letter-spacing:.08em;text-transform:uppercase;color:var(--apoio);margin-bottom:var(--e4)}
+.rodape h3,.rodape .rod-tit{font-size:var(--t-rotulo);font-weight:var(--peso-forte);letter-spacing:.08em;text-transform:uppercase;color:var(--apoio);margin-bottom:var(--e4)}
 .rodape li a{display:inline-flex;min-height:36px;align-items:center;text-decoration:none;color:var(--fundo)}
 @media (hover:hover){.rodape li a:hover{text-decoration:underline;text-underline-offset:4px}}
 .rodape p{color:var(--apoio);max-width:40ch;line-height:1.6}
@@ -296,7 +296,7 @@ const cab = (atual) => `
 <div class="gaveta-fundo" id="gaveta-fundo" hidden></div>
 <aside class="gaveta" id="gaveta" aria-labelledby="t-gaveta" hidden>
   <div class="gaveta-topo">
-    <h2 class="sub" id="t-gaveta">Seus favoritos</h2>
+    <p class="sub" id="t-gaveta">Seus favoritos</p>
     <button class="btn btn-sec btn-peq" type="button" id="fecha-fav">Fechar</button>
   </div>
   <p class="meta">Guarde presentes e artigos enquanto navega. Quando chegar a data, está tudo aqui.</p>
@@ -318,16 +318,16 @@ const rodape = `
         <a class="marca-rodape" href="layout-alta-fidelidade.html" aria-label="O que dar?, página inicial"><img src="${LOGO_ESCURO}" alt="" width="500" height="500"></a>
         <p>O O que dar? é um blog especializado em ideias de presentes para todas as ocasiões. Através da curadoria da nossa equipe, selecionamos sugestões de presentes para namorados, amigas, familiares, colegas de trabalho e muito mais.</p>
       </div>
-      <div><h3>Presentes por</h3><ul>
+      <div><p class="rod-tit">Presentes por</p><ul>
         <li><a href="https://oquedar.com/category/genero/">Gênero</a></li><li><a href="https://oquedar.com/category/idade/">Idade</a></li><li><a href="https://oquedar.com/category/preco/">Preço</a></li><li><a href="https://oquedar.com/category/interesse/">Interesse</a></li><li><a href="https://oquedar.com/category/ocasiao/">Ocasião</a></li><li><a href="https://oquedar.com/category/relacionamento/">Relacionamento</a></li><li><a href="https://oquedar.com/category/profissao/">Profissão</a></li>
       </ul></div>
-      <div><h3>Informações gerais</h3><ul>
+      <div><p class="rod-tit">Informações gerais</p><ul>
         <li><a href="https://oquedar.com/politica-privacidade/">Política de Privacidade</a></li><li><a href="https://oquedar.com/termos-de-uso/">Termos de Uso</a></li><li><a href="https://oquedar.com/declaracao-de-afiliados/">Declaração de Afiliados</a></li><li><a href="https://oquedar.com/sobre-nos/">Sobre nós</a></li>
       </ul></div>
-      <div><h3>Contato</h3><ul>
+      <div><p class="rod-tit">Contato</p><ul>
         <li><a href="mailto:contato@oquedar.com.br">contato@oquedar.com.br</a></li><li><a href="https://oquedar.com/contato/">Página de contato</a></li>
       </ul></div>
-      <div class="divulga"><h3>Divulgação de produtos</h3>
+      <div class="divulga"><p class="rod-tit">Divulgação de produtos</p>
         <p>Somos um site associado da Amazon e, portanto, recebemos comissões por compras qualificadas. Como se trata de um acordo de intermediação entre nosso site e a Amazon, os valores elegíveis de comissionamento não são repassados para os usuários. Para mais informações, leia nossa <a class="link" href="https://oquedar.com/declaracao-de-afiliados/">Política de Afiliados</a>.</p>
       </div>
     </div>

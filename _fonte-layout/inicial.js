@@ -597,5 +597,11 @@ ${scriptImgs([])}
 </script>
 </body>
 </html>`;
-fs.writeFileSync(path.join(OUT, 'layout-alta-fidelidade.html'), home);
+// dados estruturados da inicial: o site (com a busca interna) e a marca
+const LD_HOME = [
+  { '@context': 'https://schema.org', '@type': 'WebSite', name: 'O que dar?', alternateName: 'OQD', url: 'https://oquedar.com/', inLanguage: 'pt-BR',
+    potentialAction: { '@type': 'SearchAction', target: { '@type': 'EntryPoint', urlTemplate: 'https://oquedar.com/buscar/?q={search_term_string}' }, 'query-input': 'required name=search_term_string' } },
+  { '@context': 'https://schema.org', '@type': 'Organization', name: 'O que dar?', url: 'https://oquedar.com/', logo: 'https://oquedar.com/imagens/icone.png' },
+];
+fs.writeFileSync(path.join(OUT, 'layout-alta-fidelidade.html'), home.replace('</head>', LD_HOME.map(o => `<script type="application/ld+json">${JSON.stringify(o)}</script>`).join('\n') + '\n</head>'));
 console.log('inicial ok', Math.round(home.length / 1024) + 'KB');

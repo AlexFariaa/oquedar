@@ -56,7 +56,7 @@ ${blocosHtml(p.itens, '        ')}      </div>
   };
 
   // índice: só as seções que o post tem
-  const indice = [['intro', 'Introdução'], ['rapido', 'Se você tem pouco tempo'], ['selecao', 'Seleção O que dar?']];
+  const indice = [['intro', 'Introdução'], ['rapido', 'Se você tem pouco tempo'], ['selecao', 'Seleção O que dar de presente']];
   G.forEach((g, k) => indice.push(['grupo-' + (k + 1), g.curto || g.titulo.replace(/:.*$/, '')]));
   if (D.comoEscolhemos) indice.push(['escolhemos', 'Como escolhemos']);
   indice.push(['comp', 'Comparativo rápido']);
@@ -193,7 +193,7 @@ ${D.fatos.map(f => `              <li><b>${f[0]}</b><span>${f[1]}</span></li>`).
 
         <section class="secao-art" id="selecao" aria-labelledby="t-selecao">
           <div class="cabeca-art">
-            <h2 class="titulo" id="t-selecao">Seleção O que dar?</h2>
+            <h2 class="titulo" id="t-selecao">Seleção O que dar de presente</h2>
             <p class="abre">${N} presentes, cada um com prós e contras e onde comprar. Toque no coração para guardar os que você gostou.</p>
           </div>
           <nav class="faixa-prod" aria-label="Os ${N} presentes desta lista">${SETAS}<ol>${P.map((p, i) => fpItem(i)).join('')}</ol></nav>
@@ -254,7 +254,7 @@ ${D.qualCombina ? `
             <div class="quem">
               <figure class="avatar foto-av"><img src="imagens/autora.jpg" alt="Retrato de A.G., autora do artigo" loading="lazy"></figure>
               <span class="rotulo">Escrito por</span>
-              <h2 class="sub" id="t-autora">A.G.</h2>
+              <p class="sub" id="t-autora">A.G.</p>
               <span class="meta">Curadoria O que dar? · ${D.trilha[0]}</span>
             </div>
             <div class="transp">
@@ -290,7 +290,7 @@ ${D.qualCombina ? `
     <div class="news-fim entra">
       <div class="pilha" aria-hidden="true">${[0, 1, 2, 3, 4].filter(i => i < N).map(i => `<span class="c-${P[i].cor}">${imgProd(i)}</span>`).join('')}</div>
       <span class="tag">Newsletter O que dar?</span>
-      <h2 class="titulo" id="t-news-fim">Ideias de presentes sempre.</h2>
+      <p class="titulo" id="t-news-fim">Ideias de presentes sempre.</p>
       <p class="abre">Inscreva-se na nossa Newsletter e receba as melhores dicas de presentes no seu email.</p>
       <form action="#" onsubmit="return false" aria-label="Assinar a newsletter">
         <label class="sr" for="email-fim">Seu e-mail</label>
@@ -301,7 +301,7 @@ ${D.qualCombina ? `
   </section>
 
   <section class="secao-art wrap" aria-labelledby="t-mais">
-    <div class="cabeca-art"><h2 class="titulo" id="t-mais">Continue explorando.</h2></div>
+    <div class="cabeca-art"><p class="titulo" id="t-mais">Continue explorando.</p></div>
     <div class="mais-artigos">${outros.slice(0, 3).map((a, k) => `
       <div class="mini-item entra" data-atraso="${k * 60}">
         <a class="mini c-${a.cor}" href="${a.u}">
@@ -329,7 +329,7 @@ ${D.qualCombina ? `
   <button class="fechar-pop" type="button" id="popup-x" aria-label="Fechar">&times;</button>
   <span class="ico" aria-hidden="true">${CORACAO}</span>
   <div>
-    <h2 class="sub" id="t-popup">Guarde para ver depois.</h2>
+    <p class="sub" id="t-popup">Guarde para ver depois.</p>
     <p>Salve este artigo e os presentes que você gostou. Quando chegar a data, está tudo em Favoritos.</p>
   </div>
   <div class="acoes-pop">

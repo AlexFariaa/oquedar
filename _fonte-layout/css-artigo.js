@@ -72,7 +72,7 @@ const CSS_ART = CSS_COMP + `
 .news-fim .pilha span{width:64px;height:64px;border-radius:50%;border:4px solid #fff;margin-left:-14px;overflow:hidden;box-shadow:0 8px 20px rgba(70,30,40,.10)}
 .news-fim .pilha span:first-child{margin-left:0}
 .news-fim .pilha .img-prod{padding:8px}
-.news-fim h2{max-width:14ch}
+.news-fim h2,.news-fim .titulo{max-width:14ch}
 .news-fim .abre{max-width:34em}
 .news-fim form{width:min(520px,100%);display:flex;flex-direction:column;gap:var(--e3);align-items:stretch;text-align:left}
 .news-fim .campo{display:flex;gap:var(--e2);background:#fff;border-radius:var(--pilula);padding:var(--e1);border:1.5px solid var(--fio-forte)}
@@ -86,8 +86,9 @@ const CSS_ART = CSS_COMP + `
 @keyframes popup{from{opacity:0;transform:translateX(32px)}}
 .popup .ico{width:56px;height:56px;border-radius:var(--raio-interno);background:var(--degrade);display:grid;place-items:center}
 .popup .ico svg{width:28px;height:28px;color:var(--tinta);fill:#fff}
-.popup h2{margin-bottom:var(--e1)}
+.popup h2,.popup .sub{margin-bottom:var(--e1)}
 .popup p{color:var(--apoio);line-height:1.45}
+.popup p.sub{color:var(--tinta);line-height:1.2}
 .popup .acoes-pop{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:var(--e2);align-items:center}
 .popup .fechar-pop{position:absolute;right:var(--e2);top:var(--e2);width:40px;height:40px;border:0;background:none;border-radius:50%;cursor:pointer;font-size:var(--t-sub);line-height:1;color:var(--apoio)}
 .popup .fechar-pop:hover{background:var(--fundo)}
