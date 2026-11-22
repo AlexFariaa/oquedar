@@ -1,0 +1,8406 @@
+{
+ "resumo": [
+  {
+   "dom": "buscandopresente.com.br",
+   "palavras": 1000,
+   "top3": 334,
+   "top10": 478,
+   "trafego": 1545,
+   "custoUSD": 38,
+   "paginas": [
+    "/presentes-para-homens/ (335)",
+    "/presentes-de-amigo-secreto/ (270)",
+    "/presentes-para-mulheres/ (179)"
+   ]
+  },
+  {
+   "dom": "guiadospresentes.com.br",
+   "palavras": 1000,
+   "top3": 52,
+   "top10": 183,
+   "trafego": 250,
+   "custoUSD": 6,
+   "paginas": [
+    "/presentes-para-fas-do-senhor-dos-aneis/ (23)",
+    "/presente-para-sogra/ (20)",
+    "/presente-para-a-primeira-comunhao/ (20)"
+   ]
+  },
+  {
+   "dom": "ideiasdepresente.com",
+   "palavras": 1000,
+   "top3": 208,
+   "top10": 333,
+   "trafego": 639,
+   "custoUSD": 18,
+   "paginas": [
+    "/presentes-unissex-para-amigo-secreto (72)",
+    "/ideias-de-presente-para-menina-de-15-anos (34)",
+    "/presentes-para-inimigo-secreto (31)"
+   ]
+  },
+  {
+   "dom": "ilovepresente.com.br",
+   "palavras": 1000,
+   "top3": 64,
+   "top10": 142,
+   "trafego": 76,
+   "custoUSD": 1,
+   "paginas": [
+    "/presentes-baratos-para-homens/ (20)",
+    "/presentes-ate-50-reais/ (13)",
+    "/presentes-para-idosas/ (11)"
+   ]
+  },
+  {
+   "dom": "menudepresentes.com.br",
+   "palavras": 598,
+   "top3": 47,
+   "top10": 95,
+   "trafego": 120,
+   "custoUSD": 5,
+   "paginas": [
+    "/consumismo/ (55)",
+    "/presente-de-grego/ (22)",
+    "/significado-presente/ (12)"
+   ]
+  },
+  {
+   "dom": "presentepedia.com.br",
+   "palavras": 1000,
+   "top3": 70,
+   "top10": 166,
+   "trafego": 59,
+   "custoUSD": 1,
+   "paginas": [
+    "/presentes-para-fas-dos-beatles/ (8)",
+    "/presente-idoso-70-anos/ (7)",
+    "/presentes-pastora/ (4)"
+   ]
+  },
+  {
+   "dom": "presentespara.com.br",
+   "palavras": 1000,
+   "top3": 471,
+   "top10": 640,
+   "trafego": 1274,
+   "custoUSD": 28,
+   "paginas": [
+    "/presentes-para-amigo-da-onca/ (138)",
+    "/presentes-para-engenheiro/ (58)",
+    "/presentes-para-meninas-de-10-anos/ (58)"
+   ]
+  },
+  {
+   "dom": "sigaja.com.br",
+   "palavras": 1000,
+   "top3": 186,
+   "top10": 417,
+   "trafego": 1115,
+   "custoUSD": 47,
+   "paginas": [
+    "/presentes/mensagem-de-aniversario-para-adolescente/ (328)",
+    "/presentes/mensagem-de-aniversario-para-filho/ (183)",
+    "/presentes/mensagem-de-aniversario-para-amigo/ (109)"
+   ]
+  }
+ ],
+ "pauta": [
+  {
+   "kw": "presente para adolescentes",
+   "kd": 8,
+   "vol": 990,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "guiadospresentes:27",
+    "ideiasdepresente:18",
+    "ideiasdepresente:28",
+    "presentespara:9",
+    "presentespara:13",
+    "presentespara:23"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para homem",
+   "kd": 8,
+   "vol": 990,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:44"
+   ]
+  },
+  {
+   "kw": "presente de formatura",
+   "kd": 5,
+   "vol": 990,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "presentespara:10"
+   ]
+  },
+  {
+   "kw": "mensagem de feliz aniversário para filho",
+   "kd": 10,
+   "vol": 990,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "livro para",
+   "kd": 14,
+   "vol": 920,
+   "int": "I",
+   "cpc": 0.08,
+   "quem": [
+    "buscandopresente:49"
+   ]
+  },
+  {
+   "kw": "ideias para presente",
+   "kd": 15,
+   "vol": 920,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:69"
+   ]
+  },
+  {
+   "kw": "ideias presente",
+   "kd": 9,
+   "vol": 920,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:34",
+    "buscandopresente:57"
+   ]
+  },
+  {
+   "kw": "presente para mulheres",
+   "kd": 7,
+   "vol": 910,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "buscandopresente:12"
+   ]
+  },
+  {
+   "kw": "presente barato",
+   "kd": 9,
+   "vol": 910,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:20",
+    "guiadospresentes:62"
+   ]
+  },
+  {
+   "kw": "presente dias das maes ideias",
+   "kd": 9,
+   "vol": 880,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:28",
+    "presentespara:26"
+   ]
+  },
+  {
+   "kw": "aniversário evangélico",
+   "kd": 18,
+   "vol": 880,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "lembrancinha para",
+   "kd": 9,
+   "vol": 810,
+   "int": "L, C",
+   "cpc": 0.08,
+   "quem": [
+    "buscandopresente:16"
+   ]
+  },
+  {
+   "kw": "consumo excessivo",
+   "kd": 18,
+   "vol": 810,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:34"
+   ]
+  },
+  {
+   "kw": "presentes para namorado",
+   "kd": 9,
+   "vol": 760,
+   "int": "I",
+   "cpc": 0.08,
+   "quem": [
+    "guiadospresentes:76"
+   ]
+  },
+  {
+   "kw": "mensagem aniversário amigo",
+   "kd": 10,
+   "vol": 760,
+   "int": "I",
+   "cpc": 0.1,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "fotos de presente",
+   "kd": 10,
+   "vol": 740,
+   "int": "I",
+   "cpc": 0.11,
+   "quem": [
+    "guiadospresentes:49"
+   ]
+  },
+  {
+   "kw": "presente para marido",
+   "kd": 7,
+   "vol": 740,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:28"
+   ]
+  },
+  {
+   "kw": "presente para dia dos professores",
+   "kd": 7,
+   "vol": 720,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:18",
+    "ideiasdepresente:20"
+   ]
+  },
+  {
+   "kw": "meninos de 10 anos",
+   "kd": 10,
+   "vol": 660,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "o que dar",
+   "kd": 9,
+   "vol": 660,
+   "int": "I",
+   "cpc": 0.19,
+   "quem": [
+    "buscandopresente:28",
+    "buscandopresente:64"
+   ]
+  },
+  {
+   "kw": "um presente",
+   "kd": 6,
+   "vol": 660,
+   "int": "I",
+   "cpc": 0.15,
+   "quem": [
+    "menudepresentes:2",
+    "menudepresentes:18",
+    "menudepresentes:19"
+   ]
+  },
+  {
+   "kw": "presente para professor",
+   "kd": 9,
+   "vol": 610,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:17"
+   ]
+  },
+  {
+   "kw": "sugestão de presentes",
+   "kd": 9,
+   "vol": 610,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "buscandopresente:54",
+    "buscandopresente:83",
+    "presentespara:16"
+   ]
+  },
+  {
+   "kw": "surpresa para esposa",
+   "kd": 9,
+   "vol": 610,
+   "int": "I",
+   "cpc": 0.18,
+   "quem": [
+    "buscandopresente:52"
+   ]
+  },
+  {
+   "kw": "presente para menino de 15 anos",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:2",
+    "presentespara:9",
+    "presentespara:4"
+   ]
+  },
+  {
+   "kw": "presentes para quem gosta de cerveja",
+   "kd": 6,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:3",
+    "guiadospresentes:21"
+   ]
+  },
+  {
+   "kw": "presente para quem gosta de cerveja",
+   "kd": 6,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:3",
+    "guiadospresentes:24"
+   ]
+  },
+  {
+   "kw": "ideias de presentes para crianças",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:4"
+   ]
+  },
+  {
+   "kw": "presente para amigo secreto criativo",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:5",
+    "presentespara:26"
+   ]
+  },
+  {
+   "kw": "lembranças unissex",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:5",
+    "ideiasdepresente:22"
+   ]
+  },
+  {
+   "kw": "presentes até 100 reais feminino",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "buscandopresente:6",
+    "ideiasdepresente:18"
+   ]
+  },
+  {
+   "kw": "presente de aniversário para menina de 10 anos",
+   "kd": 6,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:4",
+    "presentespara:9"
+   ]
+  },
+  {
+   "kw": "presente para quem gosta de gatos",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1",
+    "ideiasdepresente:17"
+   ]
+  },
+  {
+   "kw": "dicas de presente amigo secreto",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:5",
+    "presentespara:21"
+   ]
+  },
+  {
+   "kw": "lembrancinha unissex",
+   "kd": 6,
+   "vol": 590,
+   "int": "L, C",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:6"
+   ]
+  },
+  {
+   "kw": "o que dar de presente de 15 anos",
+   "kd": 6,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "buscandopresente:5"
+   ]
+  },
+  {
+   "kw": "dica de presente para amigo secreto",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:5",
+    "presentespara:20"
+   ]
+  },
+  {
+   "kw": "presente para amiga secreta criativo",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:7",
+    "ideiasdepresente:27",
+    "ideiasdepresente:34",
+    "presentespara:25"
+   ]
+  },
+  {
+   "kw": "dica de presente amigo secreto",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:6",
+    "presentespara:21"
+   ]
+  },
+  {
+   "kw": "presentes engraçados para amigos",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:2"
+   ]
+  },
+  {
+   "kw": "presentes baratos femininos",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:6",
+    "ideiasdepresente:20"
+   ]
+  },
+  {
+   "kw": "presentes de até 50 reais",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:14"
+   ]
+  },
+  {
+   "kw": "presentes unissex amigo secreto",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:7",
+    "ideiasdepresente:1",
+    "presentespara:29"
+   ]
+  },
+  {
+   "kw": "ideias de presente barato",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:14",
+    "buscandopresente:17"
+   ]
+  },
+  {
+   "kw": "presente amigo secreto criativo",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:7",
+    "ideiasdepresente:29",
+    "presentespara:24"
+   ]
+  },
+  {
+   "kw": "presente amigo oculto",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:12",
+    "ideiasdepresente:20",
+    "ideiasdepresente:58",
+    "presentespara:34"
+   ]
+  },
+  {
+   "kw": "dicas para presente de amigo secreto",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:7",
+    "presentespara:22"
+   ]
+  },
+  {
+   "kw": "dicas de presente para amiga secreta",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:14"
+   ]
+  },
+  {
+   "kw": "presentes para amigo secreto unissex",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:14",
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente para quem gosta de gato",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:13",
+    "buscandopresente:21",
+    "buscandopresente:32",
+    "guiadospresentes:13",
+    "guiadospresentes:30",
+    "ideiasdepresente:19",
+    "presentespara:13"
+   ]
+  },
+  {
+   "kw": "presente para menino 1 ano",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:19",
+    "buscandopresente:22",
+    "buscandopresente:13",
+    "menudepresentes:73",
+    "presentespara:28"
+   ]
+  },
+  {
+   "kw": "ideias presente natal",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:11"
+   ]
+  },
+  {
+   "kw": "presente criativo amigo secreto",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:14",
+    "presentespara:26"
+   ]
+  },
+  {
+   "kw": "presente de crisma para afilhado",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:14"
+   ]
+  },
+  {
+   "kw": "presente de até 50 reais",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:13"
+   ]
+  },
+  {
+   "kw": "presente amigo secreto unissex",
+   "kd": 11,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:15",
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente até 30 reais",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:21"
+   ]
+  },
+  {
+   "kw": "coisas de meninas de 10 anos",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:11",
+    "presentespara:18"
+   ]
+  },
+  {
+   "kw": "ideias de presentes baratinhos",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:17",
+    "buscandopresente:20",
+    "guiadospresentes:58"
+   ]
+  },
+  {
+   "kw": "dicas de presente para amigo secreto",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:13",
+    "ideiasdepresente:32",
+    "presentespara:21"
+   ]
+  },
+  {
+   "kw": "livro para dar de presente",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:18"
+   ]
+  },
+  {
+   "kw": "ideias de presentes para o dia das crianças",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:24"
+   ]
+  },
+  {
+   "kw": "sugestão de presente de natal",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:18"
+   ]
+  },
+  {
+   "kw": "dicas de presente para mãe",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:27",
+    "guiadospresentes:35",
+    "ideiasdepresente:29"
+   ]
+  },
+  {
+   "kw": "ideias presentes natal",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:28"
+   ]
+  },
+  {
+   "kw": "dicas de presentes amigo secreto",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:9"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para menina de 10 anos",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:14",
+    "buscandopresente:21",
+    "guiadospresentes:46",
+    "presentespara:18",
+    "presentespara:29",
+    "presentespara:14",
+    "presentespara:21"
+   ]
+  },
+  {
+   "kw": "presente para minha mãe",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "buscandopresente:25",
+    "guiadospresentes:58"
+   ]
+  },
+  {
+   "kw": "sugestões de presentes de natal",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:26"
+   ]
+  },
+  {
+   "kw": "presentes afetivos",
+   "kd": 4,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.07,
+   "quem": [
+    "buscandopresente:23"
+   ]
+  },
+  {
+   "kw": "presentes masculino criativos",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:20",
+    "buscandopresente:23"
+   ]
+  },
+  {
+   "kw": "presentes até 30 reais",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:24",
+    "buscandopresente:66"
+   ]
+  },
+  {
+   "kw": "dicas de presentes de casamento",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:26"
+   ]
+  },
+  {
+   "kw": "presente para menino 9 anos",
+   "kd": 6,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:10",
+    "buscandopresente:12"
+   ]
+  },
+  {
+   "kw": "o que dar para o dia das mães",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:28"
+   ]
+  },
+  {
+   "kw": "sugestão de presente para menina de 10 anos",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:22",
+    "buscandopresente:12",
+    "presentespara:12",
+    "presentespara:18",
+    "presentespara:7",
+    "presentespara:22"
+   ]
+  },
+  {
+   "kw": "dicas de presentes para mae",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:29"
+   ]
+  },
+  {
+   "kw": "presentes baratos",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:19"
+   ]
+  },
+  {
+   "kw": "presente pro dia das mães",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.08,
+   "quem": [
+    "buscandopresente:25"
+   ]
+  },
+  {
+   "kw": "presente de pascoa para criança",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:15"
+   ]
+  },
+  {
+   "kw": "presente para amigo secreto unissex",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:12",
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "o que dar dia das maes",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:25",
+    "presentespara:24"
+   ]
+  },
+  {
+   "kw": "ideias de presentes baratos",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:13",
+    "buscandopresente:23"
+   ]
+  },
+  {
+   "kw": "lembrancinhas unissex",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:16"
+   ]
+  },
+  {
+   "kw": "melhor presente 3 anos menino",
+   "kd": 5,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:14",
+    "ideiasdepresente:19"
+   ]
+  },
+  {
+   "kw": "lembrancinhas para padre",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:12",
+    "ideiasdepresente:17"
+   ]
+  },
+  {
+   "kw": "coisas para crianças de 10 anos",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:15",
+    "presentespara:18"
+   ]
+  },
+  {
+   "kw": "caderno de escritores",
+   "kd": 12,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:15"
+   ]
+  },
+  {
+   "kw": "lembrança para médico",
+   "kd": 6,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:19"
+   ]
+  },
+  {
+   "kw": "presente para sogra de aniversário",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:22",
+    "ideiasdepresente:19",
+    "presentespara:11"
+   ]
+  },
+  {
+   "kw": "dica de lembrancinha de natal",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "buscandopresente:88"
+   ]
+  },
+  {
+   "kw": "marcas de sabonete",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.13,
+   "quem": [
+    "buscandopresente:43"
+   ]
+  },
+  {
+   "kw": "dica de presente mae",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:27",
+    "guiadospresentes:44",
+    "ideiasdepresente:31"
+   ]
+  },
+  {
+   "kw": "presentes engraçados para amigo",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:13",
+    "ideiasdepresente:27",
+    "presentespara:1",
+    "presentespara:11"
+   ]
+  },
+  {
+   "kw": "ideia de presente para esposa",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:36",
+    "guiadospresentes:43"
+   ]
+  },
+  {
+   "kw": "presente para quem gosta de ler",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:53",
+    "guiadospresentes:26",
+    "guiadospresentes:25",
+    "guiadospresentes:18",
+    "ideiasdepresente:18",
+    "presentespara:9"
+   ]
+  },
+  {
+   "kw": "dica de presente de casamento",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:41",
+    "guiadospresentes:83"
+   ]
+  },
+  {
+   "kw": "o que dar no dia das maes",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:26",
+    "presentespara:25"
+   ]
+  },
+  {
+   "kw": "ideias de presentes para esposa",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:35",
+    "buscandopresente:10",
+    "guiadospresentes:43"
+   ]
+  },
+  {
+   "kw": "ideias de presente para esposa",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:33"
+   ]
+  },
+  {
+   "kw": "presentes engraçados para amiga",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:23",
+    "ideiasdepresente:12",
+    "presentepedia:23"
+   ]
+  },
+  {
+   "kw": "presente maternidade",
+   "kd": 4,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.21,
+   "quem": [
+    "buscandopresente:77"
+   ]
+  },
+  {
+   "kw": "dicas de presente de casamento",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:35"
+   ]
+  },
+  {
+   "kw": "presente de natal para amiga",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:38"
+   ]
+  },
+  {
+   "kw": "dica de presente para mãe",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:24",
+    "ideiasdepresente:27"
+   ]
+  },
+  {
+   "kw": "presente criança 9 anos",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:26"
+   ]
+  },
+  {
+   "kw": "ideias de brindes para bingo",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "guiadospresentes:18"
+   ]
+  },
+  {
+   "kw": "presentes masculinos criativos",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:59",
+    "ideiasdepresente:54",
+    "presentespara:23",
+    "sigaja:22",
+    "sigaja:35"
+   ]
+  },
+  {
+   "kw": "presente para o pai de primeira viagem",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "guiadospresentes:37",
+    "ideiasdepresente:17"
+   ]
+  },
+  {
+   "kw": "presentes criativos masculinos",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:54",
+    "ideiasdepresente:45",
+    "presentespara:20"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para casal em bodas",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "guiadospresentes:66",
+    "guiadospresentes:42",
+    "guiadospresentes:69",
+    "ideiasdepresente:40",
+    "presentespara:61"
+   ]
+  },
+  {
+   "kw": "presente para criança de 7 anos",
+   "kd": 6,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:31",
+    "presentespara:9"
+   ]
+  },
+  {
+   "kw": "presente de um ano de namoro",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "guiadospresentes:58",
+    "ideiasdepresente:32"
+   ]
+  },
+  {
+   "kw": "presentes para minha mae",
+   "kd": 6,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "guiadospresentes:51"
+   ]
+  },
+  {
+   "kw": "como pedir desculpas para o namorado",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "guiadospresentes:34"
+   ]
+  },
+  {
+   "kw": "prenda para bingo",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "guiadospresentes:30"
+   ]
+  },
+  {
+   "kw": "presente para músicos",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:55",
+    "ideiasdepresente:11",
+    "presentespara:29"
+   ]
+  },
+  {
+   "kw": "como pedir desculpas ao namorado",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "guiadospresentes:30"
+   ]
+  },
+  {
+   "kw": "presente de ano de namoro",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "guiadospresentes:50",
+    "ideiasdepresente:26"
+   ]
+  },
+  {
+   "kw": "presente para o papai de primeira viagem",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "guiadospresentes:40",
+    "ideiasdepresente:19"
+   ]
+  },
+  {
+   "kw": "presentes tecnologicos para homens",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:5"
+   ]
+  },
+  {
+   "kw": "presentes amigo secreto unissex",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente papai de primeira viagem",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:21"
+   ]
+  },
+  {
+   "kw": "artesanato presente",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "ideiasdepresente:20"
+   ]
+  },
+  {
+   "kw": "presente friends",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:13",
+    "ideiasdepresente:14"
+   ]
+  },
+  {
+   "kw": "presente para orientador de tcc",
+   "kd": 11,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:16"
+   ]
+  },
+  {
+   "kw": "presente de aniversario para namorado diferente",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "ideiasdepresente:4",
+    "ideiasdepresente:22"
+   ]
+  },
+  {
+   "kw": "presentes para leitores",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:14",
+    "presentespara:5"
+   ]
+  },
+  {
+   "kw": "presentes para ficante",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.09,
+   "quem": [
+    "ideiasdepresente:14",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes gamers",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "ideiasdepresente:27"
+   ]
+  },
+  {
+   "kw": "presentes friends",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:19"
+   ]
+  },
+  {
+   "kw": "presentes para músicos",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:20"
+   ]
+  },
+  {
+   "kw": "presentes amigo oculto",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ideiasdepresente:28",
+    "presentespara:25"
+   ]
+  },
+  {
+   "kw": "ideia de presente de natal para namorado",
+   "kd": 13,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "ideiasdepresente:24",
+    "ideiasdepresente:20",
+    "ideiasdepresente:14"
+   ]
+  },
+  {
+   "kw": "lembrança para padre",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:9"
+   ]
+  },
+  {
+   "kw": "presente engraçado para amiga",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:19"
+   ]
+  },
+  {
+   "kw": "presente para crismando",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:14",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente pai de primeira viagem",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:21"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para menina de 15 anos",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "ideiasdepresente:12",
+    "presentespara:14"
+   ]
+  },
+  {
+   "kw": "foto presente",
+   "kd": 8,
+   "vol": 590,
+   "int": "L, C",
+   "cpc": 0.16,
+   "quem": [
+    "ideiasdepresente:22"
+   ]
+  },
+  {
+   "kw": "ideias de presentes de natal para namorado",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "ideiasdepresente:24"
+   ]
+  },
+  {
+   "kw": "presente para pai de primeira viagem",
+   "kd": 11,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:20"
+   ]
+  },
+  {
+   "kw": "presentes para musico",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:18"
+   ]
+  },
+  {
+   "kw": "presente de quinze anos barato",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:13"
+   ]
+  },
+  {
+   "kw": "presente para musico",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:21",
+    "presentespara:8"
+   ]
+  },
+  {
+   "kw": "presentes para sogra de aniversário",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:27",
+    "presentespara:14"
+   ]
+  },
+  {
+   "kw": "mimos para chá revelação",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ideiasdepresente:24",
+    "presentespara:16"
+   ]
+  },
+  {
+   "kw": "presente para criança de 5 anos menina",
+   "kd": 6,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ideiasdepresente:17",
+    "presentespara:16"
+   ]
+  },
+  {
+   "kw": "lembrancinha para padre",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:16"
+   ]
+  },
+  {
+   "kw": "presentes para chefe homem",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:31",
+    "presentespara:15"
+   ]
+  },
+  {
+   "kw": "consumista significado",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:19"
+   ]
+  },
+  {
+   "kw": "o que significa presente",
+   "kd": 12,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:7"
+   ]
+  },
+  {
+   "kw": "o que dar pro namorado de presente",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "menudepresentes:59"
+   ]
+  },
+  {
+   "kw": "o que é presente",
+   "kd": 14,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:9"
+   ]
+  },
+  {
+   "kw": "o que dar de presente pro namorado",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "menudepresentes:62"
+   ]
+  },
+  {
+   "kw": "o'que dar de presente pro namorado",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "menudepresentes:60"
+   ]
+  },
+  {
+   "kw": "whiskys famosos",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "menudepresentes:60"
+   ]
+  },
+  {
+   "kw": "o'que é presente",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:32",
+    "menudepresentes:11",
+    "menudepresentes:8"
+   ]
+  },
+  {
+   "kw": "o que significa presentear",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:39"
+   ]
+  },
+  {
+   "kw": "presentes tecnologia para homens",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:19"
+   ]
+  },
+  {
+   "kw": "presentes harry potter feminino",
+   "kd": 10,
+   "vol": 590,
+   "int": "L, C",
+   "cpc": 0.03,
+   "quem": [
+    "presentespara:13"
+   ]
+  },
+  {
+   "kw": "presentes para ficantes",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.09,
+   "quem": [
+    "presentespara:11",
+    "presentespara:13"
+   ]
+  },
+  {
+   "kw": "presente para ficante",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.09,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "amigo da onça ideias",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "os piores presentes para amigo da onça",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "amigo ladrão regras",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:15"
+   ]
+  },
+  {
+   "kw": "ideias de presentes para meninas",
+   "kd": 5,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "presentespara:9",
+    "presentespara:19",
+    "presentespara:13"
+   ]
+  },
+  {
+   "kw": "presente dia dos pais feito a mao",
+   "kd": 12,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "presentespara:2"
+   ]
+  },
+  {
+   "kw": "sugestão de presente para criança de 1 ano",
+   "kd": 6,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:16"
+   ]
+  },
+  {
+   "kw": "presentes para quem gosta de ler",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:16",
+    "presentespara:9",
+    "presentespara:25"
+   ]
+  },
+  {
+   "kw": "presentes dia dos pais ideias",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "presentespara:25"
+   ]
+  },
+  {
+   "kw": "coisas para pedir de aniversario",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "presentespara:22"
+   ]
+  },
+  {
+   "kw": "ideias de presente criativo",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "presentespara:27"
+   ]
+  },
+  {
+   "kw": "idosa de 80 anos",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:11"
+   ]
+  },
+  {
+   "kw": "ideias de presentes criativos",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "presentespara:22"
+   ]
+  },
+  {
+   "kw": "presentes para equipe de trabalho",
+   "kd": 5,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.2,
+   "quem": [
+    "presentespara:12"
+   ]
+  },
+  {
+   "kw": "presente para chefe homem",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:17"
+   ]
+  },
+  {
+   "kw": "embrulho de presente com papel",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:23"
+   ]
+  },
+  {
+   "kw": "presentes criativos amigo secreto",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "presentespara:28"
+   ]
+  },
+  {
+   "kw": "mimo para chá revelação",
+   "kd": 7,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:16"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário para criança evangélica",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "linda mensagem de aniversário de mãe para filho",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "msg aniversario para filho",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "mensagens aniversario amigo",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:1"
+   ]
+  },
+  {
+   "kw": "homenagem de aniversário para o filho",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.09,
+   "quem": [
+    "sigaja:2",
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário da esposa para o marido",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.11,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "homenagem de aniversario para filho",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.09,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "mensagem para meu filho",
+   "kd": 11,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2",
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário para criança de 3 anos",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "presente para homem de 30 anos",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "sigaja:24",
+    "sigaja:36"
+   ]
+  },
+  {
+   "kw": "presente para homens de 30 anos",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "sigaja:20"
+   ]
+  },
+  {
+   "kw": "feliz aniversário filha 2 anos",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.18,
+   "quem": [
+    "sigaja:26"
+   ]
+  },
+  {
+   "kw": "feliz dias dos pais meu amor",
+   "kd": 11,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.2,
+   "quem": [
+    "sigaja:17"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário com palavras sábias",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "texto de 1 aninho para filha",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "mensagens de natal gospel",
+   "kd": 11,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:77"
+   ]
+  },
+  {
+   "kw": "mensagem parabens para irma",
+   "kd": 8,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "feliz aniversario filho 3 anos",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:25",
+    "sigaja:34"
+   ]
+  },
+  {
+   "kw": "feliz aniversário amigo querido",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "livro infantil 8 anos",
+   "kd": 12,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "sigaja:24"
+   ]
+  },
+  {
+   "kw": "feliz natal mensagens evangelicas",
+   "kd": 10,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:75"
+   ]
+  },
+  {
+   "kw": "caminha montessoriana",
+   "kd": 9,
+   "vol": 590,
+   "int": "I",
+   "cpc": 0.11,
+   "quem": [
+    "sigaja:33"
+   ]
+  },
+  {
+   "kw": "presente 1 aninho",
+   "kd": 7,
+   "vol": 540,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:6",
+    "menudepresentes:78",
+    "presentespara:28"
+   ]
+  },
+  {
+   "kw": "presente 1 ano",
+   "kd": 7,
+   "vol": 540,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:15",
+    "buscandopresente:32",
+    "buscandopresente:12",
+    "buscandopresente:23"
+   ]
+  },
+  {
+   "kw": "presente para menino de 9 anos",
+   "kd": 7,
+   "vol": 540,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:31",
+    "presentespara:19"
+   ]
+  },
+  {
+   "kw": "whisky bom",
+   "kd": 8,
+   "vol": 540,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "menudepresentes:17"
+   ]
+  },
+  {
+   "kw": "formatura administração",
+   "kd": 8,
+   "vol": 540,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:14"
+   ]
+  },
+  {
+   "kw": "administração formatura",
+   "kd": 7,
+   "vol": 540,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:15"
+   ]
+  },
+  {
+   "kw": "formatura adm",
+   "kd": 10,
+   "vol": 540,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:13"
+   ]
+  },
+  {
+   "kw": "formaturas administração",
+   "kd": 7,
+   "vol": 540,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:17"
+   ]
+  },
+  {
+   "kw": "feliz aniversario filho",
+   "kd": 10,
+   "vol": 540,
+   "int": "I",
+   "cpc": 0.16,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "presentes mulher",
+   "kd": 8,
+   "vol": 500,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "buscandopresente:18"
+   ]
+  },
+  {
+   "kw": "dica de presente",
+   "kd": 18,
+   "vol": 500,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:36",
+    "buscandopresente:63",
+    "buscandopresente:79"
+   ]
+  },
+  {
+   "kw": "presente criativo para bebê recém-nascido",
+   "kd": 6,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:2"
+   ]
+  },
+  {
+   "kw": "significados de presentes",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:2"
+   ]
+  },
+  {
+   "kw": "presente criativo para bebê recém nascido",
+   "kd": 6,
+   "vol": 480,
+   "int": "C",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:3"
+   ]
+  },
+  {
+   "kw": "sugestão de presentes para o natal",
+   "kd": 7,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:5"
+   ]
+  },
+  {
+   "kw": "ideia de presente de amigo secreto",
+   "kd": 12,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "inimigo oculto presentes para zoar amigos",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "opções de presente amigo secreto",
+   "kd": 11,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "friends presente",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1",
+    "ideiasdepresente:10"
+   ]
+  },
+  {
+   "kw": "presente engraçado para amigo secreto",
+   "kd": 11,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "friends presentes",
+   "kd": 7,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "ideias de presente de amigo secreto",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "ideias de presentes de amigo secreto",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes engraçados para amigo secreto",
+   "kd": 11,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1",
+    "guiadospresentes:2"
+   ]
+  },
+  {
+   "kw": "ideias presente amigo secreto",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "ideias para presente amigo secreto",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente menino 15 anos",
+   "kd": 12,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "opções de presente para amigo secreto",
+   "kd": 12,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "ideia presente amigo secreto",
+   "kd": 7,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "mulher libra",
+   "kd": 13,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente menino 14 anos",
+   "kd": 11,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "tipos de presente",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.13,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente criativo para bebe recem nascido",
+   "kd": 5,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:7"
+   ]
+  },
+  {
+   "kw": "sugestões de presentes para o natal",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:19"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para o dia das mães",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:12"
+   ]
+  },
+  {
+   "kw": "presente dos dias das mães",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.08,
+   "quem": [
+    "buscandopresente:29",
+    "presentespara:26"
+   ]
+  },
+  {
+   "kw": "presente legal para homem",
+   "kd": 6,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:15",
+    "presentespara:25"
+   ]
+  },
+  {
+   "kw": "presente de casamento elegante",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:19"
+   ]
+  },
+  {
+   "kw": "melhor presente dia das maes",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "buscandopresente:12"
+   ]
+  },
+  {
+   "kw": "o que pedir de presente",
+   "kd": 16,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:47"
+   ]
+  },
+  {
+   "kw": "presente senhor dos aneis",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "guiadospresentes:3",
+    "guiadospresentes:5"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para um amigo",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "guiadospresentes:6"
+   ]
+  },
+  {
+   "kw": "presente homem 30 anos",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:6"
+   ]
+  },
+  {
+   "kw": "presentes para homem 30 anos",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:9",
+    "sigaja:2",
+    "sigaja:16"
+   ]
+  },
+  {
+   "kw": "presentes para crismandos",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:7"
+   ]
+  },
+  {
+   "kw": "presentes diferentes para homem",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:10",
+    "guiadospresentes:4"
+   ]
+  },
+  {
+   "kw": "presentes senhor dos aneis",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "guiadospresentes:5",
+    "ideiasdepresente:5"
+   ]
+  },
+  {
+   "kw": "presente para crismandos",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:12",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes para corredores",
+   "kd": 6,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "guiadospresentes:14"
+   ]
+  },
+  {
+   "kw": "presente homens 30 anos",
+   "kd": 7,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:33",
+    "presentespara:24"
+   ]
+  },
+  {
+   "kw": "presente 1 mes de namoro",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.08,
+   "quem": [
+    "guiadospresentes:57",
+    "ideiasdepresente:25"
+   ]
+  },
+  {
+   "kw": "presente para 1 mes de namoro",
+   "kd": 7,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.08,
+   "quem": [
+    "guiadospresentes:55",
+    "guiadospresentes:16",
+    "ideiasdepresente:23",
+    "ideiasdepresente:16",
+    "presentespara:10"
+   ]
+  },
+  {
+   "kw": "presentes game of thrones",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ideiasdepresente:6",
+    "ideiasdepresente:2"
+   ]
+  },
+  {
+   "kw": "presente 30 anos homem",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:6"
+   ]
+  },
+  {
+   "kw": "sugestões de presente para mae",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:9"
+   ]
+  },
+  {
+   "kw": "game of thrones presentes",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ideiasdepresente:3",
+    "ideiasdepresente:7"
+   ]
+  },
+  {
+   "kw": "presente para o namorado de natal",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:2",
+    "ideiasdepresente:7"
+   ]
+  },
+  {
+   "kw": "presentes 1 mes de namoro",
+   "kd": 7,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.08,
+   "quem": [
+    "ideiasdepresente:21"
+   ]
+  },
+  {
+   "kw": "presente game of thrones",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ideiasdepresente:9"
+   ]
+  },
+  {
+   "kw": "sugestão de presente para chefe feminino",
+   "kd": 5,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:13",
+    "presentespara:20"
+   ]
+  },
+  {
+   "kw": "sugestão presente de natal",
+   "kd": 7,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "ideiasdepresente:16"
+   ]
+  },
+  {
+   "kw": "presentes para namorado de natal",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:12"
+   ]
+  },
+  {
+   "kw": "presente dia dos pais dicas",
+   "kd": 7,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "ideiasdepresente:3"
+   ]
+  },
+  {
+   "kw": "presentes para o namorado de natal",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:16"
+   ]
+  },
+  {
+   "kw": "ideia presente amiga",
+   "kd": 15,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "ideiasdepresente:10"
+   ]
+  },
+  {
+   "kw": "ideias presente amiga",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "ideiasdepresente:12"
+   ]
+  },
+  {
+   "kw": "presentes para 1 mes de namoro",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.08,
+   "quem": [
+    "ideiasdepresente:22"
+   ]
+  },
+  {
+   "kw": "presente para namorado de natal",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:8"
+   ]
+  },
+  {
+   "kw": "ideias para presente para amiga",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "ideiasdepresente:10"
+   ]
+  },
+  {
+   "kw": "consumismo o que é",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:14",
+    "menudepresentes:50"
+   ]
+  },
+  {
+   "kw": "imagens sobre consumismo",
+   "kd": 11,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:2"
+   ]
+  },
+  {
+   "kw": "o que e consumista",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:24"
+   ]
+  },
+  {
+   "kw": "ideias para amigo da onça",
+   "kd": 10,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:3",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "ideias de presente para amiga feito a mão",
+   "kd": 12,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "ideias de presentes para amigo da onça",
+   "kd": 20,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "ideias de presente para amigo da onça",
+   "kd": 12,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "lembrancinha enfermagem formatura",
+   "kd": 12,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:4"
+   ]
+  },
+  {
+   "kw": "presente formatura ensino medio",
+   "kd": 11,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente de formatura ensino medio",
+   "kd": 11,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes de formatura ensino medio",
+   "kd": 11,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para idosa de 80 anos",
+   "kd": 17,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente homem 60 anos",
+   "kd": 7,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:16"
+   ]
+  },
+  {
+   "kw": "presentes legais para homens",
+   "kd": 7,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:17"
+   ]
+  },
+  {
+   "kw": "mensagem emocionante para filho de 7 anos",
+   "kd": 11,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:1"
+   ]
+  },
+  {
+   "kw": "texto de 3 anos do meu filho",
+   "kd": 16,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "mensagens de aniversário para pastor evangélico",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "mensagem de despedida para pastor",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "presente para crianças",
+   "kd": 10,
+   "vol": 480,
+   "int": "L, C",
+   "cpc": 0.03,
+   "quem": [
+    "sigaja:8"
+   ]
+  },
+  {
+   "kw": "parabéns para o melhor amigo",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "feliz aniversario filho 2 anos",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.25,
+   "quem": [
+    "sigaja:8"
+   ]
+  },
+  {
+   "kw": "texto para amigo aniversário",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:5"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário para filha de 10 anos",
+   "kd": 7,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "parabens para melhor amigo",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:16"
+   ]
+  },
+  {
+   "kw": "dois anos",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:24"
+   ]
+  },
+  {
+   "kw": "mensagem para despedida de pastor",
+   "kd": 8,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para amigo homem",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "versiculo sobre pastor",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:35"
+   ]
+  },
+  {
+   "kw": "parabéns meu filho amado",
+   "kd": 11,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "chocolate para dar de presente",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.09,
+   "quem": [
+    "sigaja:25"
+   ]
+  },
+  {
+   "kw": "homenagem pastor aniversario",
+   "kd": 11,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "presentes diferentes para homens",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "sigaja:17"
+   ]
+  },
+  {
+   "kw": "mensagens de natal para familia e amigos",
+   "kd": 9,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:22"
+   ]
+  },
+  {
+   "kw": "feliz aniversario filho 6 anos",
+   "kd": 6,
+   "vol": 480,
+   "int": "I",
+   "cpc": 0.2,
+   "quem": [
+    "sigaja:10",
+    "sigaja:16"
+   ]
+  },
+  {
+   "kw": "coisas de homens",
+   "kd": 8,
+   "vol": 470,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "presentespara:28"
+   ]
+  },
+  {
+   "kw": "presente de batizado o que dar",
+   "kd": 6,
+   "vol": 440,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:64",
+    "presentespara:14"
+   ]
+  },
+  {
+   "kw": "ideias de presente para homem",
+   "kd": 8,
+   "vol": 410,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:6",
+    "guiadospresentes:21",
+    "guiadospresentes:12",
+    "guiadospresentes:22",
+    "guiadospresentes:18"
+   ]
+  },
+  {
+   "kw": "idéia de presente para homem",
+   "kd": 9,
+   "vol": 410,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:3",
+    "guiadospresentes:3",
+    "guiadospresentes:16",
+    "ideiasdepresente:16"
+   ]
+  },
+  {
+   "kw": "ideias de presentes para homens",
+   "kd": 8,
+   "vol": 410,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário amigo",
+   "kd": 9,
+   "vol": 410,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "cartão para presente para imprimir",
+   "kd": 17,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.08,
+   "quem": [
+    "buscandopresente:4"
+   ]
+  },
+  {
+   "kw": "presentes de 30 reais",
+   "kd": 9,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "lembrancinhas para dar de presente",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente de amigo secreto para homem",
+   "kd": 8,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente para 10 anos",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente amigo secreto sugestões",
+   "kd": 9,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente de amigo secreto para homens",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para um padre",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes de amigo secreto para homem",
+   "kd": 9,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "sugestões de presente para padre",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes para meninos adolescentes",
+   "kd": 21,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes de capivara",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "sugestão presente amigo secreto",
+   "kd": 20,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes esotéricos",
+   "kd": 10,
+   "vol": 390,
+   "int": "L, C",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente 10 anos",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "sugestão de presente para menino de 10 anos",
+   "kd": 12,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "sugestões presente amigo secreto",
+   "kd": 8,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente amigo secreto sugestão",
+   "kd": 9,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "o que pedir de amigo secreto 100 reais",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "o que dar de amigo secreto",
+   "kd": 7,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "ideia de presente unissex",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "o'que dar de amigo secreto",
+   "kd": 8,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes para jovens",
+   "kd": 21,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "taylor swift presentes",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente a sogra",
+   "kd": 9,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.07,
+   "quem": [
+    "guiadospresentes:3"
+   ]
+  },
+  {
+   "kw": "o que dar de presente de crisma",
+   "kd": 9,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:5",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "sugestoes presente homem",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:5",
+    "guiadospresentes:10",
+    "guiadospresentes:2"
+   ]
+  },
+  {
+   "kw": "presente criativo para mulher",
+   "kd": 8,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "guiadospresentes:5"
+   ]
+  },
+  {
+   "kw": "presente para marido de aniversário",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:6",
+    "guiadospresentes:14"
+   ]
+  },
+  {
+   "kw": "presente namorado gamer",
+   "kd": 18,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:7"
+   ]
+  },
+  {
+   "kw": "presente elegante e barato",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:7"
+   ]
+  },
+  {
+   "kw": "presente para namorado gamer",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:10"
+   ]
+  },
+  {
+   "kw": "presente para quem ama cafe",
+   "kd": 7,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "guiadospresentes:11"
+   ]
+  },
+  {
+   "kw": "senhor dos aneis presentes",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "guiadospresentes:4",
+    "ideiasdepresente:4"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para criança de 2 anos",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:6"
+   ]
+  },
+  {
+   "kw": "amigo chocolate criativo",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "guiadospresentes:11"
+   ]
+  },
+  {
+   "kw": "dicas de presente para casamento",
+   "kd": 6,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:9"
+   ]
+  },
+  {
+   "kw": "presente para amigo criativo",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "guiadospresentes:12"
+   ]
+  },
+  {
+   "kw": "o que dar de presente de crisma para afilhado",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:15"
+   ]
+  },
+  {
+   "kw": "o que dar de presente de crisma para afilhada",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:16",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "dicas presente de casamento",
+   "kd": 6,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:15",
+    "guiadospresentes:18"
+   ]
+  },
+  {
+   "kw": "presentes para inimigo oculto",
+   "kd": 12,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presentinho para namorado",
+   "kd": 13,
+   "vol": 390,
+   "int": "C",
+   "cpc": 0.08,
+   "quem": [
+    "ideiasdepresente:16"
+   ]
+  },
+  {
+   "kw": "presente para inimigo oculto",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente 18 anos feminino",
+   "kd": 12,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente inimigo oculto",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente para 18 anos feminino",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente sogro",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:15"
+   ]
+  },
+  {
+   "kw": "ideias de presente para colega de trabalho",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:2"
+   ]
+  },
+  {
+   "kw": "opções de presentes para mãe",
+   "kd": 7,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "menudepresentes:3"
+   ]
+  },
+  {
+   "kw": "ideias de presente de 1 ano de namoro",
+   "kd": 12,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "menudepresentes:13"
+   ]
+  },
+  {
+   "kw": "presentes para namorado gamer",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentepedia:20"
+   ]
+  },
+  {
+   "kw": "presente para quem tem tudo homem",
+   "kd": 15,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:3"
+   ]
+  },
+  {
+   "kw": "presente para engenheiro civil",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes para engenheiro civil",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente engenharia civil",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente engenheiro civil",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente de amigo da onça",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes de despedida",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "sugestões de presentes amigo da onça",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "sugestão de presente amigo da onça",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "como brincar de amigo da onça",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que dar de amigo da onça",
+   "kd": 9,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente de despedida",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "amigo da onça como funciona",
+   "kd": 8,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes para casal usar juntos",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes de despedidas",
+   "kd": 12,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "lembrancinha naruto",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:3"
+   ]
+  },
+  {
+   "kw": "presente aniversario sogra",
+   "kd": 9,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "presentespara:15"
+   ]
+  },
+  {
+   "kw": "mensagens de aniversário para filha de 3 anos",
+   "kd": 8,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:6",
+    "sigaja:20",
+    "sigaja:20",
+    "sigaja:16",
+    "sigaja:7",
+    "sigaja:7"
+   ]
+  },
+  {
+   "kw": "msg de aniversario para filha de 3 anos",
+   "kd": 8,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:6",
+    "sigaja:7",
+    "sigaja:9"
+   ]
+  },
+  {
+   "kw": "mensagem de quinze anos de mãe para filha evangélica",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:1"
+   ]
+  },
+  {
+   "kw": "feliz aniversário 3 anos",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "aniversario de filho adulto",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "mensagens bíblicas de aniversário de mãe para filha",
+   "kd": 9,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "bíblia juvenil",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "sigaja:16"
+   ]
+  },
+  {
+   "kw": "presente dia das crianças menina",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:16"
+   ]
+  },
+  {
+   "kw": "natal em familia frases",
+   "kd": 7,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "mensagem para um marido especial",
+   "kd": 17,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "presente criativo para dia dos pais",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "sigaja:16"
+   ]
+  },
+  {
+   "kw": "mensagens de aniversário para filha de 2 anos",
+   "kd": 9,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "mensagem emocionante para filho de 3 anos",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario de um ano",
+   "kd": 6,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "mensagem para aniversário da esposa",
+   "kd": 8,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.12,
+   "quem": [
+    "sigaja:15"
+   ]
+  },
+  {
+   "kw": "feliz aniversario para esposa",
+   "kd": 7,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.15,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "felicitações de aniversário para filha",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.14,
+   "quem": [
+    "sigaja:21"
+   ]
+  },
+  {
+   "kw": "presentes 2 anos",
+   "kd": 9,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:29",
+    "sigaja:23"
+   ]
+  },
+  {
+   "kw": "1 aninho da minha princesa",
+   "kd": 12,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:24"
+   ]
+  },
+  {
+   "kw": "feliz aniversário bebê",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "frases de feliz aniversário meu filho",
+   "kd": 11,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:5"
+   ]
+  },
+  {
+   "kw": "livro para 4 anos",
+   "kd": 10,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario para filha de 4 anos",
+   "kd": 8,
+   "vol": 390,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:7"
+   ]
+  },
+  {
+   "kw": "presentes para namorado de aniversario",
+   "kd": 13,
+   "vol": 360,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "guiadospresentes:52",
+    "ideiasdepresente:23",
+    "ideiasdepresente:49",
+    "menudepresentes:43",
+    "presentepedia:36"
+   ]
+  },
+  {
+   "kw": "presentes para namorados de aniversario",
+   "kd": 13,
+   "vol": 360,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "menudepresentes:34"
+   ]
+  },
+  {
+   "kw": "presente para namorado de aniversario",
+   "kd": 13,
+   "vol": 360,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "menudepresentes:38"
+   ]
+  },
+  {
+   "kw": "mensagens de aniversario para mãe evangelica",
+   "kd": 16,
+   "vol": 360,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "lembrança para pastor",
+   "kd": 9,
+   "vol": 360,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:10"
+   ]
+  },
+  {
+   "kw": "lembrancinhas para pastores",
+   "kd": 7,
+   "vol": 360,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:10"
+   ]
+  },
+  {
+   "kw": "presentes para maes",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:3"
+   ]
+  },
+  {
+   "kw": "presente medicina",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente de agradecimento para medico",
+   "kd": 17,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para menino de 10 anos",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente engraçado para homem",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes engraçados para homens",
+   "kd": 12,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente para 18 anos masculino",
+   "kd": 19,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente para menino 15 anos",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente amigo secreto 100 reais",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente para escritor",
+   "kd": 12,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente formando medicina",
+   "kd": 9,
+   "vol": 320,
+   "int": "C",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:3",
+    "buscandopresente:1",
+    "ideiasdepresente:18",
+    "presentespara:13"
+   ]
+  },
+  {
+   "kw": "presentes amigo secreto 100 reais",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para criança de 10 anos",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:1",
+    "guiadospresentes:7"
+   ]
+  },
+  {
+   "kw": "presentes até 30 reais feminino",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.07,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "sugestão de presente de amigo secreto",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "capivara presente",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes dia das mães empresa",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:20"
+   ]
+  },
+  {
+   "kw": "presentes 18 anos",
+   "kd": 7,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "guiadospresentes:5",
+    "guiadospresentes:9",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para criança 10 anos",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:6",
+    "guiadospresentes:11"
+   ]
+  },
+  {
+   "kw": "ideias de presente para amigo homem",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:6"
+   ]
+  },
+  {
+   "kw": "presentes até 100 reais masculino",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:7",
+    "guiadospresentes:1"
+   ]
+  },
+  {
+   "kw": "presente feminino criativo",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "guiadospresentes:8"
+   ]
+  },
+  {
+   "kw": "presentes para quem gosta de musica",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:4"
+   ]
+  },
+  {
+   "kw": "presente de natal para criança de 8 anos",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "guiadospresentes:10"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para menino de 12 anos",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "guiadospresentes:3"
+   ]
+  },
+  {
+   "kw": "presentes para cha de lingerie",
+   "kd": 6,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "guiadospresentes:48"
+   ]
+  },
+  {
+   "kw": "presentes para formandos em direito",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente para formandos em direito",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente para pastor evangelico",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente madrinha de casamento",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:6"
+   ]
+  },
+  {
+   "kw": "presente para formanda em direito",
+   "kd": 12,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "o'que dar de presente para a mae",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "ideiasdepresente:7"
+   ]
+  },
+  {
+   "kw": "presente formatura direito",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presentes para dar a namorada",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "ideiasdepresente:12"
+   ]
+  },
+  {
+   "kw": "kit de natal para funcionários",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.42,
+   "quem": [
+    "ideiasdepresente:19"
+   ]
+  },
+  {
+   "kw": "opções de presente de natal",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.09,
+   "quem": [
+    "ideiasdepresente:14"
+   ]
+  },
+  {
+   "kw": "presentes diferentes para amiga",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:7",
+    "ideiasdepresente:12"
+   ]
+  },
+  {
+   "kw": "dicas de presente para aniversario do namorado",
+   "kd": 12,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ideiasdepresente:13"
+   ]
+  },
+  {
+   "kw": "dicas presente de natal",
+   "kd": 6,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ideiasdepresente:10"
+   ]
+  },
+  {
+   "kw": "o que dar de natal para namorado",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:9"
+   ]
+  },
+  {
+   "kw": "dicas para presente de dia dos professores",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:4"
+   ]
+  },
+  {
+   "kw": "opções para presente",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.08,
+   "quem": [
+    "menudepresentes:19",
+    "menudepresentes:61",
+    "presentespara:23"
+   ]
+  },
+  {
+   "kw": "consequencias do consumismo",
+   "kd": 17,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:26"
+   ]
+  },
+  {
+   "kw": "whisky bom para presentear",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "menudepresentes:14",
+    "menudepresentes:6"
+   ]
+  },
+  {
+   "kw": "amigo da onça o que dar",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para um ficante",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "como funciona o amigo da onça",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que dar no amigo da onça",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para irmão mais velho",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para ficante",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para 18 anos",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes para irmão mais velho",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "mensagens de aniversario para filho de 2 anos",
+   "kd": 7,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:4",
+    "sigaja:1",
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "mensagem aniversario filho adulto",
+   "kd": 16,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "parabéns meu amigo whatsapp",
+   "kd": 20,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "cachorrinho fisher-price andador",
+   "kd": 7,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "sigaja:1"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario evangélico",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario para filho de 3 anos",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:24"
+   ]
+  },
+  {
+   "kw": "mensagem de natal a familia",
+   "kd": 12,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario de 6 anos",
+   "kd": 7,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2",
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "telemensagem de aniversário de mãe para filha",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.11,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "brinquedos infantil 7 anos",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:9"
+   ]
+  },
+  {
+   "kw": "frase de aniversário para filha de 2 anos",
+   "kd": 12,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "cadeirinha graco extend2fit",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "sigaja:16"
+   ]
+  },
+  {
+   "kw": "feliz 3 anos filho tumblr",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:6"
+   ]
+  },
+  {
+   "kw": "pokémon brinquedos original",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:9"
+   ]
+  },
+  {
+   "kw": "2 anos da minha princesa filha",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:15"
+   ]
+  },
+  {
+   "kw": "aniversário gospel",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario para filho de 2 anos",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:15",
+    "sigaja:8"
+   ]
+  },
+  {
+   "kw": "ideias de presente do dia dos pais",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "sigaja:44"
+   ]
+  },
+  {
+   "kw": "dica de presente para os pais",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "sigaja:30"
+   ]
+  },
+  {
+   "kw": "textos de natal para familia",
+   "kd": 12,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:20"
+   ]
+  },
+  {
+   "kw": "feliz aniversário pro filho",
+   "kd": 14,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "mensagens de aniversario para filho de 3 anos",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:61",
+    "sigaja:101"
+   ]
+  },
+  {
+   "kw": "mensagem da bíblia para aniversariante",
+   "kd": 10,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "feliz aniversario filho 8 anos",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:8"
+   ]
+  },
+  {
+   "kw": "mensagem de amigo especial",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:21",
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "aniversário da esposa mensagem",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0.15,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "parabens a esposa",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "mensagem para amigo querido",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário para amiga especial evangélica",
+   "kd": 9,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "mensagem de natal com a familia",
+   "kd": 11,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:17"
+   ]
+  },
+  {
+   "kw": "mensagem parabens filho",
+   "kd": 8,
+   "vol": 320,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13",
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "presentes legais",
+   "kd": 11,
+   "vol": 290,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "guiadospresentes:13"
+   ]
+  },
+  {
+   "kw": "presente legais",
+   "kd": 28,
+   "vol": 290,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "guiadospresentes:35",
+    "menudepresentes:37",
+    "presentespara:16"
+   ]
+  },
+  {
+   "kw": "presentes para adolescentes",
+   "kd": 11,
+   "vol": 270,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente de natal para namorado",
+   "kd": 10,
+   "vol": 270,
+   "int": "I",
+   "cpc": 0.07,
+   "quem": [
+    "ideiasdepresente:12"
+   ]
+  },
+  {
+   "kw": "presentes de natal para namorado",
+   "kd": 9,
+   "vol": 270,
+   "int": "I",
+   "cpc": 0.07,
+   "quem": [
+    "ideiasdepresente:7"
+   ]
+  },
+  {
+   "kw": "filha feliz aniversário",
+   "kd": 10,
+   "vol": 270,
+   "int": "I",
+   "cpc": 0.15,
+   "quem": [
+    "sigaja:4"
+   ]
+  },
+  {
+   "kw": "2 aninho",
+   "kd": 12,
+   "vol": 270,
+   "int": "I",
+   "cpc": 0.09,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "cartão para imprimir dia dos pais",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:4"
+   ]
+  },
+  {
+   "kw": "presente criativo para padre",
+   "kd": 12,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente criativo mae",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.07,
+   "quem": [
+    "buscandopresente:5"
+   ]
+  },
+  {
+   "kw": "presentes criativos para padre",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes para senhoras idosas",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes criativos mae",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.07,
+   "quem": [
+    "buscandopresente:5"
+   ]
+  },
+  {
+   "kw": "presente zueira",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente para adolescênte masculino",
+   "kd": 18,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes de até 30 reais",
+   "kd": 17,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente criativo para chá revelação",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes zueiros",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente criança 12 anos",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:3"
+   ]
+  },
+  {
+   "kw": "o que dar de presente na primeira comunhão",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:3"
+   ]
+  },
+  {
+   "kw": "o que dar de presente primeira comunhão",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:4"
+   ]
+  },
+  {
+   "kw": "presente legal para namorada",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "guiadospresentes:3"
+   ]
+  },
+  {
+   "kw": "presentes 6 anos",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "guiadospresentes:4"
+   ]
+  },
+  {
+   "kw": "presentes femininos baratos",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:4"
+   ]
+  },
+  {
+   "kw": "presentes 3 anos",
+   "kd": 14,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:6",
+    "guiadospresentes:3"
+   ]
+  },
+  {
+   "kw": "presente para dar para sogra",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "guiadospresentes:6"
+   ]
+  },
+  {
+   "kw": "o que dar de presente de aniversário para o marido",
+   "kd": 11,
+   "vol": 260,
+   "int": "I, N",
+   "cpc": 0.04,
+   "quem": [
+    "guiadospresentes:6"
+   ]
+  },
+  {
+   "kw": "ideias presente mulher",
+   "kd": 17,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:8",
+    "guiadospresentes:10"
+   ]
+  },
+  {
+   "kw": "presentes para dar para sogra",
+   "kd": 8,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "guiadospresentes:7"
+   ]
+  },
+  {
+   "kw": "presente criativo para marido no aniversario de casamento",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.08,
+   "quem": [
+    "guiadospresentes:12"
+   ]
+  },
+  {
+   "kw": "dica de presente para o marido",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:2"
+   ]
+  },
+  {
+   "kw": "pedindo desculpas para o namorado",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "guiadospresentes:12"
+   ]
+  },
+  {
+   "kw": "o que dar de presente de crisma para homem",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:11"
+   ]
+  },
+  {
+   "kw": "ideias presente mae",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "guiadospresentes:51"
+   ]
+  },
+  {
+   "kw": "dicas de presente para o marido",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:6"
+   ]
+  },
+  {
+   "kw": "coisas do naruto",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ideiasdepresente:4"
+   ]
+  },
+  {
+   "kw": "presentes para homens inteligentes",
+   "kd": 21,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente para paciente",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "dicas presente namorada",
+   "kd": 7,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:13"
+   ]
+  },
+  {
+   "kw": "presente irma",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "ideiasdepresente:12"
+   ]
+  },
+  {
+   "kw": "presente para afilhado no batizado",
+   "kd": 7,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:25"
+   ]
+  },
+  {
+   "kw": "o'que dar de presente de 1 ano de namoro",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "menudepresentes:3"
+   ]
+  },
+  {
+   "kw": "o que é presente de grego",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:8"
+   ]
+  },
+  {
+   "kw": "cultura do consumismo",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:52",
+    "menudepresentes:45",
+    "menudepresentes:38",
+    "menudepresentes:34"
+   ]
+  },
+  {
+   "kw": "presente engenheiro",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1",
+    "presentespara:5"
+   ]
+  },
+  {
+   "kw": "presente engenharia",
+   "kd": 7,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:4",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes para melhor amiga de aniversario",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "presentespara:5"
+   ]
+  },
+  {
+   "kw": "ideias de presentes para funcionarios",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.24,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "ideias de presente para funcionarios",
+   "kd": 17,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.24,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "amigo da onça o que dar de presente",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente no amigo da onça",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para diretora",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "lembrancinha psicologia",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para engenheira",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para engenheiro",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para manicure",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente religioso para homem",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente criativo para psicólogo",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para motoqueira",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "decoração primeira comunhão simples",
+   "kd": 12,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes religiosos para homem",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente do amigo da onça",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para roqueiro",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente amigo da onça",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para afilhada de crisma",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para quem gosta de rock",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente musica",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.19,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para amigo da onça",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "ideias de kit para o dia das mães",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:11"
+   ]
+  },
+  {
+   "kw": "ideias de mimos para funcionários",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.18,
+   "quem": [
+    "presentespara:19"
+   ]
+  },
+  {
+   "kw": "presentes para quem gosta de rock",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes para engenheiro",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "ideias de presentes para meninos de 8 anos",
+   "kd": 19,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:7"
+   ]
+  },
+  {
+   "kw": "mensagem para compadres",
+   "kd": 7,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "jogos para crianças 7 anos",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "parabens filho 7 anos",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:4",
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "jogos educativos para crianças de 7 anos",
+   "kd": 8,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "sigaja:10"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário para filho de 8 anos",
+   "kd": 14,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para criança de 8 anos",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "sigaja:23",
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "presentes para homens 60 anos",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "sigaja:8"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario para filho de 6 anos",
+   "kd": 7,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:4",
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "frases pequenas de aniversário para amiga",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "patinete infantil para 8 anos",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "brinquedos de 7 anos",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "natal cristao mensagem",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "sugestão de presente para criança de 2 anos",
+   "kd": 6,
+   "vol": 260,
+   "int": "C",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:20"
+   ]
+  },
+  {
+   "kw": "o que comprar para criança de 2 anos",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "4 escolas de magia harry potter",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:9"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário para filho 7 anos",
+   "kd": 8,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "texto de aniversário para filho de 2 anos",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:4"
+   ]
+  },
+  {
+   "kw": "perguntas para namorado a distancia",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:27"
+   ]
+  },
+  {
+   "kw": "frases de aniversario para filho de 3 anos",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:6"
+   ]
+  },
+  {
+   "kw": "mensagem para filha de 18 anos",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "feliz aniversário 7 anos",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:5",
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "frases de natal para namorado",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:16"
+   ]
+  },
+  {
+   "kw": "homenagem ao filho",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.13,
+   "quem": [
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "feliz aniversário minha querida amiga",
+   "kd": 13,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:18"
+   ]
+  },
+  {
+   "kw": "mensagem evangelica de aniversario para filha",
+   "kd": 8,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:21"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario filho 7 anos",
+   "kd": 8,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:7"
+   ]
+  },
+  {
+   "kw": "homenagem de aniversário para esposa",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.14,
+   "quem": [
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario para filho de 7 anos",
+   "kd": 8,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:5",
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "mensagem filho aniversario",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "mensagem niver filha",
+   "kd": 9,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:15"
+   ]
+  },
+  {
+   "kw": "frases de natal para o namorado",
+   "kd": 10,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:17"
+   ]
+  },
+  {
+   "kw": "mensagens de natal e ano novo evangelicas",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:22"
+   ]
+  },
+  {
+   "kw": "frases de aniversário para marido e pai",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "presente para criança 8 anos",
+   "kd": 8,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:13",
+    "sigaja:21"
+   ]
+  },
+  {
+   "kw": "frases de aniversário para o meu filho",
+   "kd": 11,
+   "vol": 260,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:15"
+   ]
+  },
+  {
+   "kw": "parabens para o filho",
+   "kd": 9,
+   "vol": 250,
+   "int": "I",
+   "cpc": 0.15,
+   "quem": [
+    "sigaja:15",
+    "sigaja:15"
+   ]
+  },
+  {
+   "kw": "presente para menino de 10 anos",
+   "kd": 7,
+   "vol": 220,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1",
+    "buscandopresente:9",
+    "presentepedia:24",
+    "presentepedia:49",
+    "presentespara:12"
+   ]
+  },
+  {
+   "kw": "presentes criativos para bodas de ouro",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:4"
+   ]
+  },
+  {
+   "kw": "presentes amigo secreto até 100 reais",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes experiencias",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.21,
+   "quem": [
+    "buscandopresente:6"
+   ]
+  },
+  {
+   "kw": "presente para padres católicos",
+   "kd": 19,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "caneca para dar de presente",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:8"
+   ]
+  },
+  {
+   "kw": "dicas de presente para amiga da onça",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente amigo secreto até 100 reais",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "dicas de presente para amigo da onça",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "amigo ladrão presentes unissex",
+   "kd": 7,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1",
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente para adolescênte feminino",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente para amigo secreto ate 100 reais",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente para melhor amigo pinterest",
+   "kd": 20,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes para mãe criativos",
+   "kd": 8,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:9"
+   ]
+  },
+  {
+   "kw": "o que dar de presente de primeira comunhão",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "guiadospresentes:3"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para quem faz primeira comunhão",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "guiadospresentes:4"
+   ]
+  },
+  {
+   "kw": "dica presente homem",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:5"
+   ]
+  },
+  {
+   "kw": "presente de primeira comunhão diferentes",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:4",
+    "guiadospresentes:2"
+   ]
+  },
+  {
+   "kw": "ideias de presente para cha de bebe",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:8"
+   ]
+  },
+  {
+   "kw": "dicas presentes homem",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:7"
+   ]
+  },
+  {
+   "kw": "presente para fotografo",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:2"
+   ]
+  },
+  {
+   "kw": "presente para homem de aniversario",
+   "kd": 8,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:2",
+    "guiadospresentes:9"
+   ]
+  },
+  {
+   "kw": "presente para homens ricos",
+   "kd": 19,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:3"
+   ]
+  },
+  {
+   "kw": "dicas presentes para homem",
+   "kd": 8,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:10"
+   ]
+  },
+  {
+   "kw": "presente aniversario marido",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:7"
+   ]
+  },
+  {
+   "kw": "presentes 4 anos",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:4"
+   ]
+  },
+  {
+   "kw": "presentes inesqueciveis para homens",
+   "kd": 8,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:3",
+    "presentespara:6"
+   ]
+  },
+  {
+   "kw": "qual o melhor vinho para presentear um homem",
+   "kd": 7,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "ideiasdepresente:3"
+   ]
+  },
+  {
+   "kw": "qual presente dar para namorada",
+   "kd": 17,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "ideiasdepresente:5"
+   ]
+  },
+  {
+   "kw": "presente para homem rico",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "coisas de naruto",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:4"
+   ]
+  },
+  {
+   "kw": "ideias de presentes para casal de amigos",
+   "kd": 8,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ideiasdepresente:1",
+    "ideiasdepresente:8"
+   ]
+  },
+  {
+   "kw": "inimigo secreto ideias",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente para quem gosta de cavalo",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para namorado no natal",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:7"
+   ]
+  },
+  {
+   "kw": "sugestão de presente para pastor",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "cha de lingerie presente",
+   "kd": 6,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "ideiasdepresente:22",
+    "presentespara:5"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para o namorado no natal",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:7"
+   ]
+  },
+  {
+   "kw": "presente unissex até 30 reais",
+   "kd": 6,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente para artista",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "ideias de presentes personalizados para amiga",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "ideiasdepresente:6"
+   ]
+  },
+  {
+   "kw": "presente diferente para o dia dos pais",
+   "kd": 8,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "ideiasdepresente:35",
+    "sigaja:44"
+   ]
+  },
+  {
+   "kw": "presente de 1 ano de namoro para homem",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "menudepresentes:6"
+   ]
+  },
+  {
+   "kw": "melhores presentes",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "menudepresentes:30"
+   ]
+  },
+  {
+   "kw": "consumismo exemplos",
+   "kd": 16,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:32"
+   ]
+  },
+  {
+   "kw": "ideia de presente simples para namorado",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "menudepresentes:52"
+   ]
+  },
+  {
+   "kw": "presentes para adultos",
+   "kd": 11,
+   "vol": 210,
+   "int": "L, C",
+   "cpc": 0.06,
+   "quem": [
+    "menudepresentes:6"
+   ]
+  },
+  {
+   "kw": "o que é um presente",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:24",
+    "menudepresentes:3"
+   ]
+  },
+  {
+   "kw": "ideias de presentes 1 ano de namoro",
+   "kd": 12,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "menudepresentes:12"
+   ]
+  },
+  {
+   "kw": "whisky para dar de presente",
+   "kd": 8,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "menudepresentes:21",
+    "menudepresentes:4"
+   ]
+  },
+  {
+   "kw": "o que dar de presente de casamento barato",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para quem gosta de basquete",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente de 18 anos",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes para homens de aniversario",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:6"
+   ]
+  },
+  {
+   "kw": "sugestão de presente para idosa",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "como é a brincadeira amigo da onça",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para mãe idosa",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "dicas de presentes amigo da onça",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "dicas de presente amigo da onça",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "tudo para vinho",
+   "kd": 14,
+   "vol": 210,
+   "int": "L, C",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para 80 anos feminino",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente de natal para casal de amigos",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para jovem de 18 anos",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "ideias de presentes feitos a mão para amiga",
+   "kd": 12,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes para quem gosta de basquete",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presentes para católicos",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "parabéns filho 8 anos",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário para amigo especial de deus",
+   "kd": 13,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "mensagem para irmãs em cristo",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:8"
+   ]
+  },
+  {
+   "kw": "mensagem de feliz aniversário religioso",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário de mãe para filho de 6 anos",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "frases de feliz aniversario para meu marido",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:19"
+   ]
+  },
+  {
+   "kw": "mensagem bíblica para aniversário de pastor",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "frases de aniversário evangélica para amiga",
+   "kd": 8,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:16"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para menina de 7 anos",
+   "kd": 18,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "sigaja:22",
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "1 aninho da princesa",
+   "kd": 12,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "frases de amor para o pai",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "homenagem de aniversário para pastor",
+   "kd": 16,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:21"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario irmã da igreja",
+   "kd": 6,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "presente criança de 8 anos",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "homenagem para o marido",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "presente diferente dia dos pais",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "sigaja:28"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário para filha pequena",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13",
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário para o meu pastor",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "parabéns amiga cristã",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "parabéns amigo evangelico",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14",
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "presentes criativos 50 anos",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "frases de amor para pai",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "frases de parabens meu filho",
+   "kd": 9,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:15"
+   ]
+  },
+  {
+   "kw": "parabéns meu primogenito",
+   "kd": 11,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:24"
+   ]
+  },
+  {
+   "kw": "frases biblicas de natal",
+   "kd": 10,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "parabéns pro meu marido",
+   "kd": 12,
+   "vol": 210,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "presente para casa nova",
+   "kd": 8,
+   "vol": 180,
+   "int": "C",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:1",
+    "buscandopresente:20",
+    "guiadospresentes:47",
+    "ilovepresente:36",
+    "presentepedia:58"
+   ]
+  },
+  {
+   "kw": "presentes unissex",
+   "kd": 9,
+   "vol": 180,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "ideias de presente para amiga",
+   "kd": 9,
+   "vol": 180,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:8"
+   ]
+  },
+  {
+   "kw": "presente amigo da onça",
+   "kd": 11,
+   "vol": 180,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "ideias de presentes para amiga",
+   "kd": 9,
+   "vol": 180,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "presentespara:6"
+   ]
+  },
+  {
+   "kw": "presente de crisma",
+   "kd": 7,
+   "vol": 180,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "brinquedo para o dia das crianças",
+   "kd": 9,
+   "vol": 180,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "sigaja:27"
+   ]
+  },
+  {
+   "kw": "presente do dia da mulher",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:5"
+   ]
+  },
+  {
+   "kw": "modelo de cartão para o dia das mães para imprimir",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:6"
+   ]
+  },
+  {
+   "kw": "presente de amigo secreto engraçado",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1",
+    "guiadospresentes:17",
+    "guiadospresentes:16"
+   ]
+  },
+  {
+   "kw": "sugestão de presente para médico",
+   "kd": 7,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:6"
+   ]
+  },
+  {
+   "kw": "inimigo secreto presentes engraçados",
+   "kd": 19,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "bonequinhos engraçados",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:6"
+   ]
+  },
+  {
+   "kw": "presentes criativos para os pais",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "buscandopresente:2"
+   ]
+  },
+  {
+   "kw": "presente amigo secreto masculino",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente para aquariana",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "ideias de presente para amigo oculto",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "dica presente amigo secreto",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "dicas para presente amigo secreto",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "o que dar no amigo secreto",
+   "kd": 7,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente no amigo secreto",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes de amigo secreto engraçados",
+   "kd": 12,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "o que pedir de amigo secreto ate 100 reais",
+   "kd": 7,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes para amigo secreto masculino",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente para amigo secreto masculino",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente para amigo secreto engraçado",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente para virginiano",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "buscandopresente:1",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que crianças de 10 anos gostam",
+   "kd": 19,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presentes até 30 reais masculino",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:1"
+   ]
+  },
+  {
+   "kw": "presente criativo para mães",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "buscandopresente:13"
+   ]
+  },
+  {
+   "kw": "melhores presentes dia das maes",
+   "kd": 7,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.09,
+   "quem": [
+    "buscandopresente:16"
+   ]
+  },
+  {
+   "kw": "o que pedir de amigo oculto",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:16"
+   ]
+  },
+  {
+   "kw": "presentes de natal ate 50 reais",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "buscandopresente:32"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para um pastor",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "guiadospresentes:2",
+    "guiadospresentes:14",
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presentes de aniversario de casamento para homens",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "guiadospresentes:5",
+    "guiadospresentes:1"
+   ]
+  },
+  {
+   "kw": "presente para cozinheira",
+   "kd": 17,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "guiadospresentes:6"
+   ]
+  },
+  {
+   "kw": "sugestão presente feminino",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:6"
+   ]
+  },
+  {
+   "kw": "presentes para colegas de trabalho homem",
+   "kd": 7,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:1",
+    "guiadospresentes:7",
+    "ideiasdepresente:1",
+    "presentespara:3"
+   ]
+  },
+  {
+   "kw": "dicas de presente dia dos namorados para homem",
+   "kd": 16,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:7"
+   ]
+  },
+  {
+   "kw": "presentes para jovens de 18 anos",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "guiadospresentes:7",
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente dia das crianças 3 anos",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:7",
+    "guiadospresentes:1"
+   ]
+  },
+  {
+   "kw": "presente para crismando feminino",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:8"
+   ]
+  },
+  {
+   "kw": "o'que dar de presente para criança",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "guiadospresentes:8"
+   ]
+  },
+  {
+   "kw": "sugestão de presente para batizado",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:16"
+   ]
+  },
+  {
+   "kw": "presentes de natal unissex",
+   "kd": 6,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "guiadospresentes:5"
+   ]
+  },
+  {
+   "kw": "presente madrinha casamento",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:4"
+   ]
+  },
+  {
+   "kw": "presentes de formatura direito",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "modelo de lembrancinha para o dia dos professores",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:15"
+   ]
+  },
+  {
+   "kw": "ideias de inimigo oculto",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente para formando em direito",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente para estudante de direito",
+   "kd": 16,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "inimigo oculto presentes",
+   "kd": 13,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presentes unissex para amigo secreto até 20 reais",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente criativo para mamãe de primeira viagem",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ideiasdepresente:4"
+   ]
+  },
+  {
+   "kw": "livros para presentear pessoas inteligentes",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "ideiasdepresente:1"
+   ]
+  },
+  {
+   "kw": "presente para madrinha casamento",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.03,
+   "quem": [
+    "ideiasdepresente:8"
+   ]
+  },
+  {
+   "kw": "presentes para quem gosta de cachorro",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.06,
+   "quem": [
+    "ideiasdepresente:31",
+    "ideiasdepresente:21",
+    "ideiasdepresente:11"
+   ]
+  },
+  {
+   "kw": "uísque bom",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "menudepresentes:28",
+    "menudepresentes:22",
+    "menudepresentes:15"
+   ]
+  },
+  {
+   "kw": "consumo compulsivo",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "menudepresentes:59",
+    "menudepresentes:42"
+   ]
+  },
+  {
+   "kw": "coisas para dar de presente para namorado",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.04,
+   "quem": [
+    "menudepresentes:53"
+   ]
+  },
+  {
+   "kw": "presente para jovem de 18 anos",
+   "kd": 18,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "o que dar de presente para crismando",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente de 80 anos feminino",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente formatura psicologia",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "lembrancinha de despedida de amigos",
+   "kd": 12,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:2"
+   ]
+  },
+  {
+   "kw": "lembrancinhas de despedida de amigos",
+   "kd": 21,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente de despedida para amiga",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.05,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "como funciona amigo da onça",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "presente para paraninfo",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "presentespara:1"
+   ]
+  },
+  {
+   "kw": "feliz aniversario para irmã evangelica",
+   "kd": 17,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "feliz aniversario filho frases",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:7",
+    "sigaja:25"
+   ]
+  },
+  {
+   "kw": "harry potter escolas de magia",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:9"
+   ]
+  },
+  {
+   "kw": "frase feliz aniversario filho",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:7",
+    "sigaja:25"
+   ]
+  },
+  {
+   "kw": "mensagem para um filho querido",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:6"
+   ]
+  },
+  {
+   "kw": "frases de feliz aniversário para um amigo especial",
+   "kd": 7,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:2"
+   ]
+  },
+  {
+   "kw": "feliz natal mensagem cristã",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:10"
+   ]
+  },
+  {
+   "kw": "primeiro aninho da minha filha",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:16"
+   ]
+  },
+  {
+   "kw": "parabens para evangelico",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:21"
+   ]
+  },
+  {
+   "kw": "frases de pais",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario para filho 3 anos",
+   "kd": 7,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:17",
+    "sigaja:10"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversário para filho de 9 anos",
+   "kd": 7,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "ideias para presente masculino",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "versiculos sobre pastor",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:79",
+    "sigaja:69"
+   ]
+  },
+  {
+   "kw": "frases aniversario marido",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario para seu filho",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "tipos de presentes para homens",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "felicitações de aniversário para esposa",
+   "kd": 12,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.13,
+   "quem": [
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "msg de feliz aniversario para amigo",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:3"
+   ]
+  },
+  {
+   "kw": "frases de aniversário para filho de 8 anos",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:15",
+    "sigaja:5"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario para filho 12 anos",
+   "kd": 13,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:19"
+   ]
+  },
+  {
+   "kw": "frases familia natal",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:18"
+   ]
+  },
+  {
+   "kw": "ideias para presentes masculinos",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "sigaja:12"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario para meu sogro",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:4"
+   ]
+  },
+  {
+   "kw": "frases curtas de aniversario para filho",
+   "kd": 10,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:14"
+   ]
+  },
+  {
+   "kw": "como surpreender um namorado",
+   "kd": 8,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.09,
+   "quem": [
+    "sigaja:21"
+   ]
+  },
+  {
+   "kw": "parabens 4 anos",
+   "kd": 11,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:11"
+   ]
+  },
+  {
+   "kw": "como fazer um presente para o dia dos pais",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0.11,
+   "quem": [
+    "sigaja:28"
+   ]
+  },
+  {
+   "kw": "mensagem de aniversario para crente",
+   "kd": 9,
+   "vol": 170,
+   "int": "I",
+   "cpc": 0,
+   "quem": [
+    "sigaja:13"
+   ]
+  },
+  {
+   "kw": "presentes bebe 1 ano",
+   "kd": 7,
+   "vol": 150,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:13",
+    "ideiasdepresente:33",
+    "ilovepresente:81",
+    "sigaja:57"
+   ]
+  },
+  {
+   "kw": "presente bebe 1 ano",
+   "kd": 7,
+   "vol": 150,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "buscandopresente:12",
+    "ilovepresente:46",
+    "sigaja:57"
+   ]
+  },
+  {
+   "kw": "presentes para batizado",
+   "kd": 6,
+   "vol": 150,
+   "int": "I",
+   "cpc": 0.01,
+   "quem": [
+    "buscandopresente:53",
+    "guiadospresentes:44"
+   ]
+  },
+  {
+   "kw": "presente menina 6 anos",
+   "kd": 9,
+   "vol": 150,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "ilovepresente:43",
+    "presentepedia:55",
+    "presentepedia:28",
+    "sigaja:54",
+    "sigaja:21",
+    "sigaja:64"
+   ]
+  },
+  {
+   "kw": "presente menina 5 anos",
+   "kd": 9,
+   "vol": 150,
+   "int": "I, N",
+   "cpc": 0.03,
+   "quem": [
+    "presentepedia:47",
+    "presentepedia:35",
+    "presentespara:17"
+   ]
+  },
+  {
+   "kw": "filho feliz aniversário",
+   "kd": 9,
+   "vol": 150,
+   "int": "I",
+   "cpc": 0.16,
+   "quem": [
+    "sigaja:6"
+   ]
+  },
+  {
+   "kw": "frase de parabéns para amiga",
+   "kd": 13,
+   "vol": 150,
+   "int": "I",
+   "cpc": 0.31,
+   "quem": [
+    "sigaja:17"
+   ]
+  },
+  {
+   "kw": "frases de parabéns para amiga",
+   "kd": 12,
+   "vol": 150,
+   "int": "I",
+   "cpc": 0.31,
+   "quem": [
+    "sigaja:17"
+   ]
+  },
+  {
+   "kw": "brinquedo menina 6 anos",
+   "kd": 8,
+   "vol": 150,
+   "int": "I",
+   "cpc": 0.02,
+   "quem": [
+    "sigaja:8",
+    "sigaja:21"
+   ]
+  }
+ ]
+}
