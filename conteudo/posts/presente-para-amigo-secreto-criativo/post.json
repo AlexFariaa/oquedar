@@ -1,0 +1,811 @@
+{
+  "slug": "presente-para-amigo-secreto-criativo",
+  "status": "agendado",
+  "data": "2026-11-24",
+  "publicar": "2026-11-24T09:00:00-03:00",
+  "titulo": "Presente para amigo secreto criativo: 21 sugestões para acertar na escolha",
+  "titleTagCompleto": "Presente para amigo secreto criativo: o que dar?",
+  "desc": "De itens para café a jogos e acessórios, encontre um presente para amigo secreto criativo entre 21 opções para vários estilos e bolsos.",
+  "palavraChave": "presente para amigo secreto criativo",
+  "categorias": [
+    "ocasiao",
+    "preco"
+  ],
+  "cat": "Ocasião",
+  "trilha": "ocasiao",
+  "trilhaAtual": "Amigo secreto",
+  "cor": "rosa",
+  "pre": "as-",
+  "capa": {
+    "src": "imagens/capa-presente-para-amigo-secreto-criativo.webp",
+    "alt": "Homem cobre os olhos de uma mulher sorridente enquanto segura uma caixa de presente para surpreendê-la",
+    "largura": 1400,
+    "altura": 931
+  },
+  "cartao": {
+    "src": "imagens/capa-presente-para-amigo-secreto-criativo.webp",
+    "alt": "Homem cobre os olhos de uma mulher sorridente enquanto segura uma caixa de presente para surpreendê-la",
+    "largura": 1400,
+    "altura": 931
+  },
+  "fatos": [
+    [
+      "21 ideias",
+      "todas servem para homem ou mulher"
+    ],
+    [
+      "4 faixas de preço",
+      "até R$ 30, 50, 100 e acima"
+    ],
+    [
+      "3 lojas comparadas",
+      "Amazon, Mercado Livre e Shopee"
+    ]
+  ],
+  "pouco": [
+    [
+      5,
+      "Melhor no geral",
+      "Uma opção versátil para acompanhar bebidas ao longo do dia."
+    ],
+    [
+      0,
+      "Melhor custo",
+      "Uma lembrancinha divertida que também ajuda a proteger a mesa."
+    ],
+    [
+      16,
+      "Mais criativo",
+      "Imprime etiquetas, listas, fotos e lembretes pelo celular."
+    ]
+  ],
+  "posNemTodo": null,
+  "marcas": [
+    "As ideias estão organizadas por faixa de preço, já que a maioria dos sorteios de amigo secreto combina um valor antes da troca.",
+    "Um presente para amigo secreto criativo não precisa ser caro nem muito elaborado."
+  ],
+  "links": [
+    [
+      "presentes para quem gosta de cerveja",
+      "presentes-para-quem-gosta-de-cerveja.html"
+    ],
+    [
+      "ideias de presente por ocasião",
+      "categoria-ocasiao.html"
+    ]
+  ],
+  "produtos": [
+    {
+      "nome": "Kit 6 porta-copos Flork de MDF",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/porta-copos-flork-mdf-kit-6.webp",
+      "alt": "Seis porta-copos com desenhos e frases do meme Flork e suporte para guardar.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Divertido",
+        "Casa"
+      ],
+      "pros": [
+        "Seis peças",
+        "Acompanha suporte"
+      ],
+      "contras": [
+        "Tema de humor específico"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0BCBQQ5L4?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 280,
+          "preco": 18.9,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2KyCoD6",
+          "preco": 17.29,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/40iIlKH28W",
+          "preco": 16.77,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Luminária de mesa LED recarregável touch",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/luminaria-mesa-led-recarregavel-touch.webp",
+      "alt": "Luminária de mesa cilíndrica com iluminação LED.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Iluminação",
+        "Tecnologia"
+      ],
+      "pros": [
+        "Recarregável por USB",
+        "Três temperaturas de luz"
+      ],
+      "contras": [
+        "Depende de recarga"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0H7SY9BT4?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 174,
+          "preco": 21.89,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4B1ixdGOnZ",
+          "preco": 37.93,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Cafeteira prensa francesa Mimo Style 350 ml",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/prensa-francesa-mimo-style-350ml.webp",
+      "alt": "Prensa francesa de vidro com tampa, haste e alça.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Café",
+        "Cozinha"
+      ],
+      "pros": [
+        "Vidro borossilicato",
+        "Dispensa filtro de papel"
+      ],
+      "contras": [
+        "Preparo manual"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07WXJ8GQP?tag=oquedar-20",
+          "nota": 4.4,
+          "avaliacoes": 10346,
+          "preco": 24.99,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2m7GE6g",
+          "preco": 40.75,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4LL99wFlSc",
+          "preco": 39.79,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Aromatizador elétrico Via Aroma",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/aromatizador-eletrico-via-aroma.webp",
+      "alt": "Aromatizador elétrico de tomada ao lado da embalagem.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Casa",
+        "Aromas"
+      ],
+      "pros": [
+        "Modelo bivolt",
+        "Aceita óleos e essências"
+      ],
+      "contras": [
+        "Essência vendida à parte"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B079YWB72K?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 5534,
+          "preco": 25.93,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2DUoGFy",
+          "preco": 24.43,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4VeZMFF87f",
+          "preco": 37.76,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Caneca Biblioteca \"A leitura engrandece a alma\"",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/caneca-biblioteca-estante-de-livros.webp",
+      "alt": "Caneca com estampa de estante cheia de livros, presente para amigo secreto que gosta de ler.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Leitura",
+        "Café"
+      ],
+      "pros": [
+        "Porcelana de 325 ml",
+        "Acompanha saquinho"
+      ],
+      "contras": [
+        "Tema voltado a leitores"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0C2XMQ426?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 139,
+          "preco": 38.24,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1eCvkKm",
+          "preco": 41.22,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Caneca térmica Contigo Street 414 ml",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/caneca-termica-contigo-street-414ml.webp",
+      "alt": "Caneca térmica com alça e a marca Contigo.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Térmico",
+        "Bebidas"
+      ],
+      "pros": [
+        "Aço inox",
+        "Isolamento a vácuo"
+      ],
+      "contras": [
+        "Mais cara que caneca comum"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B098ZK78ZX?tag=oquedar-20",
+          "nota": 4.5,
+          "avaliacoes": 693,
+          "preco": 39.9,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2ATB6TE",
+          "preco": 63.12,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4fxzYYEUmi",
+          "preco": 69.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Caixa de som Bluetooth GO 5W",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/caixa-de-som-bluetooth-go-5w.webp",
+      "alt": "Caixa de som portátil quadrada com alça de tecido.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Música",
+        "Tecnologia"
+      ],
+      "pros": [
+        "Proteção IP67",
+        "Até sete horas de bateria"
+      ],
+      "contras": [
+        "Som para ambientes pequenos"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0FQ7RQZJ4?tag=oquedar-20",
+          "nota": 4.5,
+          "avaliacoes": 777,
+          "preco": 40.36,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Garrafa térmica Contigo Matterhorn 591 ml",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/garrafa-termica-contigo-matterhorn-591ml.webp",
+      "alt": "Garrafa térmica alta com tampa de bico.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Térmico",
+        "Rotina"
+      ],
+      "pros": [
+        "Gelada por até 24 horas",
+        "Livre de BPA"
+      ],
+      "contras": [
+        "Lavagem só à mão"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07K8XJF9D?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 15094,
+          "preco": 44.63,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2GDzNfV",
+          "preco": 64.06,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/W8QavGDHa",
+          "preco": 79.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Quebra-cabeça A Noite Estrelada, 1000 peças",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/quebra-cabeca-noite-estrelada-1000-pecas.webp",
+      "alt": "Caixa de quebra-cabeça com a pintura A Noite Estrelada, de Van Gogh.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Jogos",
+        "Arte"
+      ],
+      "pros": [
+        "Mil peças",
+        "Arte de Van Gogh"
+      ],
+      "contras": [
+        "Exige tempo para montar"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B09BBB4L2B?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 5424,
+          "preco": 45.59,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2JiyH82",
+          "preco": 72.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/Lp0OcGqcZ",
+          "preco": 67.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit abridor de vinho elétrico",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/kit-abridor-de-vinho-eletrico.webp",
+      "alt": "Abridor elétrico de vinho acompanhado de taça, bico dosador e rolha.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Bebidas",
+        "Acessórios"
+      ],
+      "pros": [
+        "Quatro peças",
+        "Abre com um botão"
+      ],
+      "contras": [
+        "Só para maiores de 18"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0DMD75Y5Z?tag=oquedar-20",
+          "nota": 4.4,
+          "avaliacoes": 175,
+          "preco": 46.45,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2ZqPGqB",
+          "preco": 78.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit caipirinha com coqueteleira, 5 peças inox",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/kit-caipirinha-coqueteleira-inox.webp",
+      "alt": "Cinco utensílios de aço inox para preparar caipirinhas e outros drinques.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Bebidas",
+        "Drinques"
+      ],
+      "pros": [
+        "Cinco peças de inox",
+        "Coqueteleira de 500 ml"
+      ],
+      "contras": [
+        "Só para maiores de 18"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0BSHCYV49?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 904,
+          "preco": 49.87,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/255rcaf",
+          "preco": 57.21,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/2BGeZz9rtw",
+          "preco": 49.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Moedor de café manual com regulagem",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/moedor-de-cafe-manual-regulagem.webp",
+      "alt": "Moedor manual com manivela e dois recipientes de vidro para café.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Café",
+        "Cozinha"
+      ],
+      "pros": [
+        "Moagem regulável",
+        "Pote extra de vidro"
+      ],
+      "contras": [
+        "Exige esforço manual"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0DJ1KGPMM?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 569,
+          "preco": 55.51,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1Rn9fMF",
+          "preco": 50.66,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/20xENgAVEv",
+          "preco": 45.77,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Travesseiro de viagem NAP Nasa",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/travesseiro-de-viagem-nap-nasa.webp",
+      "alt": "Travesseiro de viagem em formato de U para apoiar o pescoço.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Viagem",
+        "Conforto"
+      ],
+      "pros": [
+        "Espuma viscoelástica",
+        "Capa removível"
+      ],
+      "contras": [
+        "Útil só em deslocamentos"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B09J1H4KYG?tag=oquedar-20",
+          "nota": 4.5,
+          "avaliacoes": 1014,
+          "preco": 56.81,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1WxWZb8",
+          "preco": 63.9,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/2VtUyb8bE2",
+          "preco": 59.8,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit 4 cafés especiais em grãos Coffee Mais",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/kit-4-cafes-especiais-coffee-mais.webp",
+      "alt": "Quatro pacotes de cafés especiais em grãos.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Café",
+        "Degustação"
+      ],
+      "pros": [
+        "Quatro variedades",
+        "Cafés especiais"
+      ],
+      "contras": [
+        "Precisa de moedor"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0CQKM2VVC?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 324,
+          "preco": 78.5,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2xoysin",
+          "preco": 90,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4qHPku8FWO",
+          "preco": 98.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Kit Banho Diário Chá Branco e Gengibre",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/kit-banho-diario-cha-branco-gengibre.webp",
+      "alt": "Caixa de madeira com sabonetes, loção hidratante, esponja e pente.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Autocuidado",
+        "Banho"
+      ],
+      "pros": [
+        "Seis itens",
+        "Caixa de madeira"
+      ],
+      "contras": [
+        "Fragrância única"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B07FFKS5KH?tag=oquedar-20",
+          "nota": 4.9,
+          "avaliacoes": 619,
+          "preco": 79.99,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Copo térmico Stanley Stacking 473 ml",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/copo-termico-stanley-stacking-473ml.webp",
+      "alt": "Copo térmico Stanley de 473 ml com design empilhável.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Térmico",
+        "Bebidas"
+      ],
+      "pros": [
+        "Isolamento a vácuo",
+        "Design empilhável"
+      ],
+      "contras": [
+        "Não vem com tampa"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0GCC4LDMR?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 220,
+          "preco": 84.5,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/21XjKQw",
+          "preco": 129,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/4fxzYb8srN",
+          "preco": 159,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Mini impressora térmica Bluetooth com 10 rolos",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/mini-impressora-termica-bluetooth.webp",
+      "alt": "Mini impressora térmica com rolos de papel e etiquetas impressas, presente criativo para amigo secreto.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Tecnologia",
+        "Organização"
+      ],
+      "pros": [
+        "Não usa tinta",
+        "Acompanha onze rolos"
+      ],
+      "contras": [
+        "Imprime só em preto e branco"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0DLHHRTFC?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 331,
+          "preco": 94.05,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2wy882E",
+          "preco": 138,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Pipoqueira Britânia Pop Time",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/pipoqueira-britania-pop-time.webp",
+      "alt": "Pipoqueira elétrica com bocal de saída e pipocas ao redor.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Cozinha",
+        "Lazer"
+      ],
+      "pros": [
+        "Pipoca sem óleo",
+        "Pronta em 3,5 minutos"
+      ],
+      "contras": [
+        "Confira a voltagem"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B076BB2NCN?tag=oquedar-20",
+          "nota": 4.7,
+          "avaliacoes": 8899,
+          "preco": 103.11,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/1VUqWAX",
+          "preco": 154.12,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/5AuG9W6yqU",
+          "preco": 159.9,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Máquina de waffle Mondial Pratic",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/maquina-de-waffle-mondial-pratic.webp",
+      "alt": "Máquina de waffle aberta com um waffle pronto nas chapas.",
+      "cheia": false,
+      "cor": "rosa",
+      "perfil": [
+        "Cozinha",
+        "Receitas"
+      ],
+      "pros": [
+        "Até quatro waffles",
+        "Chapas antiaderentes"
+      ],
+      "contras": [
+        "Confira a voltagem"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B076CJ35BJ?tag=oquedar-20",
+          "nota": 4.6,
+          "avaliacoes": 2390,
+          "preco": 115,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2hW2C8z",
+          "preco": 165,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/50apxD7cBT",
+          "preco": 179.99,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "LEGO Botanicals Mini Orquídea",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/lego-botanicals-mini-orquidea.webp",
+      "alt": "Orquídea montada com peças LEGO em um vaso.",
+      "cheia": false,
+      "cor": "pessego",
+      "perfil": [
+        "Decoração",
+        "Montagem"
+      ],
+      "pros": [
+        "274 peças",
+        "Resultado decorativo"
+      ],
+      "contras": [
+        "Acima da faixa de R$ 100"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B0DJ19VGDD?tag=oquedar-20",
+          "nota": 4.8,
+          "avaliacoes": 5768,
+          "preco": 137.12,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2i19chg",
+          "preco": 156.51,
+          "verificado": "2026-11-22"
+        }
+      }
+    },
+    {
+      "nome": "Biscoiteira Marcato Elegance",
+      "img": "imagens/posts/presente-para-amigo-secreto-criativo/biscoiteira-marcato-elegance.webp",
+      "alt": "Biscoiteira manual com alavanca e discos de formatos variados.",
+      "cheia": false,
+      "cor": "lavanda",
+      "perfil": [
+        "Cozinha",
+        "Confeitaria"
+      ],
+      "pros": [
+        "20 discos",
+        "Desmonta para lavar"
+      ],
+      "contras": [
+        "Bem mais cara que as outras"
+      ],
+      "lojas": {
+        "amazon": {
+          "url": "https://www.amazon.com.br/dp/B008UUFZSO?tag=oquedar-20",
+          "nota": 4.4,
+          "avaliacoes": 818,
+          "preco": 494.99,
+          "verificado": "2026-11-22"
+        },
+        "ml": {
+          "url": "https://meli.la/2xFko53",
+          "preco": 584.99,
+          "verificado": "2026-11-22"
+        },
+        "shopee": {
+          "url": "https://s.shopee.com.br/2qWLNEFra4",
+          "preco": 598,
+          "verificado": "2026-11-22"
+        }
+      }
+    }
+  ]
+}
