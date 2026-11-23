@@ -405,3 +405,7 @@ Decisões da A.G.: fotos da Amazon podem ter o fundo retirado; preços atualizad
 
 ## Horário de publicação (22/11/2026)
 - A pedido da A.G., todos os posts passam a ser agendados para 7h (antes, 9h). Mudados os que ainda não saíram: amigo secreto criativo (24/11) e chocolate para presentear (25/11). O de cerveja (23/11) já estava às 7h. Os já publicados ficam como estão.
+
+## Post de cerveja atrasado e disparo externo (23/11/2026)
+- O robô agendado do GitHub rodou às 5h19 e depois pulou as execuções até a tarde; o post de cerveja (7h) não saiu. Publicado às 15h50 com o envio dos commits pendentes (todo envio dispara o robô).
+- Para não depender do agendamento do GitHub: disparo externo pelo cron-job.org a cada 15 minutos, chamando o robô pela API do GitHub (workflow_dispatch) com uma chave que só pode acionar o robô. Passo a passo em `conteudo/DISPARO-EXTERNO.md`; a A.G. cria a conta e a chave.
