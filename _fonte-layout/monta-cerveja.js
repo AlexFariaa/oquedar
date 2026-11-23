@@ -29,7 +29,7 @@ const L = [
 const CORES = ['pessego', 'lavanda', 'rosa'];
 const produtos = L.map(([nome, arq, perfil, pros, contras, alt], i) => {
   const n = String(i + 1), [asin, preco, nota, av] = R.amazon[n];
-  const lojas = { amazon: { url: `https://www.amazon.com.br/dp/${asin}?tag=oquedar-20`, nota, avaliacoes: av, ...(preco ? { preco } : {}), verificado: HOJE } };
+  const lojas = { amazon: { url: `https://www.amazon.com.br/dp/${asin}?tag=oquedar09-20`, nota, avaliacoes: av, ...(preco ? { preco } : {}), verificado: HOJE } };
   // ML sem nota: a busca não traz o número de avaliações; Shopee não mostra nota no portal de afiliados
   if (R.ml[n]) lojas.ml = { url: R.ml[n][1], preco: R.ml[n][0], verificado: HOJE };
   if (R.shopee[n]) lojas.shopee = { url: R.shopee[n][1], preco: R.shopee[n][0], verificado: HOJE };

@@ -409,3 +409,8 @@ Decisões da A.G.: fotos da Amazon podem ter o fundo retirado; preços atualizad
 ## Post de cerveja atrasado e disparo externo (23/11/2026)
 - O robô agendado do GitHub rodou às 5h19 e depois pulou as execuções até a tarde; o post de cerveja (7h) não saiu. Publicado às 15h50 com o envio dos commits pendentes (todo envio dispara o robô).
 - Para não depender do agendamento do GitHub: disparo externo pelo cron-job.org a cada 15 minutos, chamando o robô pela API do GitHub (workflow_dispatch) com uma chave que só pode acionar o robô. Passo a passo em `conteudo/DISPARO-EXTERNO.md`; a A.G. cria a conta e a chave.
+
+## Nova conta de Associados Amazon (23/11/2026)
+- A Amazon encerrou a conta antiga (tag oquedar-20) por não ter 3 vendas em 180 dias. Nova inscrição feita em 23/11/2026 com os dois sites (oquedar.com e listadobom.com.br); o ID "oquedar" já existia e a Amazon deu **oquedar09-20**. Prazo novo: 3 vendas qualificadas até cerca de 22/05/2027 (compras da própria A.G. ou de parentes não contam).
+- Links trocados em todo o O que dar?: 161 com tag=oquedar-20 passaram para tag=oquedar09-20, e os links curtos amzn.to e link.amazon dos posts antigos (67 diferentes, 408 ocorrências entre posts, catálogo e arquivos de pesquisa) viraram https://www.amazon.com.br/dp/<código>?tag=oquedar09-20 (código lido do redirecionamento de cada link curto). Novos posts usam oquedar09-20.
+- Lista do Bom: links ainda não trocados (o site não está nesta pasta).

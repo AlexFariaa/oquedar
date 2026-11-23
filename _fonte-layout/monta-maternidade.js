@@ -40,7 +40,7 @@ const ed = { // perfil, prós, contras (a partir dos dados de cada produto)
 const CORES = ['lavanda', 'rosa', 'pessego'];
 const produtos = Object.keys(R).map(Number).sort((a, b) => a - b).map((n, i) => {
   const r = R[n], lojas = {};
-  lojas.amazon = { url: `https://www.amazon.com.br/dp/${r.asin}?tag=oquedar-20`, nota: r.nota, avaliacoes: r.av, ...(r.preco ? { preco: r.preco } : {}), verificado: HOJE };
+  lojas.amazon = { url: `https://www.amazon.com.br/dp/${r.asin}?tag=oquedar09-20`, nota: r.nota, avaliacoes: r.av, ...(r.preco ? { preco: r.preco } : {}), verificado: HOJE };
   if (r.ml && r.ml.afiliado) lojas.ml = { url: r.ml.afiliado, ...(r.ml.preco ? { preco: r.ml.preco } : {}), verificado: HOJE, ...(r.ml.nota ? { nota: r.ml.nota } : {}), ...(r.ml.av ? { avaliacoes: r.ml.av } : {}) };
   if (r.shopee && r.shopee.afiliado) lojas.shopee = { url: r.shopee.afiliado, preco: r.shopee.preco, verificado: HOJE };
   return { nome: r.nome, img: `imagens/posts/presente-para-maternidade/${arq[n]}.webp`, alt: alt[n], cheia: false, cor: CORES[i % 3], perfil: ed[n][0], pros: ed[n][1], contras: ed[n][2], lojas };

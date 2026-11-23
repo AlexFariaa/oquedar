@@ -44,7 +44,7 @@ const L = [
 const CORES = ['lavanda', 'rosa', 'pessego'];
 const produtos = L.map(([o, nome, perfil, pros, contras, alt], i) => {
   const lojas = {}, a = R.amazon[o], m = R.ml[o], s = R.shopee[o];
-  if (a) { lojas.amazon = { url: `https://www.amazon.com.br/dp/${a[0]}?tag=oquedar-20`, verificado: HOJE }; if (a[1]) lojas.amazon.preco = a[1]; if (a[2]) Object.assign(lojas.amazon, { nota: a[2], avaliacoes: a[3] }); }
+  if (a) { lojas.amazon = { url: `https://www.amazon.com.br/dp/${a[0]}?tag=oquedar09-20`, verificado: HOJE }; if (a[1]) lojas.amazon.preco = a[1]; if (a[2]) Object.assign(lojas.amazon, { nota: a[2], avaliacoes: a[3] }); }
   // ML: nota só com 20+ avaliações (uma nota 5,0 com 1 avaliação passaria na frente da Amazon)
   if (m) { lojas.ml = { url: m[1], preco: m[0], verificado: HOJE }; if (m[4] && m[5] >= 20) Object.assign(lojas.ml, { nota: m[4], avaliacoes: m[5] }); }
   if (s) lojas.shopee = { url: s[1], preco: s[0], verificado: HOJE };
