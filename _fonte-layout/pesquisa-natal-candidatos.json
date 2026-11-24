@@ -1,0 +1,318 @@
+{
+ "data": "2026-11-24",
+ "formato": "[n, asin, nome, preço, nota, avaliações, imagem]",
+ "grupos": [
+  [
+   "Até R$ 100",
+   [
+    [
+     1,
+     "B07FFKS5KH",
+     "Kit Banho Diário Chá Branco e Gengibre",
+     79.99,
+     4.9,
+     621,
+     "91v6n9aKYGL"
+    ],
+    [
+     2,
+     "B0FWMJ64SP",
+     "Kit Granado Terrapeutics, Trio de Gengibre Revigorante",
+     71.9,
+     4.8,
+     86,
+     "514PFSKQwWL"
+    ],
+    [
+     3,
+     "B0D5BZ3JQ3",
+     "Luminária articulada de mesa abajur Pixar",
+     69.25,
+     4.7,
+     576,
+     "51X0Zzr3AOL"
+    ],
+    [
+     4,
+     "B0DKZ9JKXK",
+     "Brinox cafeteira italiana 6 xícaras Verona",
+     94.99,
+     4.6,
+     501,
+     "51ZGDz-ZJ5L"
+    ],
+    [
+     5,
+     "B0GK9RDPJM",
+     "Jogo 6 taças de vinho 440 ml em cristal, haste longa",
+     75.42,
+     4.6,
+     217,
+     "61nimcBdOoL"
+    ],
+    [
+     6,
+     "B0CJ9R95CC",
+     "Kit caipirinha profissional, coqueteleira 500 ml, 5 peças inox",
+     53.97,
+     4.8,
+     113,
+     "61fnuNZhsdL"
+    ],
+    [
+     7,
+     "B0DQF3SFQQ",
+     "Kit café especial em grãos Reserva Gourmet, 3 sabores",
+     71.25,
+     4.6,
+     69,
+     "71P5Ey1xzLL"
+    ],
+    [
+     8,
+     "B07WR4TP9W",
+     "Jogo de facas Tramontina Plenus",
+     62.54,
+     4.9,
+     272,
+     "61XYJxq-3PL"
+    ],
+    [
+     9,
+     "B0FRFR6X83",
+     "Manta 100% algodão para sofá 240 x 180 cm",
+     59.74,
+     4.5,
+     493,
+     "71xq7BKuDRL"
+    ],
+    [
+     10,
+     "B0DVMQVVDY",
+     "Philips fone sem fio TWS TAT1109",
+     89,
+     4.6,
+     106,
+     "519bjoeFBTL"
+    ]
+   ]
+  ],
+  [
+   "R$ 100 a 200",
+   [
+    [
+     11,
+     "B0GL3JXLRY",
+     "Stanley copo Everyday Tumbler com tampa",
+     104.5,
+     4.8,
+     190,
+     "51t0gnSFNDL"
+    ],
+    [
+     12,
+     "B0GHP7RCVF",
+     "Principia kit limpeza e hidratação facial completo",
+     102.75,
+     4.8,
+     318,
+     "516Qs2ugFbL"
+    ],
+    [
+     13,
+     "B0FF9X7RYZ",
+     "Kit de coquetel profissional com 26 peças",
+     112.33,
+     4.7,
+     104,
+     "71G7tQs3YKL"
+    ],
+    [
+     14,
+     "B0FDK26ZPV",
+     "Lumai kit tábua de frios de bambu premium com petisqueiras",
+     118.82,
+     4.9,
+     110,
+     "61DPNKsZn2L"
+    ],
+    [
+     15,
+     "B0B5LPPZVQ",
+     "Jogo de 6 taças para champanhe em cristal",
+     119,
+     4.7,
+     276,
+     "31Gcs0i9egL"
+    ],
+    [
+     16,
+     "B0D45QCBF7",
+     "Huawei FreeBuds SE 2 fone sem fio",
+     119,
+     4.7,
+     135,
+     "41t-GpTeQuL"
+    ],
+    [
+     17,
+     "B0BNCBLHBM",
+     "Kit Café Gourmet Baggio chocolate com avelã e trufado",
+     126.97,
+     4.7,
+     184,
+     "71LhZ6i6x0L"
+    ],
+    [
+     18,
+     "B0H5TH4QHW",
+     "Jogo com 6 taças de vinho tinto em cristal ecológico",
+     132.99,
+     4.5,
+     208,
+     "71sBZ4yB0XL"
+    ],
+    [
+     19,
+     "B0HF1N8QGR",
+     "Stanley garrafa térmica Quick Flip 710 ml",
+     135.85,
+     4.8,
+     142,
+     "51XjLYM-leL"
+    ],
+    [
+     20,
+     "B0DJ19VGDD",
+     "LEGO Botanicals Mini Orquídea 10343",
+     137.12,
+     4.8,
+     57,
+     "71p7JAoI7hL"
+    ],
+    [
+     21,
+     "B0CV2KSL3V",
+     "LEGO Botanicals Crisântemo 10368",
+     143.43,
+     4.9,
+     45,
+     "71CQditw8GL"
+    ],
+    [
+     22,
+     "B0FPNXM7TF",
+     "JBL Go Essential caixa de som bluetooth",
+     154.85,
+     4.8,
+     808,
+     "71cWjfs8G3L"
+    ],
+    [
+     23,
+     "B082MT1WX6",
+     "Chá Twinings, kit com 100 sachês",
+     160.45,
+     4.8,
+     373,
+     "71dD2S5Cn+L"
+    ],
+    [
+     24,
+     "B0GM1LSHQF",
+     "JBL Tune 530BT fone over-ear sem fio",
+     163.3,
+     4.8,
+     917,
+     "61TNh5cVcsL"
+    ],
+    [
+     25,
+     "B0DHL63KWK",
+     "JBL Wave Buds fone sem fio",
+     188.1,
+     4.6,
+     91,
+     "414+kOLlS5L"
+    ]
+   ]
+  ],
+  [
+   "R$ 200 a 400",
+   [
+    [
+     26,
+     "B0D3N7TRJ4",
+     "Kit caixa de madeira com 60 sachês de chás",
+     233.69,
+     4.8,
+     117,
+     "41gSrdD2F+L"
+    ],
+    [
+     27,
+     "B0H1F1VKJT",
+     "JBL Go 5 caixa de som bluetooth à prova d'água",
+     266,
+     4.9,
+     317,
+     "71iEBIqbzkL"
+    ],
+    [
+     28,
+     "B094SK425Z",
+     "Electrolux kit 6 facas de aço inox com afiador",
+     289.9,
+     4.8,
+     261,
+     "51M9eAP6oYL"
+    ],
+    [
+     29,
+     "B0CX43FY4T",
+     "Overmont panela holandesa de ferro fundido esmaltada",
+     298.62,
+     4.6,
+     114,
+     "71ArdkSvPhL"
+    ],
+    [
+     30,
+     "B0D9B8SHKL",
+     "Moldura digital WiFi 10,1 polegadas",
+     310.39,
+     4.5,
+     174,
+     "71aftImUerL"
+    ],
+    [
+     31,
+     "B0CDCL6Y5T",
+     "LEGO Icons 10329 Plantas em Miniatura",
+     317.2,
+     4.9,
+     63,
+     "81SEw3QMkkL"
+    ],
+    [
+     32,
+     "B00004RFRU",
+     "Bialetti Moka Express 6 xícaras",
+     319.67,
+     4.8,
+     862,
+     "616WtXLQ9jL"
+    ],
+    [
+     33,
+     "B0FVBH3L33",
+     "JBL Grip caixa de som bluetooth 16 W",
+     399.84,
+     4.7,
+     432,
+     "61v5T6gMkjL"
+    ]
+   ]
+  ]
+ ]
+}

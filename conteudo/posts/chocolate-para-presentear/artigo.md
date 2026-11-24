@@ -272,4 +272,4 @@ Existem chocolates formulados sem açúcar, como a opção de bombons Soul Good 
 
 Uma caixa de bombons conhecida, uma barra com ingredientes diferentes, uma cesta pronta ou um kit de fondue: existem muitas maneiras de transformar chocolate em presente. A escolha fica mais fácil quando você considera o gosto da pessoa, a ocasião e o tipo de experiência que gostaria de proporcionar.
 
-Seja para o Natal, o amigo secreto, um aniversário ou uma visita, o importante é escolher algo que tenha a ver com quem vai receber. Assim, até um presente feito de chocolate pode fugir do óbvio e mostrar que você pensou naquela pessoa. Para outros gostos e hobbies, veja mais ideias de presente por interesse.
+Seja para o Natal, o amigo secreto, um aniversário ou uma visita, o importante é escolher algo que tenha a ver com quem vai receber. Assim, até um presente feito de chocolate pode fugir do óbvio e mostrar que você pensou naquela pessoa. Para outros gostos e hobbies, veja mais ideias de presente por interesse. Para outras opções de fim de ano, confira nossa sugestão de presente de Natal por faixa de preço.

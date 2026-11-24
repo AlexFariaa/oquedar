@@ -26,3 +26,4 @@ Fotos do Magnific baixadas com a conta da A.G. em 19/11/2026 (licença gratuita:
 | capa-presentes-para-quem-gosta-de-cerveja.webp | magnific | https://www.magnific.com/br/fotos-gratis/pessoas-desfrutando-de-bebida-de-guarana-ao-ar-livre_66104282.htm |
 | capa-presente-para-amigo-secreto-criativo.webp | magnific (zinkevych) | https://www.magnific.com/br/fotos-gratis/homem-com-presente-cobrindo-os-olhos-para-mulher_22336181.htm |
 | capa-chocolate-para-presentear.webp | Lummi (SHHO), uso livre | https://www.lummi.ai/photo/assorted-chocolates-display-gnu_q |
+| capa-sugestao-de-presente-de-natal.webp | Lummi (Patrick Venegas), uso livre | https://www.lummi.ai/photo/festive-holiday-scene-sveag |

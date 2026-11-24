@@ -24,7 +24,7 @@ Regra de ouro: **um post por intenção**. Várias palavras do mesmo assunto ("d
 - **seg 23/11**: presentes para quem gosta de cerveja (590, kd 6): **pronto e agendado (23/11, 7h)**
 - **ter 24/11**: presente para amigo secreto criativo / dicas de presente amigo secreto (590, kd 7) + lembrancinha unissex (590): **pronto e agendado (24/11, 7h)**
 - **qua 25/11**: chocolate para presentear (sua) + chocolate para dar de presente (480) + amigo chocolate criativo (390): **pronto e agendado (25/11, 7h)**
-- **qui 26/11**: sugestão de presente de Natal / ideias presente natal (590, kd 8)
+- **qui 26/11**: sugestão de presente de Natal / ideias presente natal (590, kd 8): **pronto e agendado (26/11, 7h)**; "dica de lembrancinha de Natal" (590, kd 9) ficou de fora, para outro post
 - **sex 27/11**: presente de Natal para amiga (590, kd 9) + presente para amiga secreta criativo (590)
 
 ### Semana 30/11 a 6/12

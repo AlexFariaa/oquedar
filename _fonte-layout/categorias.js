@@ -20,7 +20,7 @@ const CATS = [
 ];
 // assuntos de exemplo só na categoria Interesse (aprovado no layout)
 const SUBS = { interesse: [['todos', 'Todos'], ['esportes', 'Esportes'], ['games', 'Games'], ['musica', 'Música'], ['cafe', 'Café'], ['bebidas', 'Bebidas'], ['chocolate', 'Chocolate e doces'], ['leitura', 'Leitura'], ['cozinha', 'Cozinha']], ocasiao: [['todos', 'Todos'], ['natal', 'Natal e amigo secreto'], ['bebe', 'Chegada do bebê']] };
-const subDe = { 'presentes-para-quem-gosta-de-basquete.html': 'esportes', 'presente-para-quem-gosta-de-correr.html': 'esportes', 'presentes-para-quem-gosta-de-cerveja.html': 'bebidas', 'presente-para-amigo-secreto-criativo.html': 'natal', 'presente-para-maternidade.html': 'bebe', 'chocolate-para-presentear.html': { interesse: 'chocolate', ocasiao: 'natal' } };
+const subDe = { 'presentes-para-quem-gosta-de-basquete.html': 'esportes', 'presente-para-quem-gosta-de-correr.html': 'esportes', 'presentes-para-quem-gosta-de-cerveja.html': 'bebidas', 'presente-para-amigo-secreto-criativo.html': 'natal', 'presente-para-maternidade.html': 'bebe', 'chocolate-para-presentear.html': { interesse: 'chocolate', ocasiao: 'natal' }, 'sugestao-de-presente-de-natal.html': 'natal' };
 // um post em duas categorias pode ter um assunto em cada uma
 const subNa = (u, cat) => { const v = subDe[u]; return v && typeof v === 'object' ? v[cat] : v; };
 const { ofertasDe, reais: reaisO } = require('./ofertas.js');

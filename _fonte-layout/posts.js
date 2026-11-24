@@ -53,7 +53,7 @@ for (const P0 of pub) {
   const D = {
     slug, arquivo: slug + '.html', pre: P0.pre || '',
     titleTag: P0.titleTagCompleto || (P0.titleTag || post.h1) + ' · O que dar?', grupos, desc: P0.desc || (post.intro[0] || post.h1).slice(0, 155),
-    h1: post.h1, dataTxt: dataLonga(P0.data), leitura: Math.max(3, Math.round(post.palavras / 200)),
+    h1: post.h1, dataTxt: dataLonga(P0.data), dataIso: P0.publicar || P0.data || '', leitura: Math.max(3, Math.round(post.palavras / 200)),
     trilha: [CATNOME[P0.trilha] || P0.trilha, `categoria-${P0.trilha}.html`], trilhaAtual: P0.trilhaAtual,
     capa: P0.capa, fatos: P0.fatos, intro: post.intro, produtos,
     pouco: (P0.pouco || []).map(([i, selo, porque], j) => ({ i, selo, porque, cor: CORES[j] })),

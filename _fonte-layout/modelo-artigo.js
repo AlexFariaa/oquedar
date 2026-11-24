@@ -172,7 +172,7 @@ ${D.fatos.map(f => `              <li><b>${f[0]}</b><span>${f[1]}</span></li>`).
         <details class="indice-movel"><summary>Neste artigo</summary><ol>${listaIndice}</ol></details>
 
         <section id="intro" class="intro leitura" aria-label="Introdução">
-          ${D.intro.map(x => `<p>${esc(x)}</p>`).join('\n          ')}
+          ${D.intro.map(x => linka(`<p>${esc(x)}</p>`)).join('\n          ')}
         </section>
 
         <section class="secao-art" id="rapido" aria-labelledby="t-rapido">
@@ -380,13 +380,26 @@ ${rodape}
       { '@type': 'ListItem', position: 1, name: 'Início', item: SITE + '/' },
       { '@type': 'ListItem', position: 2, name: D.trilha[0], item: `${SITE}/category/${D.trilha[1].replace(/^categoria-|\.html$/g, '')}/` },
       { '@type': 'ListItem', position: 3, name: D.trilhaAtual, item: urlPost }] },
-    { '@context': 'https://schema.org', '@type': 'ItemList', name: D.h1, numberOfItems: N, itemListElement: P.map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: nomes[i], url: `${urlPost}#p-${i + 1}`, ...(p.img ? { image: abs(p.img) } : {}) })) },
+    // lista de presentes: cada item é um Product com a foto como ImageObject (legenda = alt) e a faixa de preço entre as lojas.
+    // Sem aggregateRating: as notas vêm das lojas, não de usuários deste site (o Google não aceita nota de terceiros).
+    { '@context': 'https://schema.org', '@type': 'ItemList', name: D.h1, numberOfItems: N, itemListElement: P.map((p, i) => {
+      const O = ofertasDe(p), pr = O.pr.map(o => o.preco), desc = (pTxt(p.itens)[0] || '').slice(0, 300);
+      const prod = { '@type': 'Product', name: nomes[i], url: `${urlPost}#p-${i + 1}`, ...(desc ? { description: desc } : {}),
+        ...(p.img ? { image: { '@type': 'ImageObject', url: abs(p.img), contentUrl: abs(p.img), name: nomes[i], caption: p.alt } } : {}),
+        ...(pr.length ? { offers: { '@type': 'AggregateOffer', priceCurrency: 'BRL', lowPrice: Math.min(...pr).toFixed(2), highPrice: Math.max(...pr).toFixed(2), offerCount: pr.length } } : {}) };
+      return { '@type': 'ListItem', position: i + 1, name: nomes[i], url: `${urlPost}#p-${i + 1}`, item: prod };
+    }) },
   ];
+  // artigo: título, imagem, datas (publicação e última conferência de preços) e quem publica. Sem autor pessoa, a pedido da A.G.
+  const ORG = { '@type': 'Organization', name: 'O que dar?', url: SITE + '/', logo: { '@type': 'ImageObject', url: SITE + '/imagens/icone.png' } };
+  const ultima = P.map(p => ofertasDe(p).verificado).filter(Boolean).sort().pop();
+  if (D.dataIso) ld.push({ '@context': 'https://schema.org', '@type': 'Article', headline: D.h1.slice(0, 110), description: D.desc, mainEntityOfPage: urlPost, inLanguage: 'pt-BR',
+    ...(D.capa && D.capa.src ? { image: [abs(D.capa.src)] } : {}), datePublished: D.dataIso, dateModified: ultima && ultima.slice(0, 10) > D.dataIso.slice(0, 10) ? ultima.slice(0, 10) : D.dataIso, author: ORG, publisher: ORG });
   if (faqPares.length) ld.push({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqPares.map(([q, r]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: r.join(' ') } })) });
   // capa como imagem principal da página (Google Imagens/Discover) e como imagem de compartilhamento
   if (D.capa && D.capa.src) {
     const capaAbs = abs(D.capa.src), dims = D.capa.largura ? { width: D.capa.largura, height: D.capa.altura } : {};
-    ld.push({ '@context': 'https://schema.org', '@type': 'WebPage', name: D.titleTag, url: urlPost, description: D.desc, primaryImageOfPage: { '@type': 'ImageObject', url: capaAbs, caption: D.capa.alt, ...dims } });
+    ld.push({ '@context': 'https://schema.org', '@type': 'WebPage', name: D.titleTag, url: urlPost, description: D.desc, primaryImageOfPage: { '@type': 'ImageObject', url: capaAbs, contentUrl: capaAbs, caption: D.capa.alt, ...(D.capa.credito ? { creditText: D.capa.credito, creator: { '@type': 'Person', name: D.capa.autor } } : {}), ...dims } });
     html = html.replace(/<meta property="og:type" content="website">/, '<meta property="og:type" content="article">');
     // WhatsApp e Facebook não leem .avif: nesses posts o compartilhamento continua com a imagem padrão
     if (!/\.avif$/i.test(D.capa.src)) html = html.replace(/<meta property="og:image" content="[^"]*">\n<meta property="og:image:width" content="\d+">\n<meta property="og:image:height" content="\d+">/,
