@@ -1,0 +1,38 @@
+# O que dar? · site estático (gerado por _fonte-layout/final.js)
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+# sempre https e sem www
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://oquedar.com%{REQUEST_URI} [L,R=301]
+# endereço de pasta sem a barra final -> com barra
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{DOCUMENT_ROOT}/$1/index.html -f
+RewriteRule ^(.+[^/])$ /$1/ [L,R=301]
+# endereços antigos do WordPress
+RewriteRule ^feed/?$ / [L,R=301]
+RewriteRule ^tag/(mulher|homem)/?$ /category/genero/ [L,R=301]
+RewriteRule ^tag/namorado/?$ /category/namoro/ [L,R=301]
+RewriteRule ^tag/(amiga|mae)/?$ /category/relacionamento/ [L,R=301]
+RewriteRule ^tag/[^/]+/?$ /category/interesse/ [L,R=301]
+RewriteRule ^category/sem-categoria/?$ / [L,R=301]
+RewriteRule ^author/[^/]+/?$ /sobre-nos/ [L,R=301]
+</IfModule>
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/avif "access plus 1 year"
+ExpiresByType image/webp "access plus 1 year"
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType text/html "access plus 10 minutes"
+</IfModule>
+
+<IfModule mod_mime.c>
+AddType image/avif .avif
+AddType image/webp .webp
+</IfModule>
